@@ -1,9 +1,9 @@
 module.exports = {
-  // publicPath: '/taiwanMusic2021/dist/',
+  publicPath: '/taiwanMusic2022/dist/',
   // publicPath: process.env.NODE_ENV === 'production'
   //   ? 'dist/'
   //   : '/',
-  publicPath: '/2022/',
+  // publicPath: '/2022/',
   devServer: {
     port: 8822, // 端口
   },
