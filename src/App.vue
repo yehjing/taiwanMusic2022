@@ -10,12 +10,12 @@
       <nav>
         <ul>
           <li><router-link :to="'/introduction'">序</router-link></li>
-          <li><router-link :to="'/idea'">編輯理念<br>與體例說明</router-link></li>
+          <li><router-link :to="'/idea'">緒論</router-link></li>
           <li><router-link :to="'/observed'">年度活動<br>觀察與評介</router-link></li>
-          <li><router-link :to="'/comment'">文化評論</router-link></li>
+          <li><router-link :to="'/comment'">結論</router-link></li>
           <li><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
           <li><router-link :to="'/indexDir'">附錄</router-link></li>
-          <li><router-link :to="'/download'">2021臺灣音樂年鑑<br>全文下載</router-link></li>
+          <li><router-link :to="'/download'">2022臺灣音樂年鑑<br>全文下載</router-link></li>
         </ul>
       </nav>
       <MobileHomeNav v-show="isHome"/>
@@ -139,7 +139,7 @@ body{
   // background: linear-gradient(to bottom, #a85757, #b96565);
   // background: #AA8E8E;
   // background: linear-gradient(to bottom, #4F0A5D , #AC65BB);
-  background: linear-gradient(0deg,#65BBAF,#0A525D);
+  background: linear-gradient(0deg,#364011,#364011);
 
 }
 nav .router-link-active{

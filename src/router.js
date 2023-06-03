@@ -7,8 +7,8 @@ import Home from './components/home';
 import Know from './components/know';
 // intro
 import Introduction from './components/introduction';
-import Introduction_1 from './components/introduction/intro/intro_1';
-import Introduction_2 from '@/components/introduction/intro/intro_2';
+// import Introduction_1 from './components/introduction/intro/intro_1';
+// import Introduction_2 from '@/components/introduction/intro/intro_2';
 import Introduction_3 from '@/components/introduction/intro/intro_3';
 // idea
 import Idea from '@/components/idea';
@@ -121,30 +121,30 @@ export default new VueRouter({
       path: '/introduction',
       component: Introduction,
       children: [
-        {
-          name: '國立傳統藝術中心主任序',
-          path: '/',
-          component: Introduction_1,
-        },
-        {
-          name: '臺灣音樂館兼代館主任序',
-          path: 'introduction_2',
-          component: Introduction_2,
-        },
+        // {
+        //   name: '國立傳統藝術中心主任序',
+        //   path: '/',
+        //   component: Introduction_1,
+        // },
+        // {
+        //   name: '臺灣音樂館兼代館主任序',
+        //   path: 'introduction_2',
+        //   component: Introduction_2,
+        // },
         {
           name: '主編序',
-          path: 'introduction_3',
+          path: '/',
           component: Introduction_3,
         },
       ],
     },
     {
-      name: '編輯理念與體例說明',
+      name: '緒論',
       path: '/idea',
       component: Idea,
       children: [
         {
-          name: '編輯理念與體例說明',
+          name: '緒論',
           path: '/',
           component: Idea_1,
         },
@@ -257,7 +257,7 @@ export default new VueRouter({
       ],
     },
     {
-      name: '文化評論',
+      name: '結論',
       path: '/comment',
       component: Comment,
       children: [
@@ -524,13 +524,13 @@ export default new VueRouter({
       ],
     },
     {
-      name: '2021臺灣音樂年鑑全文下載',
+      name: '2022臺灣音樂年鑑全文下載',
       path: '/download',
       component: Download,
       children: [
         {
           path: '/',
-          name: '2021臺灣音樂年鑑全文下載',
+          name: '2022臺灣音樂年鑑全文下載',
           component: Download_1,
         },
       ],

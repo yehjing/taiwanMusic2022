@@ -1,12 +1,12 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
+      <!-- <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
         國立傳統藝術中心主任序
       </div>
       <div class="middleItem noLeaf" :class="activeName === 'introduction_2' ? 'active' :''" @click="clickLink('introduction_2')">
         臺灣音樂館兼代館主任序
-      </div>
+      </div> -->
       <div class="middleItem noLeaf" :class="activeName === 'introduction_3' ? 'active' :''" @click="clickLink('introduction_3')">
         主編序
       </div>
@@ -29,7 +29,7 @@ export default {
   },
   data() {
     return {
-      activeName: '',
+      activeName: 'introduction_3',
     };
   },
   created() {

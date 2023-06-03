@@ -53,9 +53,9 @@
       </div>
       <ul>
         <li @click="hiddenMenu"><router-link :to="'/introduction'">序</router-link></li>
-        <li @click="hiddenMenu"><router-link :to="'/idea'">編輯理念<br>與體例說明</router-link></li>
+        <li @click="hiddenMenu"><router-link :to="'/idea'">緒論</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/observed'">年度活動<br>觀察與評介</router-link></li>
-        <li @click="hiddenMenu"><router-link :to="'/comment'">文化評論</router-link></li>
+        <li @click="hiddenMenu"><router-link :to="'/comment'">結論</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/indexDir'">附錄</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/download'">2021臺灣音樂年鑑<br>全文下載</router-link></li>
@@ -153,7 +153,7 @@ export default {
       left: 0;
       width: 60%;
       height: 100vh;
-      background: #79bab6;
+      background: #bdd661;
       padding: 10% 4% 0 4%;
       z-index: 2;
       // overflow: hidden;

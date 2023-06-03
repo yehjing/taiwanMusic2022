@@ -1,7 +1,7 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem active noLeaf" @click="clickLink('')">編輯理念與體例說明</div>
+      <div class="middleItem active noLeaf" @click="clickLink('')">緒論</div>
     </aside>
     <div class="viewRight">
       <div>

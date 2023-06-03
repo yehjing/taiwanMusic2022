@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>編輯理念與體例說明</h2>
+      <h2>緒論</h2>
       <!-- <span>2019 / 04 / 06</span> -->
     </div>
     <hr />
@@ -113,19 +113,19 @@
       <p style="margin:0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《2021臺灣音樂年鑑》之章節架構如下：</p>
       <p style="margin:0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;序</p>
       <ul style="list-style:none">
-        <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;編輯理念與體例說明</li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;緒論</li>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年度活動觀察與評介</li>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳統音樂篇</li>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;藝術（當代創作）音樂篇</li>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;流行音樂篇</li>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跨界音樂與其他篇</li>
-        <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文化評論</li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;結論</li>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年度活動影像精選</li>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;附錄</li>
       </ul>
       <br />
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;茲將各章節所涵蓋之內容簡要說明如下：</p>
-      <h4>一、編輯理念與體例說明</h4>
+      <h4>一、緒論</h4>
       <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《2021臺灣音樂年鑑》的編輯理念與體例，包含族群分類、編輯凡例等，皆於此篇說明。
       </p>
