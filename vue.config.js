@@ -3,7 +3,7 @@ module.exports = {
   // publicPath: process.env.NODE_ENV === 'production'
   //   ? 'dist/'
   //   : '/',
-  publicPath: '/2021/',
+  publicPath: '/2022/',
   devServer: {
     port: 8822, // 端口
   },
