@@ -100,9 +100,7 @@
             <p>02-2556-2964</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/和鳴南樂社-He-Ming-Nanguan-Ensemble-南管館閣-175327956220495/
-            </p>
+            <a target="_" href="https://www.facebook.com/和鳴南樂社-He-Ming-Nanguan-Ensemble-南管館閣-175327956220495/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -131,9 +129,7 @@
             <p>02-2591-1302</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/台北市閩南樂府弦管研究會-2196238770415810/
-            </p>
+            <a target="_" href="https://www.facebook.com/台北市閩南樂府弦管研究會-2196238770415810/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -162,7 +158,7 @@
             <p>臺北市大同區承德路三段54號4樓（通訊地址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HuaSiengNanGuan/</p>
+            <a target="_" href="https://www.facebook.com/HuaSiengNanGuan/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -190,7 +186,7 @@
             <p>02-2557-8907（傳真）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NanguanXinXin/</p>
+            <a target="_" href="https://www.facebook.com/NanguanXinXin/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -214,8 +210,9 @@
             <p>臺北市大同區迪化街一段21號大稻埕戲苑7樓排練教室（排練）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/gangatsui</p>
-            <p>gangatsui@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/gangatsui">連結</a>
+            <br>
+            <a href="mailto:gangatsui@gmail.com">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -241,7 +238,7 @@
             <p>無固定地址</p>
           </td>
           <td>
-            <p>https://www.facebook.com/qhnanguan/</p>
+            <a target="_" href="https://www.facebook.com/qhnanguan/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -263,12 +260,9 @@
             <p>臺北市萬華區大埔街8號4樓（館址）</p>
           </td>
           <td>
-            <p>
-              <a href="https://www.facebook.com/南樂貞遠社-101867654679195"
-                >https://www.facebook.com/南樂貞遠社-101867654679195</a
-              >
-            </p>
-            <p>zx456806@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/南樂貞遠社-101867654679195">連結</a>
+            <br>
+            <a href="mailto:zx456806@gmail.com">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -329,9 +323,7 @@
             <p>宜蘭縣五結鄉五結路三段718號（聯絡地址）</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/漢唐樂府-HanTang-YueFu-184122174945933/
-            </p>
+            <a target="_" href="https://www.facebook.com/漢唐樂府-HanTang-YueFu-184122174945933/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -445,7 +437,7 @@
             <p>04-26236796</p>
           </td>
           <td>
-            <p>https://www.facebook.com/合和藝苑-579899192117301/</p>
+            <a target="_" href="https://www.facebook.com/合和藝苑-579899192117301/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -472,7 +464,7 @@
             <p>臺中市南區台中路182巷2號（聯絡地址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100002456890010</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100002456890010">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -520,7 +512,7 @@
             <p>04-2623-2422</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Taichung.CHING.YA.YUEH.FU/</p>
+            <a target="_" href="https://www.facebook.com/Taichung.CHING.YA.YUEH.FU/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -545,7 +537,7 @@
             <p>臺中市南屯區水碓巷1號04-04-2479-2217</p>
           </td>
           <td>
-            <p>https://www.facebook.com/liuchini1103</p>
+            <a target="_" href="https://www.facebook.com/liuchini1103">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -605,10 +597,9 @@
             <p>04-775-6077</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/鹿港永樂絃管南管樂團-104073238115940/
-            </p>
-            <p>ug61837361636@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/鹿港永樂絃管南管樂團-104073238115940/">連結</a>
+            <br>
+            <a href="mailto:ug61837361636@gmail.com">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -636,7 +627,7 @@
             <p>04-777-5514</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/618296004968390/</p>
+            <a target="_" href="https://www.facebook.com/groups/618296004968390/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -661,7 +652,7 @@
             <p>04-777-5660</p>
           </td>
           <td>
-            <p>https://www.facebook.com/鹿港遏雲齋南管樂團-180173595360938/</p>
+            <a target="_" href="https://www.facebook.com/鹿港遏雲齋南管樂團-180173595360938/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -686,7 +677,7 @@
             <p>04-781-1299</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LKnankuan/</p>
+            <a target="_" href="https://www.facebook.com/LKnankuan/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -729,7 +720,7 @@
             <p>雲林縣元長鄉元北路32之20號（長北村集會所活動中心）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/大漢閣南管樂團-1843602999005949/</p>
+            <a target="_" href="https://www.facebook.com/大漢閣南管樂團-1843602999005949/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -748,7 +739,7 @@
             <p>雲林縣北港鎮公館路5 號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/nanguan.fen.ya/</p>
+            <a target="_" href="https://www.facebook.com/nanguan.fen.ya/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -777,7 +768,7 @@
             <p>05-783-4085</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/集斌社-274917685886071/</p>
+            <a target="_" href="https://www.facebook.com/pg/集斌社-274917685886071/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -802,7 +793,7 @@
             <p>05-284-3576（沈怡秀團長）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/鳳聲閣-559488677847210/</p>
+            <a target="_" href="https://www.facebook.com/pg/鳳聲閣-559488677847210/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -827,7 +818,7 @@
             <p>06-263-3929</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tainannanshan/</p>
+            <a target="_" href="https://www.facebook.com/tainannanshan/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -869,7 +860,7 @@
             <p>臺南市安定區海寮110號（海寮普陀寺）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/海寮南樂清和社-1555814204633359/</p>
+            <a target="_" href="https://www.facebook.com/海寮南樂清和社-1555814204633359/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -895,7 +886,7 @@
             <p>06-228-9473</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TNtsinsingsia/</p>
+            <a target="_" href="https://www.facebook.com/TNtsinsingsia/">連結</a>
             <p>Instagram：臺南振聲社</p>
           </td>
           <td>
@@ -924,7 +915,7 @@
             <p>06-262-2462</p>
           </td>
           <td>
-            <p>https://www.facebook.com/喜聲社-664447443654571/</p>
+            <a target="_" href="https://www.facebook.com/喜聲社-664447443654571/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -944,7 +935,7 @@
             <p>06-262-0536</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Wanli.Lamim/</p>
+            <a target="_" href="https://www.facebook.com/Wanli.Lamim/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -966,7 +957,7 @@
             <p>07-667-1400</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100064192566070</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100064192566070">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -1008,7 +999,7 @@
             <p>高雄市茄萣區港東街111號（茄萣金鑾宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/225183657584348/</p>
+            <a target="_" href="https://www.facebook.com/groups/225183657584348/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1028,7 +1019,7 @@
             <p>07-690-4226</p>
           </td>
           <td>
-            <p>https://www.facebook.com/QiedingNanguan</p>
+            <a target="_" href="https://www.facebook.com/QiedingNanguan">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1068,7 +1059,7 @@
             <p>07-698-9982</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100088399183146</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100088399183146">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -1092,7 +1083,7 @@
             <p>07-351-4719</p>
           </td>
           <td>
-            <p>https://www.facebook.com/GuangYiNanYue/</p>
+            <a target="_" href="https://www.facebook.com/GuangYiNanYue/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1117,8 +1108,9 @@
             <p>臺東縣臺東市博愛路421號2樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/139815092737543/</p>
-            <p>https://mypaper.pchome.com.tw/catzoo638</p>
+            <a target="_" href="https://www.facebook.com/groups/139815092737543/">連結</a>
+            <br>
+            <a target="_" href="https://mypaper.pchome.com.tw/catzoo638">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1166,7 +1158,7 @@
             <p>金門縣金沙鎮三山村碧山1號（館址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/200638373879957</p>
+            <a target="_" href="https://www.facebook.com/groups/200638373879957">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1235,8 +1227,9 @@
             <p>金門縣金城鎮民族路261號（金城體育館看臺下教室，團練地址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/176691215689013/</p>
-            <p>jyps@mail.com.edu.tw</p>
+            <a target="_" href="https://www.facebook.com/groups/176691215689013/">連結</a>
+            <br>
+            <a href="mailto:jyps@mail.com.edu.tw">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1282,7 +1275,7 @@
             <p>082-364-218</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/341640913150301/</p>
+            <a target="_" href="https://www.facebook.com/groups/341640913150301/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1308,7 +1301,7 @@
             <p>06-927-6602（傳真）</p>
           </td>
           <td>
-            <p>geosu5438@yahoo.com.tw（蘇菁萍）</p>
+            <a href="mailto:geosu5438@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1332,7 +1325,7 @@
             <p>新北市三重區成功路88號9樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Xinjinzhu.Troupe</p>
+            <a target="_" href="https://www.facebook.com/Xinjinzhu.Troupe">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1357,7 +1350,7 @@
             <p>04-865-9431</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/242022802590204/</p>
+            <a target="_" href="https://www.facebook.com/groups/242022802590204/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1413,7 +1406,7 @@
             <p>臺南市佳里區鎮山街85巷91號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/bunbulongkun/</p>
+            <a target="_" href="https://www.facebook.com/bunbulongkun/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -1435,7 +1428,7 @@
             <p>06-255-2762</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/KTLTPK/</p>
+            <a target="_" href="https://www.facebook.com/pg/KTLTPK/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1455,7 +1448,7 @@
             <p>06-787-2024</p>
           </td>
           <td>
-            <p>https://www.facebook.com/永吉吉安宮天子門生-306785639382578/</p>
+            <a target="_" href="https://www.facebook.com/永吉吉安宮天子門生-306785639382578/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1476,7 +1469,7 @@
             <p>臺南市麻豆區謝厝寮 44-15 號 06-572-1614</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/集英社太平清歌-579225785604662/</p>
+            <a target="_" href="https://www.facebook.com/pg/集英社太平清歌-579225785604662/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -1501,9 +1494,7 @@
             <p>06-787-3775</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/港墘太平歌團天子門生陣-1749207195291500/
-            </p>
+            <a target="_" href="https://www.facebook.com/港墘太平歌團天子門生陣-1749207195291500/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1523,9 +1514,7 @@
             <p>07-667-4427</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/內門紫竹寺番仔路和樂軒太平歌-1677233442301092/
-            </p>
+            <a target="_" href="https://www.facebook.com/內門紫竹寺番仔路和樂軒太平歌-1677233442301092/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1548,7 +1537,7 @@
             <p>07-690-2948</p>
           </td>
           <td>
-            <p>https://www.facebook.com/茄萣金鑾宮天子文生-476038909159612/</p>
+            <a target="_" href="https://www.facebook.com/茄萣金鑾宮天子文生-476038909159612/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1565,7 +1554,7 @@
             <p>高雄市茄萣區賜福宮四館</p>
           </td>
           <td>
-            <p>https://www.facebook.com/頂茄萣賜福宮和音社-941524995947236/</p>
+            <a target="_" href="https://www.facebook.com/頂茄萣賜福宮和音社-941524995947236/">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1585,7 +1574,7 @@
             <p>07-667-3713</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100064261533397</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100064261533397">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -1605,7 +1594,7 @@
             <p>06-592-2450</p>
           </td>
           <td>
-            <p>https://www.facebook.com/a5922450</p>
+            <a target="_" href="https://www.facebook.com/a5922450">連結</a>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
