@@ -7,666 +7,586 @@
     <p class="firstRow"></p>
 
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-      <thead>
-        <tr>
-          <th style="width: 20%">名稱</th>
-          <th style="width: 20%">負責人</th>
-          <th style="width: 25%">地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th style="width: 25%">備註</th>
-        </tr>
-      </thead>
       <tbody>
         <tr>
-          <td>
-            <p>田園樂府樂團</p>
+          <td rowspan="2" width="11%">
+            <p>名稱</p>
           </td>
-          <td>
-            <p>簡上仁</p>
+          <td rowspan="2" width="7%">
+            <p>負責人</p>
           </td>
-          <td>
-            <p>臺北市萬華區莒光路252號<br />02-8809-2990</p>
+          <td rowspan="2" width="18%">
+            <p>地址/電話</p>
           </td>
-          <td>
-            <a href="mailto:tsth99@yahoo.com.tw">連結</a>
+          <td rowspan="2" width="20%">
+            <p>其他聯絡方式</p>
           </td>
-          <td>
-            <p>創立於1983年，由簡上仁發起，以維護、發揚臺灣音樂文化為目的。</p>
+          <td colspan="3" width="42%">
+            <p>備註</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>長春花樂團</p>
+          <td width="14%">
+            <p>立案情形</p>
           </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>臺北市北投區開明街71號</p>
+          <td width="14%">
+            <p>成立時間</p>
+          </td>
+          <td width="14%">
+            <p>活動概況</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>台灣月琴民謠協會</p>
+          </td>
+          <td width="7%">
+            <p>王敦正</p>
+          </td>
+          <td width="18%">
+            <p>臺北市北投區112光明路165號4樓</p>
             <p>02-2893-3088</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/長春花樂團桃花團-1061906727227527/">連結</a>
+          <td width="20%">
+            <p>http://www.facebook.com/Taiwan.yueqin/</p>
           </td>
-          <td>
-            <p>成立於2015年，由臺灣月琴民謠協會的學員所組成。</p>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：2009/12/10</p>
           </td>
-        </tr>
-        <tr>
-          <td>
-            <p>臺灣月琴民謠協會</p>
+          <td width="14%">
+            <p>2009</p>
           </td>
-          <td>
-            <p>理事長</p>
-            <p>王沛瀅</p>
-          </td>
-          <td>
-            <p>臺北市北投區開明街71號</p>
-            <p>02-2893-3088</p>
-          </td>
-          <td>
-            <a target="_" href="http://www.facebook.com/Taiwan.yueqin/">連結</a>
-          </td>
-          <td>
-            <p>成立於2009年，由陳明章發起，致力於推廣月琴，期使月琴能繼續被傳承與演奏。</p>
+          <td width="14%">
+            <p>
+              初由陳明章發起，致力推廣月琴，希冀月琴能成為國民樂器，繼續被傳承與演奏
+            </p>
           </td>
         </tr>
         <tr>
-          <td>
+          <td width="11%">
             <p>楊秀卿說唱藝術團</p>
           </td>
-          <td>
+          <td width="7%">
             <p>楊火土</p>
           </td>
-          <td>
-            <p>新北市汐止區汐萬路二段37巷3號3樓</p>
-            <p>0953-883-357</p>
+          <td width="18%">
+            <p>新北市汐止區汐萬路2段37巷3號3樓02-26463947</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/showking317/">連結</a>
+          <td width="20%">
+            <p>https://www.facebook.com/showking317/</p>
           </td>
-          <td>
-            <p>成立於2010年，由重要傳統表演藝術－說唱保存者楊秀卿設立，以推廣、傳承歌仔為宗旨。</p>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：2010/6/15</p>
           </td>
-        </tr>
-        <tr>
-          <td>
-            <p>台灣唸歌團</p>
+          <td width="14%">
+            <p>2010</p>
           </td>
-          <td>
-            <p>邱文錫</p>
-          </td>
-          <td>
-            <p>新北市中和區南工路10巷6號</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/TaiUanLiamKuaBsk2">連結</a>
-          </td>
-          <td>
+          <td width="14%">
             <p>
-              前身為洪瑞珍於2002年創設之「洪瑞珍唸歌團」，洪瑞珍過世後，她的學生與諸多同好於2009年重組改設「台灣唸歌團」。
+              楊秀卿（1935-2022）於2009年成立，希冀藉此提供其藝生一個演出的空間
             </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>微笑唸歌團</p>
+          <td width="11%">
+            <p>津藝聲說唱藝術團</p>
           </td>
-          <td>
-            <p>儲見智</p>
-          </td>
-          <td>
-            <p>臺中市北區錦中街25號</p>
-            <p>0953-724-857</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
-          </td>
-          <td>
-            <p>
-              成立於2011年，由儲見智與林恬安創設，以傳承推廣唸歌文化為主要宗旨，並期透過各種方式傳遞臺語說唱藝術。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>頭家厝唸歌班</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>
-            <p>
-              也稱「頭家唸歌班」，由微笑唸歌團儲見智與林恬安自2012年開始指導的唸歌研習班。學習唸歌多年的成員漸有所成，規劃將以種子教師的方向培訓。目前由微笑唸歌團代理。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>旭陽民俗車鼓劇團</p>
-          </td>
-          <td>
-            <p>團長</p>
-            <p>吳現山</p>
-          </td>
-          <td>
-            <p>雲林縣土庫鎮</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>
-              成立於1973年，創始人吳天羅於1999年獲頒「民俗藝術終身成就獎」。吳天羅逝世後，由兒女繼承衣缽，現任團長為其子吳現山。近年因成員年事增長，已大幅減少公開演出。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>古意唸歌團</p>
-          </td>
-          <td>
-            <p>團長</p>
-            <p>羅士哲</p>
-          </td>
-          <td>
-            <p>臺南市</p>
-            <p>0978-278-204</p>
-          </td>
-          <td>
-            <p></p>
-            <a target="_" href="https://www.facebook.com/kooiliamkoathoan/">連結</a><br>
-            <a href="mailto:pegeoowong@gapp.nthu.edu.tw">連結</a>
-          </td>
-          <td>
-            <p>由一群愛好唸歌和傳統音樂的同好所組成。</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>臺南市西港區東竹林保安宮牛犁歌陣</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>臺南市西港區檨林里13號</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/東竹林保安宮牛犁歌陣-285537851940149/">連結</a>
-          </td>
-          <td>
-            <p>
-              百餘年前由居住在臺南市西港區東竹林保安宮一帶的居民，為參與三年一科的「西港刈香」而組成。臺南市政府於2015年將其登錄為「傳統表演藝術－牛犁歌陣」保存團體。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>臺南市七股區竹橋七十二份慶善宮牛犁歌陣</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>臺南市七股區竹橋里35號</p>
-            <p>06-789-3978</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/慶善宮牛犁歌陣-1858404771087673">連結</a>
-          </td>
-          <td>
-            <p>
-              百餘年前由居住在臺南市七股區竹橋七十二份慶善宮一帶的居民，為參與三年一科的「西港刈香」而組成。2015年受臺南市政府登錄為「傳統表演藝術－牛犁歌陣」保存團體。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>屏東縣恆春鎮思想起民謠促進會</p>
-          </td>
-          <td>
-            <p>理事長</p>
-            <p>林瓊瑤</p>
-            <p>總幹事</p>
-            <p>趙振英</p>
-          </td>
-          <td>
-            <p>屏東縣恆春鎮恆南路158號</p>
-            <p>08-889-3808</p>
-          </td>
-          <td>
-            <a href="mailto:c662069@yahoo.com.tw">連結</a>
-          </td>
-          <td>
-            <p>成立於1989年，長期致力於傳承、推廣恆春民謠，並努力提升當地住民的文化發展共識。</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>屏東縣滿州鄉民謠協進會</p>
-          </td>
-          <td>
-            <p>理事長</p>
-            <p>潘張碧英</p>
-          </td>
-          <td>
-            <p>屏東縣滿州鄉滿州村中山路43號</p>
-            <p>0936-256-889</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/ManZhouFolkSong">連結</a>
-          </td>
-          <td>
-            <p>1981年正式立案成立，首任理事長為鍾明昆，積極對外推廣與傳承滿州民謠。</p>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <p></p>
-    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-      <thead>
-        <tr>
-          <th style="width: 20%">名稱</th>
-          <th style="width: 25%">地址/電話</th>
-          <th style="width: 20%">其他聯絡方式</th>
-          <th>備註</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>
+          <td width="7%">
             <p>丁秀津</p>
           </td>
-          <td>
-            <p>臺北市</p>
-            <p>0988-305-003</p>
+          <td width="18%">
+            <p>宜蘭縣礁溪鄉白雲村14鄰白雲二路136號</p>
+            <p>0988-035-003</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/Melodysyueqin/">連結</a>
+          <td width="20%">
+            <p>horsema543@gmail.com</p>
           </td>
-          <td>
-            <p>唸歌藝人。重要傳統表演藝術－說唱保存者楊秀卿的結業藝生。</p>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：2022</p>
+          </td>
+          <td width="14%">
+            <p>2022</p>
+          </td>
+          <td width="14%">
+            <p>丁秀津成立，以傳承與推廣唸歌為職志</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>陳明章</p>
+          <td width="11%">
+            <p>台灣唸歌團</p>
           </td>
-          <td>
-            <p>臺北市北投區</p>
+          <td width="7%">
+            <p>邱文錫</p>
           </td>
-          <td>&nbsp;</td>
-          <td>
+          <td width="18%">
+            <p>新北市中和區南工路10巷6號</p>
+          </td>
+          <td width="20%">&nbsp;</td>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：2009/3/16</p>
+          </td>
+          <td width="14%">
+            <p>2009</p>
+          </td>
+          <td width="14%">
             <p>
-              1956-，音樂創作人、音樂製作人、歌手、吉他與月琴演奏家。2009年鳩集傳統音樂愛好者發起成立臺灣月琴民謠協會，為推廣月琴而設置「明章講堂」，開設多個月琴研習班。
+              前身為「洪瑞珍唸歌團」（洪瑞於2002年成立）。洪瑞珍離世後，洪瑞珍學生和同好於2009年重新創設
             </p>
           </td>
         </tr>
         <tr>
-          <td>
+          <td width="11%">
+            <p>微笑唸歌團</p>
+          </td>
+          <td width="7%">
+            <p>儲見智</p>
+          </td>
+          <td width="18%">
+            <p>臺中市北區錦中街25號</p>
+            <p>0953-724-857</p>
+            <p>04-2224-1288</p>
+          </td>
+          <td width="20%">
+            <p>https://www.facebook.com/taiwansmile/</p>
+          </td>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：2011</p>
+          </td>
+          <td width="14%">
+            <p>2011</p>
+          </td>
+          <td width="14%">
+            <p>
+              成立於2011年，創辦人為儲見智與林恬安，以傳承推廣唸歌文化為主要宗旨，積極藉由演出、展覽、教學、講座等推廣臺語說唱藝術
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>古意唸歌團</p>
+          </td>
+          <td width="7%">
+            <p>羅士哲</p>
+          </td>
+          <td width="18%">
+            <p>0978-278-204</p>
+          </td>
+          <td width="20%">
+            <p>https://www.facebook.com/kooiliamkoathoan/</p>
+          </td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
+            <p>
+              由一群愛好唸歌、民謠、車鼓、太平歌等傳統音樂的同好組成，團長為羅士哲
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>旭陽民俗車鼓劇團</p>
+          </td>
+          <td width="7%">
+            <p>吳現山</p>
+          </td>
+          <td width="18%">
+            <p>雲林縣土庫鎮崙內里崙內1鄰8號</p>
+          </td>
+          <td width="20%">
+            <p>https://www.facebook.com/groups/394919617375397</p>
+          </td>
+          <td width="14%">
+            <p>已立案</p>
+          </td>
+          <td width="14%">
+            <p>1973</p>
+          </td>
+          <td width="14%">
+            <p>
+              創始人吳天羅，1999年獲頒「民俗藝術終身成就獎」。吳天羅逝世後，由兒女繼承衣缽，現任團長為其子吳現山
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>台灣唸歌戲劇協會</p>
+          </td>
+          <td width="7%">
             <p>鄭美</p>
           </td>
-          <td>
+          <td width="18%">
+            <p>臺北市信義區松山路474號3樓</p>
+            <p>02-22120086</p>
+          </td>
+          <td width="20%">
+            <p>chenyj561229@gmail.com</p>
+          </td>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：2009/9/30</p>
+          </td>
+          <td width="14%">
+            <p>2009</p>
+          </td>
+          <td width="14%">
+            <p>
+              以推廣唸歌、唱曲、樂曲為宗旨的業餘組織團體，設有歌仔戲班（王敏沙指導）和唸歌班（鄭美指導），歷任理事長為杜黃芳粉、翁綾蔓、陳淑慧，現任（第七屆）理事長為鄭美
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>屏東縣恆春鎮思想起民謠促進會</p>
+          </td>
+          <td width="7%">
+            <p>林瓊瑤</p>
+          </td>
+          <td width="18%">
+            <p>屏東縣恆春鎮恆南路158號</p>
+            <p>08-889-3880</p>
+            <p>08-889-3808</p>
+          </td>
+          <td width="20%">
+            <p>c662069@yahoo.com.tw</p>
+          </td>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：1989/12/11</p>
+          </td>
+          <td width="14%">
+            <p>1989</p>
+          </td>
+          <td width="14%">
+            <p>
+              成立之因，起於地方人士有感於陳達離世後古老聲音會從此消失，於是積極推廣、傳承恆春民謠至今
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>屏東縣滿州鄉民謠協進會</p>
+          </td>
+          <td width="7%">
+            <p>潘張碧英</p>
+          </td>
+          <td width="18%">
+            <p>屏東縣滿州鄉滿州村中正路10號</p>
+            <p>0936-256-889</p>
+          </td>
+          <td width="20%">
+            <p>
+              https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B
+            </p>
+          </td>
+          <td width="14%">
+            <p>已立案</p>
+            <p>立案時間：1981/7/26</p>
+          </td>
+          <td width="14%">
+            <p>1981</p>
+          </td>
+          <td width="14%">
+            <p>
+              由林明貴、曾次朗決議發起，以蒐集、保存、推廣、展演滿州民謠文化為宗旨，積極舉辦相關民謠藝文活動、出版品及演出活動
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>臺南市西港區東竹林保安宮牛犁歌陣</p>
+          </td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
+            <p>臺南市西港區檨林里21鄰13號</p>
+          </td>
+          <td width="20%">
+            <p>https://www.facebook.com/profile.php?id=100063912854937</p>
+          </td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
+            <p>
+              臺南市東竹林保安宮牛犁歌陣傳說創始自姑媽宮刈香時期（1784-1820），為西港三年一科刈香中重要陣頭之一，並2015年獲臺南市政府登錄為臺南市「傳統表演藝術－牛犁歌陣保存團體」
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>竹橋七十二份慶善宮牛犁歌陣</p>
+          </td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
+            <p>臺南市七股區竹橋里3鄰竹橋35號</p>
+            <p>06-789-3978</p>
+          </td>
+          <td width="20%">
+            <p>
+              https://www.facebook.com/profile.php?id=100064472873360&amp;paipv
+            </p>
+          </td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
+            <p>
+              臺南市七股區竹橋慶善宮牛犁歌陣為西港三年一科刈香中重要陣頭之一。於2015年獲臺南市政府登錄為臺南市「傳統表演藝術類－牛犁歌陣保存團體」
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>台灣說唱藝術工作室</p>
+          </td>
+          <td width="7%">
+            <p>周定邦</p>
+            <p>周佳穎</p>
+          </td>
+          <td width="18%">
+            <p>臺南市府前路2段258巷29弄24號</p>
+            <p>0929-672-033</p>
+          </td>
+          <td width="20%">
+            <p>apang.chiu@gmail.com</p>
+          </td>
+          <td width="14%">
+            <p>已立案</p>
+          </td>
+          <td width="14%">
+            <p>2000</p>
+          </td>
+          <td width="14%">
+            <p>創辦人周定邦（1958-），以推廣唸歌、民謠為職志</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>丁秀津</p>
+          </td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
+            <p>宜蘭市</p>
+            <p>0988-305-003</p>
+          </td>
+          <td width="20%">
+            <p>https://www.facebook.com/Melodysyueqin/</p>
+          </td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
+            <p>
+              唸歌仔藝人。文化部「重要傳統表演藝術－說唱保存者」楊秀卿第二屆結業藝生
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="11%">
+            <p>鄭美</p>
+          </td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>臺北市</p>
             <p>0939-082-332</p>
           </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>唸歌藝人。重要傳統表演藝術－說唱保存者楊秀卿之結業藝生。</p>
+          <td width="20%">
+            <p>jengmeei@gmail.com</p>
           </td>
-        </tr>
-        <tr>
-          <td>
-            <p>李育容</p>
-          </td>
-          <td>
-            <p>新北市</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/meryem.li.9">連結</a>
-          </td>
-          <td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>
-              2011年起隨楊秀卿學習月琴，多次參與楊秀卿說唱藝術團巡迴演出活動。2020年正式成為「重要傳統表演藝術－說唱保存者楊秀卿傳習計畫」藝生。
+              唸歌仔藝人。文化部「重要傳統表演藝術－說唱保存者」楊秀卿第一屆結業藝生。現任臺灣唸歌戲劇協會理事長
             </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>張雅淳</p>
-          </td>
-          <td>
-            <p>新北市</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/rachel.chang.102361">連結</a>
-          </td>
-          <td>
-            <p>
-              臺語詞曲創作音樂人，曾為電影《鐵觀音》主題曲〈滿樹翠碧〉，及線上遊戲《打鬼》片尾曲〈星月無邊〉擔任作詞者。2015年開始學習歌仔調和南管，2020年正式成為「重要傳統表演藝術－說唱保存者楊秀卿傳習計畫」藝生。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>楊秀卿</p>
-          </td>
-          <td>
-            <p>新北市汐止區</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>
-              1935-，唸歌藝人。2009年獲指定為「重要傳統表演藝術－說唱保存者」，成立「楊秀卿說唱藝術團」。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
+          <td width="11%">
             <p>簡上仁</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>新北市淡水區</p>
             <p>02-3758-0272</p>
           </td>
-          <td>&nbsp;</td>
-          <td>
+          <td width="20%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>
-              1948-，詞曲創作者、演唱者、民族音樂研究者。長期致力於臺灣本土音樂之搜集、整理，與創作、推廣工作，1983年成立「田園樂府樂團」。
+              長期致力於臺灣本土音樂採集、整理、推展與創作工作，1983年成立「田園樂府」樂團，擔任團長至今
             </p>
           </td>
         </tr>
         <tr>
-          <td>
+          <td width="11%">
             <p>葉文生</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>桃園市龍潭區</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/yabunsen">連結</a>
+          <td width="20%">
+            <p>https://www.facebook.com/yabunsen</p>
           </td>
-          <td>
-            <p>「台灣唸歌團」團長。1995年起隨洪瑞珍學習月琴與唸歌。</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>陳寶貴</p>
-          </td>
-          <td>
-            <p>新竹縣</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>
-              1939-，唸歌藝人。2016年和陳美珠同時被新北市政府登錄為「傳統表演藝術－說唱」保存者。
-            </p>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
+            <p>台灣唸歌團團長。1995年開始向洪瑞珍學習月琴彈唱唸歌</p>
           </td>
         </tr>
         <tr>
-          <td>
+          <td width="11%">
             <p>林恬安</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>臺中市潭子區</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
+          <td width="20%">
+            <p>https://www.facebook.com/taiwansmile/</p>
           </td>
-          <td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>
-              唸歌藝人，與夫婿儲見智成立「微笑唸歌團」，2012-2015年期間為「重要傳統表演藝術－說唱保存者楊秀卿傳習計畫」藝生。
+              擅長唸歌仔。與儲見智共同成立微笑唸歌團。文化部指定「重要無形文化資產保存者」楊秀卿之第二屆傳習藝生
             </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>周玉湘</p>
-          </td>
-          <td>
-            <p>臺中市</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/mickey.chou.129">連結</a>
-          </td>
-          <td>
-            <p>
-              目前就讀國立臺南藝術大學民族音樂研究所碩士在職專班，2018年起成為「重要傳統表演藝術－滿州民謠保存者楊秀卿傳習計畫」藝生。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
+          <td width="11%">
             <p>儲見智</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>臺中市潭子區</p>
-            <p>0953-724-857</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
+          <td width="20%">
+            <p>https://www.facebook.com/taiwansmile/</p>
           </td>
-          <td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>
-              1976-，唸歌藝人，「微笑唸歌團」團長，「重要傳統表演藝術－說唱保存者楊秀卿」結業藝生。
+              擅長唸歌仔，微笑唸歌團團長。文化部指定「重要無形文化資產保存者」楊秀卿之第二屆結業藝生
             </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>施朝養</p>
-          </td>
-          <td>
-            <p>彰化縣和美鎮雅溝里</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>
-              1932-，2021年受彰化縣政府登錄為「傳統表演藝術－車鼓陣」保存者，擅長扮演丑角，能製作演出道具，亦能改編劇目。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
+          <td width="11%">
             <p>周定邦</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>臺南市</p>
           </td>
-          <td>
-            <a href="mailto:apang.chiu@gmail.com">連結</a>
+          <td width="20%">
+            <p>http://www3.nmtl.gov.tw/Writer2/writer_detail.php?id=699</p>
           </td>
-          <td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>
-              1958-，臺南市將軍區青鯤鯓人。國立成功大學臺灣文學研究所碩士，現任「臺灣說唱藝術工作室」團長等職。
+              現任臺灣說唱藝術工作室團長、台灣羅馬字協會理事、台文筆會理事等
             </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>曾伯豪</p>
-          </td>
-          <td>
-            <p>臺南市東區</p>
-          </td>
-          <td>
-            <a href="mailto:jerry801022@gmail.com">連結</a>
-          </td>
-          <td>
-            <p>
-              1991-，臺北藝術大學藝術跨域研究所畢業，從事音樂設計、詞曲創作、藝術創作及相關研究，曾先後學習臺灣唸歌、南管音樂，音樂創作多以臺灣音樂為基礎，討論社會議題及個人情感。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
+          <td width="11%">
             <p>羅士哲</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>臺南市</p>
             <p>0978-278-204</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/kooiliamkoathoan/">連結</a>
+          <td width="20%">
+            <p>https://www.facebook.com/kooiliamkoathoan/</p>
           </td>
-          <td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>古意唸歌團團長</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>王洋月</p>
-          </td>
-          <td>
-            <p>屏東縣</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>屏東縣滿州民謠協進會前任理事長</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
+          <td width="11%">
             <p>張日貴</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>屏東縣滿州鄉</p>
           </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>1933-，屏東縣滿州鄉人，2012年受指定為「重要傳統表演藝術－滿州民謠」保存者。</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>張碧英</p>
-          </td>
-          <td>
-            <p>屏東縣滿州鄉</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
+          <td width="20%">
             <p>
-              1947-，現任屏東縣滿州鄉民謠促進會理事長，「重要傳統表演藝術－滿州民謠保存者」張日貴的結業藝生。
+              http://musiciantw.ncfta.gov.tw/list.aspx?p=M064&amp;c=&amp;t=1
+            </p>
+          </td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
+            <p>
+              滿州鄉民謠歌手、民謠傳藝師。2012年受文化部指定為「重要傳統表演藝術－滿州民謠保存者」
             </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>張錦桂</p>
-          </td>
-          <td>
-            <p>屏東縣滿州鄉</p>
-          </td>
-          <td>
-            <a href="mailto:ernest0218@gmail.com">連結</a>
-          </td>
-          <td>
-            <p>1952-，「重要傳統表演藝術－滿州民謠保存者」張日貴的結業藝生。</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>許麗善</p>
-          </td>
-          <td>
-            <p>屏東縣恆春鎮</p>
-          </td>
-          <td>
-            <a target="_" href="https://reurl.cc/yQj87a">連結</a>
-          </td>
-          <td>
-            <p>
-              1965-，影像紀錄工作者，兼任屏東縣屏南社區大學副校長。2017年起成為「重要傳統表演藝術－滿州民謠保存者張日貴傳習計畫」藝生。2020年與黎竹紅組隊參加「第十四屆恆春民謠全國大賽」，獲對唱組特優獎。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
+          <td width="11%">
             <p>陳英</p>
           </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>屏東縣恆春鎮</p>
           </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>1932-，屏東縣恆春人，2020年受指定為「重要傳統表演藝術－恆春民謠」保存者。</p>
+          <td width="20%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
+            <p>受文化部指定為「重要傳統表演藝術－恆春民謠保存者」</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>黃素靖</p>
+          <td width="11%">
+            <p>張碧英</p>
           </td>
-          <td>
-            <p>屏東縣恆春鎮</p>
-          </td>
-          <td>
-            <a target="_" href="https://reurl.cc/AKerdY">連結</a>
-          </td>
-          <td>
-            <p>
-              曾隨張文傑、張日貴、張三妹、陳玉霞、謝綿卿等學習恆春半島民謠。2020年起成為成為「重要傳統表演藝術－滿州民謠保存者張日貴傳習計畫」藝生。現任屏東縣滿州民謠協進會總幹事。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>楊美雲</p>
-          </td>
-          <td>
-            <p>屏東縣車城鄉後灣村</p>
-          </td>
-          <td>
-            <a target="_" href="https://reurl.cc/WkZmvD">連結</a>
-          </td>
-          <td>
-            <p>
-              屏東縣水泉國小、車城國小、楓港國小、社寮國小、車城國中等校社團指導教師，屏南社區大學恆春民謠課程教師。與多位有志之士共同成立「種一園的思雙枝」，以培訓在地恆春民謠傳藝師，推動恆春本土文化與人文特色為宗旨。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>黎竹紅</p>
-          </td>
-          <td>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
             <p>屏東縣滿州鄉</p>
+            <p>08-880-1258</p>
           </td>
-          <td>
-            <a target="_" href="https://reurl.cc/vejz6j">連結</a>
-          </td>
-          <td>
+          <td width="20%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>
-              1959-，苗栗客家人。2017年起成為「重要傳統表演藝術－滿州民謠保存者張日貴傳習計畫」藝生。2020年與許麗善組隊參加「第十四屆恆春民謠全國大賽」，獲對唱組特優獎。
+              文化部「重要傳統表演藝術－滿州民謠寶存者」張日貴的結業藝生，2022年獲屏東縣政府登錄為屏東縣「傳統表演藝術－滿州民謠保存者」。現任屏東縣滿州鄉民謠協進會理事長
             </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p>謝徐鳳玉</p>
+          <td width="11%">
+            <p>張錦桂</p>
           </td>
-          <td>
-            <p>屏東縣恆春鎮</p>
+          <td width="7%">&nbsp;</td>
+          <td width="18%">
+            <p>屏東縣滿州鄉</p>
+            <p>08-881-0066</p>
           </td>
-          <td>&nbsp;</td>
-          <td>
+          <td width="20%">
+            <p>ernest0218@gmail.com</p>
+          </td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">&nbsp;</td>
+          <td width="14%">
             <p>
-              流行音樂樂手、卑南族歌手及音樂經理人。2020年起成為成為「重要傳統表演藝術－滿州民謠保存者張日貴傳習計畫」藝生。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>吳栯禔</p>
-          </td>
-          <td>
-            <p>宜蘭市</p>
-          </td>
-          <td>
-            <a target="_" href="https://reurl.cc/LpzO43">連結</a>
-          </td>
-          <td>
-            <p>
-              1992至2012年加入「蘭陽戲劇團」專攻生行，2012年加入「許亞芬歌仔戲劇團」，後自組「遇禔傳唱樂集」。2020年成為「重要傳統表演藝術－滿州民謠保存者楊秀卿傳習計畫」藝生。
+              文化部「重要傳統表演藝術－滿州民謠寶存者」張日貴的結業藝生，2022年獲屏東縣政府登錄為屏東縣「傳統表演藝術－滿州民謠保存者」
             </p>
           </td>
         </tr>
       </tbody>
     </table>
-    <p></p>
   </div>
 </template>

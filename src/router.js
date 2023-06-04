@@ -427,12 +427,12 @@ export default new VueRouter({
           component: IndexDir_16,
         },
         {
-          name: '團體及個人名錄 / 佛教音樂篇',
+          name: '團體及個人名錄 / 佛教、釋教音樂篇',
           path: 'indexDir_17',
           component: IndexDir_17,
         },
         {
-          name: '團體及個人名錄 / 道、法、釋教音樂篇',
+          name: '團體及個人名錄 / 道教、法教音樂篇',
           path: 'indexDir_18',
           component: IndexDir_18,
         },
@@ -487,12 +487,12 @@ export default new VueRouter({
           component: IndexDir_5,
         },
         {
-          name: '重要音樂活動一覽表 / 佛教音樂篇',
+          name: '重要音樂活動一覽表 / 佛教、釋教音樂篇',
           path: 'indexDir_6',
           component: IndexDir_6,
         },
         {
-          name: '重要音樂活動一覽表 / 道、法、釋教音樂篇',
+          name: '重要音樂活動一覽表 / 道教、法教音樂篇',
           path: 'indexDir_7',
           component: IndexDir_7,
         },
