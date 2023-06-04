@@ -49,7 +49,7 @@
             <p>0937-880-367</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/217228464957550/</p>
+            <a target="_" href="https://www.facebook.com/groups/217228464957550/">連結</a>
           </td>
           <td>
             <p>已立案</p>
@@ -73,7 +73,7 @@
             <p>02-2577-5518</p>
           </td>
           <td>
-            <p>https://www.facebook.com/中華絃管研究團-328596864328765/</p>
+            <a target="_" href="https://www.facebook.com/中華絃管研究團-328596864328765/">連結</a>
           </td>
           <td>
             <p>已立案</p>
