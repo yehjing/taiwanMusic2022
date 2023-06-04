@@ -68,7 +68,7 @@
             <p>03-782-3385</p>
           </td>
           <td width="28%">
-            <p>https://www.penla.mlc.edu.tw/</p>
+            <a target="_" href="https://www.penla.mlc.edu.tw/">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -105,7 +105,7 @@
             <p>南庄鄉東河村6鄰東興新52號</p>
           </td>
           <td width="28%">
-            <p>https://www.facebook.com/saywalosaysiyat/?ref=page_internal</p>
+            <a target="_" href="https://www.facebook.com/saywalosaysiyat/?ref=page_internal">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -179,7 +179,7 @@
             <p>03-864-2290</p>
           </td>
           <td width="23%">
-            <p>https://www.facebook.com/fasdtdance</p>
+            <a target="_" href="https://www.facebook.com/fasdtdance">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -201,7 +201,7 @@
             <p>0935-819-358</p>
           </td>
           <td width="23%">
-            <p>https://reurl.cc/K6DGQm</p>
+            <a target="_" href="https://reurl.cc/K6DGQm">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -225,7 +225,7 @@
             <p>0935-819-358</p>
           </td>
           <td width="23%">
-            <p>https://reurl.cc/lZ4WEq</p>
+            <a target="_" href="https://reurl.cc/lZ4WEq">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -247,7 +247,7 @@
             <p>0932-664-034</p>
           </td>
           <td width="23%">
-            <p>https://www.facebook.com/Sawtoy/</p>
+            <a target="_" href="https://www.facebook.com/Sawtoy/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -272,7 +272,7 @@
             <p>0972-770-597</p>
           </td>
           <td width="23%">
-            <p>https://reurl.cc/W4Wndx</p>
+            <a target="_" href="https://reurl.cc/W4Wndx">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -328,7 +328,7 @@
             <p>0928-875-355</p>
           </td>
           <td width="15%">
-            <p>kezo888@gmail.com</p>
+            <a href="mailto:kezo888@gmail.com">連結</a>
           </td>
           <td width="12%">
             <p>已立案</p>
@@ -436,7 +436,7 @@
             <p>臺東縣臺東市知本路一段915巷235號</p>
           </td>
           <td width="15%">
-            <p>https://reurl.cc/q89oRn</p>
+            <a target="_" href="https://reurl.cc/q89oRn">連結</a>
           </td>
           <td width="12%">
             <p>已立案</p>
@@ -474,7 +474,7 @@
             <p>0972-338-504</p>
           </td>
           <td width="15%">
-            <p>y83275@gmail.com</p>
+            <a href="mailto:y83275@gmail.com">連結</a>
           </td>
           <td width="12%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -530,7 +530,7 @@
             <p>08-973-2073</p>
           </td>
           <td width="16%">
-            <p>http://www.lanan.org.tw/</p>
+            <a target="_" href="http://www.lanan.org.tw/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="8%">
@@ -610,7 +610,7 @@
             <p>0972-892-209</p>
           </td>
           <td width="25%">
-            <p>chenlinjo@gmail.com</p>
+            <a href="mailto:chenlinjo@gmail.com">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -631,7 +631,7 @@
             <p>0981-016-207</p>
           </td>
           <td width="25%">
-            <p>https://www.facebook.com/pg/LabagaTaru/about/</p>
+            <a target="_" href="https://www.facebook.com/pg/LabagaTaru/about/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="5%">&nbsp;</td>
@@ -651,7 +651,7 @@
             <p>0981-016-207</p>
           </td>
           <td width="25%">
-            <p>https://reurl.cc/QWGAvO</p>
+            <a target="_" href="https://reurl.cc/QWGAvO">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -676,7 +676,7 @@
             <p>0932-656-172</p>
           </td>
           <td width="25%">
-            <p>https://www.facebook.com/groups/287998897985246/</p>
+            <a target="_" href="https://www.facebook.com/groups/287998897985246/">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -701,7 +701,7 @@
             <p>0967-019-611</p>
           </td>
           <td width="25%">
-            <p>https://www.facebook.com/elug.tw/</p>
+            <a target="_" href="https://www.facebook.com/elug.tw/">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -725,7 +725,7 @@
             <p>03-862-1033</p>
           </td>
           <td width="25%">
-            <p>https://reurl.cc/YdRa2D</p>
+            <a target="_" href="https://reurl.cc/YdRa2D">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -750,7 +750,7 @@
             <p>03-857-9781＃33</p>
           </td>
           <td width="25%">
-            <p>http://teacher.hlc.edu.tw/iindex.asp?id=1273</p>
+            <a target="_" href="http://teacher.hlc.edu.tw/iindex.asp?id=1273">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="5%">&nbsp;</td>
@@ -769,7 +769,9 @@
           </td>
           <td width="12%">&nbsp;</td>
           <td width="25%">
-            <p>https://www.facebook.com/KTS.C.H.C.S/kts85192514@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/KTS.C.H.C.S/">連結</a>
+            <br>
+            <a href="mailto:kts85192514@gmail.com">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -904,7 +906,7 @@
           <td width="6%">&nbsp;</td>
           <td width="25%">&nbsp;</td>
           <td width="16%">
-            <p>https://reurl.cc/mZ4KZG</p>
+            <a target="_" href="https://reurl.cc/mZ4KZG">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -960,7 +962,7 @@
             <p>02-26478856</p>
           </td>
           <td width="21%">
-            <p>https://abpcag.weebly.com/</p>
+            <a target="_" href="https://abpcag.weebly.com/">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">&nbsp;</td>
@@ -1010,7 +1012,7 @@
             <p>08-799-4920</p>
           </td>
           <td width="20%">
-            <p>https://www.facebook.com/naluwandance/</p>
+            <a target="_" href="https://www.facebook.com/naluwandance/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="7%">
@@ -1028,7 +1030,7 @@
             <p>05-251-1982</p>
           </td>
           <td width="20%">
-            <p>https://www.facebook.com/cou.culture.center/</p>
+            <a target="_" href="https://www.facebook.com/cou.culture.center/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="7%">
@@ -1051,7 +1053,7 @@
             <p>0937-476-115</p>
           </td>
           <td width="20%">
-            <p>hosa520@gmail.com</p>
+            <a href="mailto:hosa520@gmail.com">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="7%">
@@ -1073,7 +1075,7 @@
           </td>
           <td width="24%">&nbsp;</td>
           <td width="20%">
-            <p>https://www.facebook.com/TsouFolkBalladChoir OfLaiji</p>
+            <a target="_" href="https://www.facebook.com/TsouFolkBalladChoir OfLaiji">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="7%">&nbsp;</td>
@@ -1129,9 +1131,7 @@
             <p>04-9285-0036</p>
           </td>
           <td width="16%">
-            <p>
-              https://mitathao.wixsite.com/thau?fbclid=IwAR3ujZZYuzTAwzdWhxjoGQY5pzJQbUAuzkm7-txMFJc34VHRSqWWL_dwh3o
-            </p>
+            <a target="_" href="https://mitathao.wixsite.com/thau?fbclid=IwAR3ujZZYuzTAwzdWhxjoGQY5pzJQbUAuzkm7-txMFJc34VHRSqWWL_dwh3o">連結</a>
           </td>
           <td width="12%">
             <p>已立案</p>
@@ -1171,7 +1171,7 @@
             <p>04-9285-0036</p>
           </td>
           <td width="16%">
-            <p>https://www.facebook.com/Thao.Nation/</p>
+            <a target="_" href="https://www.facebook.com/Thao.Nation/">連結</a>
           </td>
           <td width="12%">&nbsp;</td>
           <td width="8%">
@@ -1227,7 +1227,7 @@
             <p>04-9279-2800</p>
           </td>
           <td width="18%">
-            <p>http://sixstar.moc.gov</p>
+            <a target="_" href="http://sixstar.moc.gov">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="8%">
@@ -1247,7 +1247,7 @@
             <p>04-9279-2800</p>
           </td>
           <td width="18%">
-            <p>http://sixstar.moc.gov.tw/blog/shinibunun</p>
+            <a target="_" href="http://sixstar.moc.gov.tw/blog/shinibunun">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1273,7 +1273,7 @@
             <p>04-9270-1340</p>
           </td>
           <td width="18%">
-            <p>www.tpups.ntct.edu.tw</p>
+            <a target="_" href="www.tpups.ntct.edu.tw">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1308,7 +1308,7 @@
           </td>
           <td width="26%">&nbsp;</td>
           <td width="18%">
-            <p>https://voxnativausa.org</p>
+            <a target="_" href="https://voxnativausa.org">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="8%">
@@ -1398,7 +1398,7 @@
             <p>03-879-1306</p>
           </td>
           <td width="15%">
-            <p>https://www.facebook.com/kudisdamu/</p>
+            <a target="_" href="https://www.facebook.com/kudisdamu/">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">&nbsp;</td>
@@ -1452,7 +1452,7 @@
             <p>0987-214-213</p>
           </td>
           <td width="16%">
-            <p>https://www.facebook.com/gluban.theater/</p>
+            <a target="_" href="https://www.facebook.com/gluban.theater/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="8%">
@@ -1472,7 +1472,7 @@
             <p>0987-214-213</p>
           </td>
           <td width="16%">
-            <p>https://www.facebook.com/mahung.house2016</p>
+            <a target="_" href="https://www.facebook.com/mahung.house2016">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1490,7 +1490,7 @@
             <p>0987-214-213</p>
           </td>
           <td width="16%">
-            <p>https://www.facebook.com/pusu.asd/</p>
+            <a target="_" href="https://www.facebook.com/pusu.asd/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1507,9 +1507,7 @@
           </td>
           <td width="23%">&nbsp;</td>
           <td width="16%">
-            <p>
-              https://www.facebook.com/%賽德克巴蘭社青年舞團-620278148011079/
-            </p>
+            <a target="_" href="https://www.facebook.com/%賽德克巴蘭社青年舞團-620278148011079/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1584,7 +1582,7 @@
             <p>03-684-2291</p>
           </td>
           <td width="13%">
-            <p>fasdt.dance@gmail.com</p>
+            <a href="mailto:fasdt.dance@gmail.com">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">
@@ -1621,7 +1619,7 @@
             <p>0900-750-781</p>
           </td>
           <td width="13%">
-            <p>tcda17025455@gmail.com</p>
+            <a href="mailto:tcda17025455@gmail.com">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1639,7 +1637,7 @@
             <p>08-783-7093</p>
           </td>
           <td width="13%">
-            <p>https://www.twps.ptc.edu.tw/nss/p/index#top</p>
+            <a target="_" href="https://www.twps.ptc.edu.tw/nss/p/index#top">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1658,7 +1656,7 @@
             <p>屏東縣瑪家鄉</p>
           </td>
           <td width="13%">
-            <p>https://www.facebook.com/cemelesai.artist</p>
+            <a target="_" href="https://www.facebook.com/cemelesai.artist">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1682,7 +1680,7 @@
             <p>屏東縣瑪家鄉</p>
           </td>
           <td width="13%">
-            <p>https://www.facebook.com/PuzangalanChoir/</p>
+            <a target="_" href="https://www.facebook.com/PuzangalanChoir/">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1704,7 +1702,7 @@
             <p>02-2727-1977</p>
           </td>
           <td width="13%">
-            <p>imcalvinkuo@gmail.com</p>
+            <a href="mailto:imcalvinkuo@gmail.com">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1725,7 +1723,7 @@
             <p>02-2593-6586</p>
           </td>
           <td width="13%">
-            <p>onesongorchestra@onesong.com.tw</p>
+            <a href="mailto:onesongorchestra@onesong.com.tw">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">
@@ -1760,7 +1758,7 @@
             <p>0976-111-008</p>
           </td>
           <td width="13%">
-            <p>yuhit1010730@gmail.com</p>
+            <a href="mailto:yuhit1010730@gmail.com">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1783,7 +1781,7 @@
           </td>
           <td width="21%">&nbsp;</td>
           <td width="13%">
-            <p>https://www.facebook.com/ivi.kalaya/about_overview</p>
+            <a target="_" href="https://www.facebook.com/ivi.kalaya/about_overview">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1798,7 +1796,7 @@
           </td>
           <td width="21%">&nbsp;</td>
           <td width="13%">
-            <p>https://www.facebook.com/groups/611657432283194/</p>
+            <a target="_" href="https://www.facebook.com/groups/611657432283194/">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1814,7 +1812,7 @@
           </td>
           <td width="21%">&nbsp;</td>
           <td width="13%">
-            <p>http//flhs.ptc.edu.tw</p>
+            <a target="_" href="http//flhs.ptc.edu.tw">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">&nbsp;</td>
@@ -1863,7 +1861,7 @@
             <p>臺東縣卑南鄉</p>
           </td>
           <td width="17%">
-            <p>https://www.facebook.com/taitungtaromak</p>
+            <a target="_" href="https://www.facebook.com/taitungtaromak">連結</a>
           </td>
           <td width="11%">&nbsp;</td>
           <td width="9%">&nbsp;</td>
@@ -1881,7 +1879,7 @@
             <p>02-2308-3398</p>
           </td>
           <td width="17%">
-            <p>shinehouse0820@gmail.com</p>
+            <a href="mailto:shinehouse0820@gmail.com">連結</a>
           </td>
           <td width="11%">&nbsp;</td>
           <td width="9%">
@@ -1936,9 +1934,7 @@
           </td>
           <td width="10%">&nbsp;</td>
           <td width="31%">
-            <p>
-              https://www.facebook.com/people/卡那卡那富族青年會-Kanakanavu-nanmaruan/100067577470454/
-            </p>
+            <a target="_" href="https://www.facebook.com/people/卡那卡那富族青年會-Kanakanavu-nanmaruan/100067577470454/">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="8%">
@@ -1994,7 +1990,7 @@
             <p>07-688-2735</p>
           </td>
           <td width="23%">
-            <p>https://www.facebook.com/profile.php?id=100083140970788</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100083140970788">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="7%">&nbsp;</td>
@@ -2048,7 +2044,7 @@
             <p>07-677-5186</p>
           </td>
           <td width="25%">
-            <p>sunlint88@gmail.com</p>
+            <a href="mailto:sunlint88@gmail.com">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2069,7 +2065,7 @@
             <p>臺南市白河區六溪里</p>
           </td>
           <td width="25%">
-            <p>https://www.facebook.com/liuzhongriver/</p>
+            <a target="_" href="https://www.facebook.com/liuzhongriver/">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="7%">&nbsp;</td>
@@ -2121,7 +2117,7 @@
             <p>08-783-1400</p>
           </td>
           <td width="17%">
-            <p>cct7831@gmail.com</p>
+            <a href="mailto:cct7831@gmail.com">連結</a>
           </td>
           <td width="11%">&nbsp;</td>
           <td width="9%">
@@ -2177,7 +2173,7 @@
             <p>06-623-2893</p>
           </td>
           <td width="29%">
-            <p>https://www.facebook.com/kabuasua/</p>
+            <a target="_" href="https://www.facebook.com/kabuasua/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="9%">
@@ -2231,7 +2227,7 @@
             <p>0912-960-618</p>
           </td>
           <td width="25%">
-            <p>https://www.facebook.com/papora.salach/</p>
+            <a target="_" href="https://www.facebook.com/papora.salach/">連結</a>
           </td>
           <td width="8%">&nbsp;</td>
           <td width="9%">&nbsp;</td>
