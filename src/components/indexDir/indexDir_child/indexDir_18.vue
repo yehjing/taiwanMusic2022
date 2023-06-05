@@ -48,9 +48,7 @@
             <p>0911-944-861</p>
           </td>
           <td width="38%">
-            <p>
-              https://www.facebook.com/profile.php?id=100064782396759&amp;paipv=0&amp;eav=AfZ2KnrdYz5CVJVe3bHTlTOnKBuBuP2sWTeVLb36C0hAjt2MHRjTWbM82U51sAeU_oY&amp;_rdr
-            </p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100064782396759&amp;paipv=0&amp;eav=AfZ2KnrdYz5CVJVe3bHTlTOnKBuBuP2sWTeVLb36C0hAjt2MHRjTWbM82U51sAeU_oY&amp;_rdr">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -71,7 +69,7 @@
             <p>05-3703-436</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/profile.php?id=100009502160903</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100009502160903">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -111,7 +109,7 @@
             <p>0988-596-670</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/ProtectAltar</p>
+            <a target="_" href="https://www.facebook.com/ProtectAltar">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -133,7 +131,7 @@
             <p>0932-838-876</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/profile.php?id=100005793525164</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100005793525164">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="7%">&nbsp;</td>
@@ -151,7 +149,7 @@
             <p>06-9920-410</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/profile.php?id=100004223017216</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100004223017216">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -172,9 +170,7 @@
             <p>0927-338-131</p>
           </td>
           <td width="38%">
-            <p>
-              https://www.facebook.com/people/高雄五甲威信殿/100066450893701/?paipv=0&amp;eav=AfZf036YMOCsJJnv43VRQ--wRpsAwXyHCPS4R3uBwkUOfWuLspUJfUpHW7rTxDIMo54&amp;_rdr
-            </p>
+            <a target="_" href="https://www.facebook.com/people/高雄五甲威信殿/100066450893701/?paipv=0&amp;eav=AfZf036YMOCsJJnv43VRQ--wRpsAwXyHCPS4R3uBwkUOfWuLspUJfUpHW7rTxDIMo54&amp;_rdr">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -195,7 +191,7 @@
             <p>0937-366-399</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/kuojuntn</p>
+            <a target="_" href="https://www.facebook.com/kuojuntn">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -216,7 +212,7 @@
             <p>06-6534-161</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/profile.php?id=100004285353537</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100004285353537">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -237,7 +233,7 @@
             <p>0925-750-626</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/Inaction1</p>
+            <a target="_" href="https://www.facebook.com/Inaction1">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="7%">&nbsp;</td>
@@ -270,7 +266,7 @@
             <p>0920-559-219</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/後龍-普玄壇祖壇-101710921381121</p>
+            <a target="_" href="https://www.facebook.com/後龍-普玄壇祖壇-101710921381121">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="7%">&nbsp;</td>
@@ -303,7 +299,7 @@
             <p>0973-229-465</p>
           </td>
           <td width="38%">
-            <p>https://www.facebook.com/profile.php?id=100002421460757</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100002421460757">連結</a>
           </td>
           <td width="7%">&nbsp;</td>
           <td width="7%">&nbsp;</td>
