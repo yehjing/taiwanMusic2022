@@ -49,7 +49,7 @@
             <p>03-799-1045</p>
           </td>
           <td width="21%">
-            <p>http://www.tcsbuda.org.tw/</p>
+            <a target="_" href="http://www.tcsbuda.org.tw">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -74,7 +74,7 @@
             <p>04-2406-7985</p>
           </td>
           <td width="21%">
-            <p>http://www.tcsbuda.org.tw/</p>
+            <a target="_" href="http://www.tcsbuda.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -99,9 +99,7 @@
             <p>02-2891-6762</p>
           </td>
           <td width="21%">
-            <p>
-              https://zh-tw.facebook.com/people/北投中正山法雨寺/100064602553255/
-            </p>
+            <a target="_" href="https://zh-tw.facebook.com/people/北投中正山法雨寺/100064602553255/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -128,7 +126,7 @@
             <p>049-293-0215</p>
           </td>
           <td width="21%">
-            <p>https://www.ctworld.org.tw/index.htm</p>
+            <a target="_" href="https://www.ctworld.org.tw/index.htm">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -153,7 +151,7 @@
             <p>02-2321-9425</p>
           </td>
           <td width="21%">
-            <p>https://zh-tw.facebook.com/people/中國佛教會/100067470651345/</p>
+            <a target="_" href="https://zh-tw.facebook.com/people/中國佛教會/100067470651345/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -178,7 +176,7 @@
             <p>02-2892-6111</p>
           </td>
           <td width="21%">
-            <p>https://sfcb.ddm.org.tw/</p>
+            <a target="_" href="https://sfcb.ddm.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -203,7 +201,7 @@
             <p>02-2211-0660</p>
           </td>
           <td width="21%">
-            <p>https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA</p>
+            <a target="_" href="https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">
@@ -224,7 +222,7 @@
             <p>07-656-3055</p>
           </td>
           <td width="21%">
-            <p>https://www.religionbmc.org/</p>
+            <a target="_" href="https://www.religionbmc.org/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -250,7 +248,7 @@
             <p>02-8226-7559</p>
           </td>
           <td width="21%">
-            <p>http://www.cibsa.org.tw/</p>
+            <a target="_" href="http://www.cibsa.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -274,7 +272,7 @@
             <p>02-2465-3191</p>
           </td>
           <td width="21%">
-            <p>https://www.facebook.com/LingChuanNo1/</p>
+            <a target="_" href="https://www.facebook.com/LingChuanNo1/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -299,7 +297,7 @@
             <p>02-8231-6118</p>
           </td>
           <td width="21%">
-            <p>https://www.mwr.org.tw/</p>
+            <a target="_" href="https://www.mwr.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -324,9 +322,7 @@
             <p>02-2641-7108</p>
           </td>
           <td width="21%">
-            <p>
-              https://zh-tw.facebook.com/people/臺灣宗教學會/100057634231327/
-            </p>
+            <a target="_" href="https://zh-tw.facebook.com/people/臺灣宗教學會/100057634231327/">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">
@@ -347,7 +343,7 @@
             <p>05-261-1010</p>
           </td>
           <td width="21%">
-            <p>http://www.gaya.org.tw/</p>
+            <a target="_" href="http://www.gaya.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -370,7 +366,7 @@
             <p>07-521-3236 #9</p>
           </td>
           <td width="21%">
-            <p>http://www.yht.org.tw/</p>
+            <a target="_" href="http://www.yht.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -418,7 +414,7 @@
             <p>07-656-1921</p>
           </td>
           <td width="21%">
-            <p>https://www.fgs.org.tw/</p>
+            <a target="_" href="https://www.fgs.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -443,7 +439,7 @@
             <p>06-573-2224</p>
           </td>
           <td width="21%">
-            <p>http://www.tuztuzo.com.tw/Platform/Homepage.aspx</p>
+            <a target="_" href="http://www.tuztuzo.com.tw/Platform/Homepage.aspx">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -468,7 +464,7 @@
             <p>03-922-3964</p>
           </td>
           <td width="21%">
-            <p>https://zh-tw.facebook.com/people/明光寺/100069015379881/</p>
+            <a target="_" href="https://zh-tw.facebook.com/people/明光寺/100069015379881/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -493,7 +489,7 @@
             <p>08-736-6699</p>
           </td>
           <td width="21%">
-            <p>http://www.kunphen.com/</p>
+            <a target="_" href="http://www.kunphen.com/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -516,7 +512,7 @@
             <p>03-867-1001</p>
           </td>
           <td width="21%">
-            <p>http://www.indra-jala.com.tw/</p>
+            <a target="_" href="http://www.indra-jala.com.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -541,7 +537,7 @@
             <p>02-2893-9966</p>
           </td>
           <td width="21%">
-            <p>https://www.ddm.org.tw/</p>
+            <a target="_" href="https://www.ddm.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -567,7 +563,7 @@
             <p>02-2966-1403</p>
           </td>
           <td width="21%">
-            <p>http://www.jyuns.org.tw/</p>
+            <a target="_" href="http://www.jyuns.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -592,7 +588,7 @@
             <p>02-2393-4598</p>
           </td>
           <td width="21%">
-            <p>http://www.dongher.org.tw/</p>
+            <a target="_" href="http://www.dongher.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -617,7 +613,7 @@
             <p>03-387-3141</p>
           </td>
           <td width="21%">
-            <p>https://gaya.gaya.org.tw/</p>
+            <a target="_" href="https://gaya.gaya.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -640,7 +636,7 @@
             <p>04-2239-2816</p>
           </td>
           <td width="21%">
-            <p>https://www.facebook.com/nanputo.taichung.fancepage/</p>
+            <a target="_" href="https://www.facebook.com/nanputo.taichung.fancepage/">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">
@@ -661,7 +657,7 @@
             <p>02-2457-2529</p>
           </td>
           <td width="21%">
-            <p>https://www.tzuchi.org.tw/</p>
+            <a target="_" href="https://www.tzuchi.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -686,7 +682,7 @@
             <p>02-2762-0112</p>
           </td>
           <td width="21%">
-            <p>https://www.blia.org.tw/</p>
+            <a target="_" href="https://www.blia.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -710,7 +706,7 @@
             <p>02-2809-5925</p>
           </td>
           <td width="21%">
-            <p>https://www.facebook.com/people/淡水妙覺寺/100064822353427/</p>
+            <a target="_" href="https://www.facebook.com/people/淡水妙覺寺/100064822353427/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -756,7 +752,7 @@
             <p>07-689-2259</p>
           </td>
           <td width="21%">
-            <p>https://www.clm.org.tw/</p>
+            <a target="_" href="https://www.clm.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -780,7 +776,7 @@
             <p>02-2292-2069</p>
           </td>
           <td width="21%">
-            <p>https://www.facebook.com/pages/智光禪寺/199946073371787</p>
+            <a target="_" href="https://www.facebook.com/pages/智光禪寺/199946073371787">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -826,7 +822,7 @@
             <p>049-275-0010</p>
           </td>
           <td width="21%">
-            <p>https://www.huayenworld.org/</p>
+            <a target="_" href="https://www.huayenworld.org/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -850,7 +846,7 @@
             <p>02-2545-2546</p>
           </td>
           <td width="21%">
-            <p>https://www.blisswisdom.org/#five</p>
+            <a target="_" href="https://www.blisswisdom.org/#five">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -875,7 +871,7 @@
             <p>03-425-6168</p>
           </td>
           <td width="21%">
-            <p>https://www.ykcm.tw/</p>
+            <a target="_" href="https://www.ykcm.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -900,7 +896,7 @@
             <p>03-826-6779</p>
           </td>
           <td width="21%">
-            <p>https://www.tzuchi.org.tw/</p>
+            <a target="_" href="https://www.tzuchi.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -925,7 +921,7 @@
             <p>082-351-943</p>
           </td>
           <td width="21%">
-            <p>https://www.facebook.com/people/金門福慧寺/100079997155607/</p>
+            <a target="_" href="https://www.facebook.com/people/金門福慧寺/100079997155607/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -950,7 +946,7 @@
             <p>02-2341-5758</p>
           </td>
           <td width="21%">
-            <p>http://www.shandaotemple.org.tw/</p>
+            <a target="_" href="http://www.shandaotemple.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -976,7 +972,7 @@
             <p>02-2793-3000</p>
           </td>
           <td width="21%">
-            <p>https://www.hengkuang.net/</p>
+            <a target="_" href="https://www.hengkuang.net/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1024,7 +1020,7 @@
             <p>06-237-4035</p>
           </td>
           <td width="21%">
-            <p>http://www.kaiyuan.org.tw/newfirstpage.asp</p>
+            <a target="_" href="http://www.kaiyuan.org.tw/newfirstpage.asp">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1049,7 +1045,7 @@
             <p>02-2790-2604</p>
           </td>
           <td width="21%">
-            <p>http://www.jinlungyun.org.tw/</p>
+            <a target="_" href="http://www.jinlungyun.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1074,7 +1070,7 @@
             <p>03-959-0000</p>
           </td>
           <td width="21%">
-            <p>http://www.donglin.tw/</p>
+            <a target="_" href="http://www.donglin.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1118,7 +1114,7 @@
             <p>04-2330-2085</p>
           </td>
           <td width="21%">
-            <p>https://wanfo.pixnet.net/blog</p>
+            <a target="_" href="https://wanfo.pixnet.net/blog">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1143,7 +1139,7 @@
             <p>03-531-9052</p>
           </td>
           <td width="21%">
-            <p>https://www.chuefeng.org.tw/</p>
+            <a target="_" href="https://www.chuefeng.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1166,7 +1162,7 @@
             <p>02-2499-1100</p>
           </td>
           <td width="21%">
-            <p>https://www.093.org.tw/</p>
+            <a target="_" href="https://www.093.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1190,7 +1186,7 @@
             <p>02-2291-3771</p>
           </td>
           <td width="21%">
-            <p>https://www.lyuns.org/</p>
+            <a target="_" href="https://www.lyuns.org/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1217,7 +1213,7 @@
             <p>06-228-4532</p>
           </td>
           <td width="21%">
-            <p>https://zh-tw.facebook.com/dehuahall/</p>
+            <a target="_" href="https://zh-tw.facebook.com/dehuahall/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1240,7 +1236,7 @@
             <p>02-8787-6338</p>
           </td>
           <td width="21%">
-            <p>http://www.vg.com.tw/</p>
+            <a target="_" href="http://www.vg.com.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1267,7 +1263,7 @@
             <p>02-2218-5881</p>
           </td>
           <td width="21%">
-            <p>https://www.windmusic.com.tw/</p>
+            <a target="_" href="https://www.windmusic.com.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1293,7 +1289,7 @@
             <p>02-8228-1155</p>
           </td>
           <td width="21%">
-            <p>https://www.facebook.com/tang.meiyun.twopera/?locale=zh_TW</p>
+            <a target="_" href="https://www.facebook.com/tang.meiyun.twopera/?locale=zh_TW">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1320,7 +1316,7 @@
             <p>02-2822-2909</p>
           </td>
           <td width="21%">
-            <p>https://www.pbc.com.tw/index.html</p>
+            <a target="_" href="https://www.pbc.com.tw/index.html">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1345,7 +1341,7 @@
             <p>02-2559-8382</p>
           </td>
           <td width="21%">
-            <p>http://www.aifarecords.com.tw/</p>
+            <a target="_" href="http://www.aifarecords.com.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1370,7 +1366,7 @@
             <p>02-2938-8188</p>
           </td>
           <td width="21%">
-            <p>https://www.utheatre.org.tw/</p>
+            <a target="_" href="https://www.utheatre.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1434,7 +1430,7 @@
             <p>05-226-1464</p>
           </td>
           <td width="21%">
-            <p>https://www.minhsiungdashiye.org.tw/</p>
+            <a target="_" href="https://www.minhsiungdashiye.org.tw/">連結</a>
           </td>
           <td width="9%">
             <p>已立案</p>
@@ -1476,7 +1472,7 @@
             <p>0927-883-229</p>
           </td>
           <td width="21%">
-            <p>https://www.6800254.com.tw/about-us.html</p>
+            <a target="_" href="https://www.6800254.com.tw/about-us.html">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">
@@ -1498,9 +1494,7 @@
             <p>0932-872-371</p>
           </td>
           <td width="21%">
-            <p>
-              https://www.facebook.com/TaiNanFuChengPanGuYaoHuangMiaoshenFuTan/?ref=bookmarks
-            </p>
+            <a target="_" href="https://www.facebook.com/TaiNanFuChengPanGuYaoHuangMiaoshenFuTan/?ref=bookmarks">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">
@@ -1523,7 +1517,7 @@
             <p>03-787-2406</p>
           </td>
           <td width="21%">
-            <p>https://www.facebook.com/jz872406/</p>
+            <a target="_" href="https://www.facebook.com/jz872406/">連結</a>
           </td>
           <td width="9%">&nbsp;</td>
           <td width="9%">
