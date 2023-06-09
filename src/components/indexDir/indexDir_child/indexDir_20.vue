@@ -47,7 +47,7 @@
             <p>0939-373-691</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/KLSWO/</p>
+            <a target="_" href="https://www.facebook.com/KLSWO/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -71,7 +71,7 @@
             <p>02-2423-3717</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/CYCWINDORCHESTRA/</p>
+            <a target="_" href="https://www.facebook.com/CYCWINDORCHESTRA/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -95,7 +95,7 @@
             <p>02-2423-1415</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/keelungcpo/</p>
+            <a target="_" href="https://www.facebook.com/keelungcpo/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -119,7 +119,7 @@
             <p>02-3393-9888</p>
           </td>
           <td width="30%">
-            <p>https://npac-nso.org/zh/</p>
+            <a target="_" href="https://npac-nso.org/zh/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -143,7 +143,7 @@
             <p>02-2351-6799</p>
           </td>
           <td width="30%">
-            <p>https://www.evergreensymphony.org/</p>
+            <a target="_" href="https://www.evergreensymphony.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -167,9 +167,7 @@
             <p>02-2947-9273</p>
           </td>
           <td width="30%">
-            <p>
-              https://www.facebook.com/people/林中光音樂工作室/100063782026805/
-            </p>
+            <a target="_" href="https://www.facebook.com/people/林中光音樂工作室/100063782026805/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -193,9 +191,7 @@
             <p>02-2577-5931#342</p>
           </td>
           <td width="30%">
-            <p>
-              https://www.facebook.com/people/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In/100057700380401/
-            </p>
+            <a target="_" href="https://www.facebook.com/people/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In/100057700380401/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -219,7 +215,7 @@
             <p>02-2369-4802</p>
           </td>
           <td width="30%">
-            <p>amatwn@ms17.hinet.net</p>
+            <a href="mailto:amatwn@ms17.hinet.net">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -243,7 +239,7 @@
             <p>02-2312-4248</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/台灣耶魯室內樂團-254131211303053/</p>
+            <a target="_" href="https://www.facebook.com/台灣耶魯室內樂團-254131211303053/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -267,7 +263,7 @@
             <p>02-2397-0979</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/taipeiphil.org/</p>
+            <a target="_" href="https://www.facebook.com/taipeiphil.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -291,7 +287,7 @@
             <p>02-2321-9035</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/profile.php?id=100063774937282</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100063774937282">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -315,7 +311,7 @@
             <p>02-2321-8168</p>
           </td>
           <td width="30%">
-            <p>http://www.atstrings.com.tw/</p>
+            <a target="_" href="http://www.atstrings.com.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -339,7 +335,7 @@
             <p>0937-878-251</p>
           </td>
           <td width="30%">
-            <p>snoopyshark@gmail.com</p>
+            <a href="mailto:snoopyshark@gmail.com">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -363,7 +359,7 @@
             <p>0912-333-064</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/artrichquartet/</p>
+            <a target="_" href="https://www.facebook.com/artrichquartet/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -387,7 +383,7 @@
             <p>07-2414-611</p>
           </td>
           <td width="30%">
-            <p>http://www.formosabaroque.com/</p>
+            <a target="_" href="http://www.formosabaroque.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -411,7 +407,7 @@
             <p>02-2765-6145</p>
           </td>
           <td width="30%">
-            <p>https://tpperc.weebly.com/</p>
+            <a target="_" href="https://tpperc.weebly.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -435,7 +431,7 @@
             <p>02-7720-0288</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/singing99</p>
+            <a target="_" href="https://www.facebook.com/singing99">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -459,7 +455,7 @@
             <p>0978-372-100</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/ShuanghsiMusicForum/</p>
+            <a target="_" href="https://www.facebook.com/ShuanghsiMusicForum/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -483,7 +479,7 @@
             <p>0920-503-021</p>
           </td>
           <td width="30%">
-            <p>https://www.livesprings.org/</p>
+            <a target="_" href="https://www.livesprings.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -507,7 +503,7 @@
             <p>02-2894-2272</p>
           </td>
           <td width="30%">
-            <p>http://springautumnmusic.com/index.html</p>
+            <a target="_" href="http://springautumnmusic.com/index.html">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -531,7 +527,7 @@
             <p>02-2891-9900</p>
           </td>
           <td width="30%">
-            <p>http://www.jpg.org.tw/</p>
+            <a target="_" href="http://www.jpg.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -555,7 +551,7 @@
             <p>02-2891-9900</p>
           </td>
           <td width="30%">
-            <p>http://www.jpg.org.tw/</p>
+            <a target="_" href="http://www.jpg.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -579,7 +575,7 @@
             <p>0911-817-939</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/interestringquartet</p>
+            <a target="_" href="https://www.facebook.com/interestringquartet">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -603,7 +599,7 @@
             <p>02-2700-7592</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/HeySeed.Clarinet/</p>
+            <a target="_" href="https://www.facebook.com/HeySeed.Clarinet/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -627,7 +623,7 @@
             <p>02-2702-7253</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/TMSO1990/</p>
+            <a target="_" href="https://www.facebook.com/TMSO1990/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -651,7 +647,7 @@
             <p>02-2944-2244</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/tsclarinetensemble/</p>
+            <a target="_" href="https://www.facebook.com/tsclarinetensemble/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -675,7 +671,7 @@
             <p>02-2773-3691</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/tpye.taiwan/</p>
+            <a target="_" href="https://www.facebook.com/tpye.taiwan/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -699,7 +695,7 @@
             <p>0912-769-693</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/Formusica.tw/</p>
+            <a target="_" href="https://www.facebook.com/Formusica.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -723,7 +719,7 @@
             <p>0911-135-413</p>
           </td>
           <td width="30%">
-            <p>claptap.taipei@gmail.com</p>
+            <a href="mailto:claptap.taipei@gmail.com">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -747,9 +743,7 @@
             <p>02-3365-2114</p>
           </td>
           <td width="30%">
-            <p>
-              https://www.facebook.com/people/Yeh-Shu-Han-Brass-Quintet-葉樹涵銅管五重奏樂團/100057240828348/
-            </p>
+            <a target="_" href="https://www.facebook.com/people/Yeh-Shu-Han-Brass-Quintet-葉樹涵銅管五重奏樂團/100057240828348/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -773,7 +767,7 @@
             <p>02-2367-0039</p>
           </td>
           <td width="30%">
-            <p>https://www.mit-sax.com/</p>
+            <a target="_" href="https://www.mit-sax.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -797,7 +791,7 @@
             <p>0975-251-538</p>
           </td>
           <td width="30%">
-            <p>https://www.suntaipeiphil.org/</p>
+            <a target="_" href="https://www.suntaipeiphil.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -821,7 +815,7 @@
             <p>02-2708-3700</p>
           </td>
           <td width="30%">
-            <p>https://momentmusical.weebly.com/</p>
+            <a target="_" href="https://momentmusical.weebly.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -845,7 +839,7 @@
             <p>02-2391-0918</p>
           </td>
           <td width="30%">
-            <p>hanart.taiwan@gmail.com</p>
+            <a href="mailto:hanart.taiwan@gmail.com">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -869,7 +863,7 @@
             <p>02-2578-6731</p>
           </td>
           <td width="30%">
-            <p>https://www.tso.gov.taipei/</p>
+            <a target="_" href="https://www.tso.gov.taipei/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -893,7 +887,7 @@
             <p>02-2286-9792</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/profile.php?id=100063882603452</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100063882603452">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -917,7 +911,7 @@
             <p>0988-292-234</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/barockensembletaipei</p>
+            <a target="_" href="https://www.facebook.com/barockensembletaipei">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -941,7 +935,7 @@
             <p>02-2593-6586</p>
           </td>
           <td width="30%">
-            <p>http://www.onesongorchestra.com/</p>
+            <a target="_" href="http://www.onesongorchestra.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -965,7 +959,7 @@
             <p>02-3765-1985</p>
           </td>
           <td width="30%">
-            <p>pylinturtle@gmail.com</p>
+            <a href="mailto:pylinturtle@gmail.com">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -989,7 +983,7 @@
             <p>02-2593-5811</p>
           </td>
           <td width="30%">
-            <p>https://www.musforum.com.tw/</p>
+            <a target="_" href="https://www.musforum.com.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1013,7 +1007,7 @@
             <p>02-2666-9259</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/CCamerata/</p>
+            <a target="_" href="https://www.facebook.com/CCamerata/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1037,7 +1031,7 @@
             <p>02-2993-3893</p>
           </td>
           <td width="30%">
-            <p>sswe@sswe.org</p>
+            <a href="mailto:sswe@sswe.org">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1061,7 +1055,7 @@
             <p>0938-883-997</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/bachanaliataiwan/</p>
+            <a target="_" href="https://www.facebook.com/bachanaliataiwan/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1085,7 +1079,7 @@
             <p>02-2953-6619</p>
           </td>
           <td width="30%">
-            <p>https://www.chansontpe.org/</p>
+            <a target="_" href="https://www.chansontpe.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1109,7 +1103,7 @@
             <p>0937-515-905</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/vsso1997/</p>
+            <a target="_" href="https://www.facebook.com/vsso1997/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1133,7 +1127,7 @@
             <p>0973-781-933</p>
           </td>
           <td width="30%">
-            <p>http://twincussion.com/</p>
+            <a target="_" href="http://twincussion.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1157,7 +1151,7 @@
             <p>02-2288-8637</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/dreamphony</p>
+            <a target="_" href="https://www.facebook.com/dreamphony">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1181,7 +1175,7 @@
             <p>03-499-0111</p>
           </td>
           <td width="30%">
-            <p>http://www.ltpo.com.tw/</p>
+            <a target="_" href="http://www.ltpo.com.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1205,7 +1199,7 @@
             <p>03-325-1180</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/ConBello2017/</p>
+            <a target="_" href="https://www.facebook.com/ConBello2017/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1229,7 +1223,7 @@
             <p>03-331-5855</p>
           </td>
           <td width="30%">
-            <p>http://web.tysb.org.tw/</p>
+            <a target="_" href="http://web.tysb.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1253,7 +1247,7 @@
             <p>03-324-3699</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/windsoundensemble.tw/</p>
+            <a target="_" href="https://www.facebook.com/windsoundensemble.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1277,7 +1271,7 @@
             <p>0983-553-105</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/SMLE2018/</p>
+            <a target="_" href="https://www.facebook.com/SMLE2018/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1301,7 +1295,7 @@
             <p>03-545-6696</p>
           </td>
           <td width="30%">
-            <p>https://www.hcwo.net/</p>
+            <a target="_" href="https://www.hcwo.net/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1325,7 +1319,7 @@
             <p>03-6683-642</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/bratsche.artist/</p>
+            <a target="_" href="https://www.facebook.com/bratsche.artist/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1349,7 +1343,7 @@
             <p>04-2339-1141</p>
           </td>
           <td width="30%">
-            <p>https://www.ntso.gov.tw/</p>
+            <a target="_" href="https://www.ntso.gov.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1373,7 +1367,7 @@
             <p>0963-129-038</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/taiwanyouthband/</p>
+            <a target="_" href="https://www.facebook.com/taiwanyouthband/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1397,7 +1391,7 @@
             <p>04-2529-4863</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/Capricciorecorder/</p>
+            <a target="_" href="https://www.facebook.com/Capricciorecorder/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1421,7 +1415,9 @@
             <p>0932-455-901</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/picknotesensemble/</p>
+            <a target="_" href="https://www.facebook.com/picknotesensemble/">連結</a>
+
+            <p></p>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1445,7 +1441,7 @@
             <p>04-2378-7838</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/TCSO2020NEW/</p>
+            <a target="_" href="https://www.facebook.com/TCSO2020NEW/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1469,7 +1465,7 @@
             <p>0987-466-327</p>
           </td>
           <td width="30%">
-            <p>http://www.chyb1992.com/</p>
+            <a target="_" href="http://www.chyb1992.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1493,7 +1489,7 @@
             <p>049-2316-387</p>
           </td>
           <td width="30%">
-            <p>https://www.chin-ai.org.tw/</p>
+            <a target="_" href="https://www.chin-ai.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1517,7 +1513,7 @@
             <p>0919-011-777</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/profile.php?id=100068827183094</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100068827183094">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1541,7 +1537,7 @@
             <p>0927-575-570</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/chiasongensemble</p>
+            <a target="_" href="https://www.facebook.com/chiasongensemble">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1565,7 +1561,7 @@
             <p>0929-257-213</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/ChiaYiWindOrchestra/</p>
+            <a target="_" href="https://www.facebook.com/ChiaYiWindOrchestra/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1589,7 +1585,7 @@
             <p>0929-048-109</p>
           </td>
           <td width="30%">
-            <p>http://www.wsa.com.tw/</p>
+            <a target="_" href="http://www.wsa.com.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1613,7 +1609,7 @@
             <p>06-590-7609</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/tsbandsh/</p>
+            <a target="_" href="https://www.facebook.com/tsbandsh/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1637,7 +1633,7 @@
             <p>0920-026-192</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/dreamlandEnsemble/</p>
+            <a target="_" href="https://www.facebook.com/dreamlandEnsemble/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1661,7 +1657,7 @@
             <p>06-297-9989</p>
           </td>
           <td width="30%">
-            <p>http://www.tso.org.tw/</p>
+            <a target="_" href="http://www.tso.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1685,7 +1681,7 @@
             <p>06-703-5353</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/TASOBRAVO/</p>
+            <a target="_" href="https://www.facebook.com/TASOBRAVO/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1709,7 +1705,7 @@
             <p>06-282-7469</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/profile.php?id=100066763687037</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100066763687037">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1733,7 +1729,7 @@
             <p>07-743-6633</p>
           </td>
           <td width="30%">
-            <p>http://kpcaf.khcc.gov.tw/index.php?temp=kso&amp;lang=cht</p>
+            <a target="_" href="http://kpcaf.khcc.gov.tw/index.php?temp=kso&amp;lang=cht">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1757,7 +1753,7 @@
             <p>0928-838-325</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/GongJueDaTiQinShiNeiLeTuan</p>
+            <a target="_" href="https://www.facebook.com/GongJueDaTiQinShiNeiLeTuan">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1781,7 +1777,7 @@
             <p>07-385-5641</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/SPG1995/</p>
+            <a target="_" href="https://www.facebook.com/SPG1995/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1805,7 +1801,7 @@
             <p>07-282-8496</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/profile.php?id=100063766567774</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100063766567774">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1829,7 +1825,7 @@
             <p>07-341-1356</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/chiayinchamberorchestra/</p>
+            <a target="_" href="https://www.facebook.com/chiayinchamberorchestra/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1853,7 +1849,7 @@
             <p>07-226-0989</p>
           </td>
           <td width="30%">
-            <p>https://www.counterpoint.org.tw/index.aspx?langid=1</p>
+            <a target="_" href="https://www.counterpoint.org.tw/index.aspx?langid=1">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1877,7 +1873,7 @@
             <p>07-223-5800</p>
           </td>
           <td width="30%">
-            <p>http://www.taiwansoloists.org/</p>
+            <a target="_" href="http://www.taiwansoloists.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1901,7 +1897,7 @@
             <p>07-335-6918</p>
           </td>
           <td width="30%">
-            <p>https://kcwo2012.com/</p>
+            <a target="_" href="https://kcwo2012.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1925,7 +1921,7 @@
             <p>07-525-0221</p>
           </td>
           <td width="30%">
-            <p>http://www.baroque-camerata.org/</p>
+            <a target="_" href="http://www.baroque-camerata.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1949,7 +1945,7 @@
             <p>07-554-1797</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/artsblooming2008/</p>
+            <a target="_" href="https://www.facebook.com/artsblooming2008/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1975,7 +1971,7 @@
             </p>
           </td>
           <td width="30%">
-            <p>https://sixartsmusic.weebly.com/</p>
+            <a target="_" href="https://sixartsmusic.weebly.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -1999,7 +1995,7 @@
             <p>07-537-2008</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/yuri.violin/</p>
+            <a target="_" href="https://www.facebook.com/yuri.violin/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2023,7 +2019,7 @@
             <p>07-662-3208</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/kce.taiwan/</p>
+            <a target="_" href="https://www.facebook.com/kce.taiwan/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2047,7 +2043,7 @@
             <p>0980-677-676</p>
           </td>
           <td width="30%">
-            <p>https://www.tlbebrass.com/</p>
+            <a target="_" href="https://www.tlbebrass.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2071,7 +2067,7 @@
             <p>08-737-2099</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/ptso2016/</p>
+            <a target="_" href="https://www.facebook.com/ptso2016/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2095,7 +2091,7 @@
             <p>0952-003-877</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/yso.yilan</p>
+            <a target="_" href="https://www.facebook.com/yso.yilan">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2119,7 +2115,7 @@
             <p>0914-034-039</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/LanYangBrassQuintet/</p>
+            <a target="_" href="https://www.facebook.com/LanYangBrassQuintet/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2143,7 +2139,7 @@
             <p>03-832-4517</p>
           </td>
           <td width="30%">
-            <p>https://phononmusic.net/</p>
+            <a target="_" href="https://phononmusic.net/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2167,7 +2163,7 @@
             <p>0937-979-425</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/profile.php?id=100057538416019</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100057538416019">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2191,7 +2187,7 @@
             <p>089-228-678</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/TTechoOrchestra</p>
+            <a target="_" href="https://www.facebook.com/TTechoOrchestra">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2215,7 +2211,7 @@
             <p>07-711-2618</p>
           </td>
           <td width="30%">
-            <p>https://www.stcms.org/</p>
+            <a target="_" href="https://www.stcms.org/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2239,7 +2235,7 @@
             <p>02-2425-3518</p>
           </td>
           <td width="30%">
-            <p>https://www.yuyun.org.tw/</p>
+            <a target="_" href="https://www.yuyun.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2263,7 +2259,7 @@
             <p>02-2425-5289</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/KeelungPhilharmonicChoir/</p>
+            <a target="_" href="https://www.facebook.com/KeelungPhilharmonicChoir/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2287,7 +2283,7 @@
             <p>0937-049-844</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/TaipeiCenturyChoir</p>
+            <a target="_" href="https://www.facebook.com/TaipeiCenturyChoir">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2311,7 +2307,7 @@
             <p>0952-790-068</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/NTUChorus/</p>
+            <a target="_" href="https://www.facebook.com/NTUChorus/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2335,7 +2331,7 @@
             <p>02-2776-4089</p>
           </td>
           <td width="30%">
-            <p>http://www.tcschoir.org.tw/</p>
+            <a target="_" href="http://www.tcschoir.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2359,7 +2355,7 @@
             <p>02-2365-8943</p>
           </td>
           <td width="30%">
-            <p>https://www.muller.org.tw/</p>
+            <a target="_" href="https://www.muller.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2383,7 +2379,7 @@
             <p>0952-690-112</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/gMajortw</p>
+            <a target="_" href="https://www.facebook.com/gMajortw">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2407,7 +2403,7 @@
             <p>0906-158-669</p>
           </td>
           <td width="30%">
-            <p>https://www.tabernacletaiwan.com/</p>
+            <a target="_" href="https://www.tabernacletaiwan.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2431,7 +2427,7 @@
             <p>02-2591-9422</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/FormosaSingers/</p>
+            <a target="_" href="https://www.facebook.com/FormosaSingers/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2455,7 +2451,7 @@
             <p>0910-229-300</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/tccchoir/</p>
+            <a target="_" href="https://www.facebook.com/tccchoir/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2479,7 +2475,7 @@
             <p>02-2920-9028</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/shiamishiami/</p>
+            <a target="_" href="https://www.facebook.com/shiamishiami/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2503,7 +2499,7 @@
             <p>0975-977-831</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/Chinyunchorus/</p>
+            <a target="_" href="https://www.facebook.com/Chinyunchorus/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2527,7 +2523,7 @@
             <p>03-532-2800</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/YiPhoneChamberChoir/</p>
+            <a target="_" href="https://www.facebook.com/YiPhoneChamberChoir/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2551,7 +2547,7 @@
             <p>0978-589-019</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/TaichungChamberChoir</p>
+            <a target="_" href="https://www.facebook.com/TaichungChamberChoir">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2575,7 +2571,7 @@
             <p>0982-918-508</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/sstaichung</p>
+            <a target="_" href="https://www.facebook.com/sstaichung">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2599,7 +2595,7 @@
             <p>0926-057-609</p>
           </td>
           <td width="30%">
-            <p>https://ckacmain.azurewebsites.net/</p>
+            <a target="_" href="https://ckacmain.azurewebsites.net/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2623,7 +2619,7 @@
             <p>07-222-2358</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/profile.php?id=100063806777612</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100063806777612">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2647,7 +2643,7 @@
             <p>07-215-7604</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/CenturyVoiceChoir/</p>
+            <a target="_" href="https://www.facebook.com/CenturyVoiceChoir/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2671,7 +2667,7 @@
             <p>0939-327-291</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/WuShiLan.Philharmonic.Choir/</p>
+            <a target="_" href="https://www.facebook.com/WuShiLan.Philharmonic.Choir/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2695,7 +2691,7 @@
             <p>0937-168-385</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/HualienChoir/</p>
+            <a target="_" href="https://www.facebook.com/HualienChoir/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2719,7 +2715,7 @@
             <p>0923-800-359</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/TTNDChorus/</p>
+            <a target="_" href="https://www.facebook.com/TTNDChorus/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2745,7 +2741,7 @@
             </p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/acltaiwanofficial/</p>
+            <a target="_" href="https://www.facebook.com/acltaiwanofficial/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2769,7 +2765,7 @@
             <p>02-2624-1091</p>
           </td>
           <td width="30%">
-            <p>http://iscmtw.blogspot.com/</p>
+            <a target="_" href="http://iscmtw.blogspot.com/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2793,7 +2789,7 @@
             <p>02-2577-2568</p>
           </td>
           <td width="30%">
-            <p>https://www.newaspect.org.tw/</p>
+            <a target="_" href="https://www.newaspect.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2817,7 +2813,7 @@
             <p>02-2773-3691</p>
           </td>
           <td width="30%">
-            <p>https://www.tpf.org.tw/</p>
+            <a target="_" href="https://www.tpf.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2841,7 +2837,7 @@
             <p>02-3322-1428</p>
           </td>
           <td width="30%">
-            <p>https://www.facebook.com/apstring</p>
+            <a target="_" href="https://www.facebook.com/apstring">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2865,7 +2861,7 @@
             <p>02-3393-8779</p>
           </td>
           <td width="30%">
-            <p>http://www.vocalistasso.org.tw/</p>
+            <a target="_" href="http://www.vocalistasso.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2889,7 +2885,7 @@
             <p>02-2749-1506</p>
           </td>
           <td width="30%">
-            <p>https://www.ncaa.com.tw/</p>
+            <a target="_" href="https://www.ncaa.com.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2913,7 +2909,7 @@
             <p>02-2891-9900</p>
           </td>
           <td width="30%">
-            <p>http://www.jpg.org.tw/</p>
+            <a target="_" href="http://www.jpg.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2937,7 +2933,7 @@
             <p>02-2362-2227</p>
           </td>
           <td width="30%">
-            <p>https://www.studioacht.com.tw/</p>
+            <a target="_" href="https://www.studioacht.com.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2961,7 +2957,7 @@
             <p>02-2920-9028</p>
           </td>
           <td width="30%">
-            <p>http://www.tcmc.org.tw/</p>
+            <a target="_" href="http://www.tcmc.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -2985,7 +2981,7 @@
             <p>02-8913-2068</p>
           </td>
           <td width="30%">
-            <p>http://www.tmccaf.org.tw/</p>
+            <a target="_" href="http://www.tmccaf.org.tw/">連結</a>
           </td>
           <td width="7%">
             <p>已立案</p>
@@ -3009,7 +3005,9 @@
             <p>07-743-6633</p>
           </td>
           <td width="30%">
-            <p>https://kpcaf.kcg.gov.tw/</p>
+            <a target="_" href="https://kpcaf.kcg.gov.tw/">連結</a>
+
+            <p></p>
           </td>
           <td width="7%">
             <p>已立案</p>
