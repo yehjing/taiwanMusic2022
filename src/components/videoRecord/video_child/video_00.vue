@@ -81,7 +81,7 @@ const tabs = [
     img: img5
   },
   {
-    name: '原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族',
+    name: '原住民音樂－泰雅族、鄒族、邵族、布農族、噶瑪蘭族、賽德克族',
     autor: '',
     component: Video6,
     path: 'videoRecord_6',

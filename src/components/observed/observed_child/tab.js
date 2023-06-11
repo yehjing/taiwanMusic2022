@@ -20,13 +20,13 @@ const tabs1 = [
     path: 'observed_4',
   },
   {
-    name: '原住民音樂－賽夏族、阿美族、卑南族、雅美（達悟）族',
-    autor: '呂鈺秀',
+    name: '原住民音樂－賽夏族、阿美族、卑南族、雅美族、太魯閣族、撒奇萊雅族',
+    autor: '孫俊彥',
     path: 'observed_5',
   },
   {
-    name: '原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族',
-    autor: '錢善華',
+    name: '原住民音樂－泰雅族、鄒族、邵族、布農族、噶瑪蘭族、賽德克族',
+    autor: '魏心怡',
     path: 'observed_6',
   },
   {
@@ -34,14 +34,14 @@ const tabs1 = [
     autor: '周明傑',
     path: 'observed_7',
   },
+  // {
+  //   name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
+  //   autor: '魏心怡',
+  //   path: 'observed_8',
+  // },
   {
-    name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
-    autor: '魏心怡',
-    path: 'observed_8',
-  },
-  {
-    name: '佛教音樂',
-    autor: '陳碧燕',
+    name: '佛教、釋教音樂',
+    autor: '何麗華',
     path: 'observed_9',
   },
   {

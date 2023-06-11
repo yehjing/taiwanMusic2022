@@ -25,7 +25,7 @@ const tabs1 = [
     path: 'videoRecord_5',
   },
   {
-    name: '原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族',
+    name: '原住民音樂－泰雅族、鄒族、邵族、布農族、噶瑪蘭族、賽德克族',
     autor: '',
     path: 'videoRecord_6',
   },
@@ -40,7 +40,7 @@ const tabs1 = [
     path: 'videoRecord_8',
   },
   {
-    name: '佛教音樂',
+    name: '佛教、釋教音樂',
     autor: '',
     path: 'videoRecord_9',
   },

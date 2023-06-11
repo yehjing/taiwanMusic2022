@@ -26,7 +26,7 @@ import Observed_4 from '@/components/observed/observed_child/observed_4';
 import Observed_5 from '@/components/observed/observed_child/observed_5';
 import Observed_6 from '@/components/observed/observed_child/observed_6';
 import Observed_7 from '@/components/observed/observed_child/observed_7';
-import Observed_8 from '@/components/observed/observed_child/observed_8';
+// import Observed_8 from '@/components/observed/observed_child/observed_8';
 import Observed_9 from '@/components/observed/observed_child/observed_9';
 import Observed_10 from '@/components/observed/observed_child/observed_10';
 import Observed_11 from '@/components/observed/observed_child/observed_11';
@@ -200,12 +200,12 @@ export default new VueRouter({
           component: Observed_4,
         },
         {
-          name: '傳統音樂 / 原住民音樂－泰雅族、賽夏族、阿美族、卑南族音樂',
+          name: '傳統音樂 / 原住民音樂－賽夏族、阿美族、卑南族、雅美族、太魯閣族、撒奇萊雅族',
           path: 'Observed_5',
           component: Observed_5,
         },
         {
-          name: '傳統音樂 / 原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
+          name: '傳統音樂 / 原住民音樂－泰雅族、鄒族、邵族、布農族、噶瑪蘭族、賽德克族、雅美（達悟）族',
           path: 'Observed_6',
           component: Observed_6,
         },
@@ -214,13 +214,13 @@ export default new VueRouter({
           path: 'Observed_7',
           component: Observed_7,
         },
+        // {
+        //   name: '傳統音樂 / 原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
+        //   path: 'Observed_8',
+        //   component: Observed_8,
+        // },
         {
-          name: '傳統音樂 / 原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
-          path: 'Observed_8',
-          component: Observed_8,
-        },
-        {
-          name: '傳統音樂 / 佛教音樂',
+          name: '傳統音樂 / 佛教、釋教音樂',
           path: 'Observed_9',
           component: Observed_9,
         },
@@ -338,7 +338,7 @@ export default new VueRouter({
           component: VideoRecord_5,
         },
         {
-          name: '傳統音樂 / 原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
+          name: '傳統音樂 / 原住民音樂－泰雅族、鄒族、邵族、布農族、噶瑪蘭族、賽德克族、雅美（達悟）族',
           path: 'videoRecord_6',
           component: VideoRecord_6,
         },
@@ -353,7 +353,7 @@ export default new VueRouter({
           component: VideoRecord_8,
         },
         {
-          name: '傳統音樂 / 佛教音樂',
+          name: '傳統音樂 / 佛教、釋教音樂',
           path: 'videoRecord_9',
           component: VideoRecord_9,
         },
