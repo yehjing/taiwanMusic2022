@@ -47,7 +47,7 @@
             <p>02-27936477</p>
           </td>
           <td width="17%">
-            <p>https://www.facebook.com/ayugohuang/</p>
+            <a target="_" href="https://www.facebook.com/ayugohuang/">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -73,7 +73,7 @@
             <p>02-27525293</p>
           </td>
           <td width="17%">
-            <p>https://www.facebook.com/ennocheng</p>
+            <a target="_" href="https://www.facebook.com/ennocheng">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -99,7 +99,7 @@
             <p>02-87683322</p>
           </td>
           <td width="17%">
-            <p>https://www.facebook.com/tessi0905</p>
+            <a target="_" href="https://www.facebook.com/tessi0905">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -128,7 +128,7 @@
             <p>02-27417065</p>
           </td>
           <td width="17%">
-            <p>https://www.facebook.com/mchotdogmusic</p>
+            <a target="_" href="https://www.facebook.com/mchotdogmusic">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -155,7 +155,7 @@
             <p>02-23255956&nbsp;</p>
           </td>
           <td width="17%">
-            <p>https://www.facebook.com/ericchou0622</p>
+            <a target="_" href="https://www.facebook.com/ericchou0622">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -181,7 +181,7 @@
             <p>02-86676789</p>
           </td>
           <td width="17%">
-            <p>https://www.facebook.com/YenChengLan</p>
+            <a target="_" href="https://www.facebook.com/YenChengLan">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -209,7 +209,7 @@
             <p>02-25234080</p>
           </td>
           <td width="17%">
-            <p>https://www.lovelytaiwan.org.tw/web/index.php</p>
+            <a target="_" href="https://www.lovelytaiwan.org.tw/web/index.php">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
@@ -234,7 +234,7 @@
             <p>臺北市文山區景中街41號2樓</p>
           </td>
           <td width="17%">
-            <p>https://zh-tw.facebook.com/ClickMusic.co</p>
+            <a target="_" href="https://zh-tw.facebook.com/ClickMusic.co">連結</a>
           </td>
           <td width="8%">
             <p>已立案</p>
