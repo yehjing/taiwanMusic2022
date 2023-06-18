@@ -45,7 +45,7 @@ const tabs1 = [
     path: 'observed_9',
   },
   {
-    name: '道、法、釋教音樂',
+    name: '道、法教音樂',
     autor: '楊秀娟',
     path: 'observed_10',
   },
@@ -58,12 +58,12 @@ const tabs1 = [
 const tabs2 = [
   {
     name: '國樂',
-    autor: '林昱廷',
+    autor: '林心智',
     path: 'observed_11',
   },
   {
     name: '西樂及混合編制',
-    autor: '連憲升',
+    autor: '連憲升、張羣禾',
     path: 'observed_12',
   },
 ];
@@ -77,7 +77,7 @@ const tabs3 = [
 const tabs4 = [
   {
     name: '跨界音樂與其他',
-    autor: '蔡宗德、陳靜儀',
+    autor: '陳慧珊',
     path: 'observed_14',
   },
 ];

@@ -24,8 +24,8 @@ const tabs = [
   //   component: ObservedPreface4,
   // },
   {
-    name: '2021年度跨界音樂與其他之活動觀察與評介',
-    autor: '蔡宗德、陳靜儀',
+    name: '2022年度跨界音樂與其他之活動觀察與評介',
+    autor: '陳慧珊',
     component: Observed14,
     path: 'observed_14',
   },

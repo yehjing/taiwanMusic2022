@@ -26,13 +26,13 @@ const tabs = [
   // },
   {
     name: '2021年度國樂活動觀察與評介',
-    autor: '林昱廷',
+    autor: '林心智',
     component: Observed11,
     path: 'observed_11',
   },
   {
     name: '2021年度西樂及混合編制活動觀察與評介',
-    autor: '連憲升',
+    autor: '連憲升、張羣禾',
     component: Observed12,
     path: 'observed_12',
   },

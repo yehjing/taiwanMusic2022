@@ -88,7 +88,7 @@ const tabs = [
     path: 'observed_9',
   },
   {
-    name: '2022年度道、法、釋教音樂活動觀察與評介',
+    name: '2022年度道、法教音樂活動觀察與評介',
     autor: '楊秀娟',
     component: Observed10,
     path: 'observed_10',
