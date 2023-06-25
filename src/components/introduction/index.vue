@@ -1,13 +1,15 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
+      <div class="middleItem noLeaf" :class="activeName === '' ? 'active' : ''" @click="clickLink('')">
         國立傳統藝術中心主任序
       </div>
-      <div class="middleItem noLeaf" :class="activeName === 'introduction_2' ? 'active' :''" @click="clickLink('introduction_2')">
+      <div class="middleItem noLeaf" :class="activeName === 'introduction_2' ? 'active' : ''"
+        @click="clickLink('introduction_2')">
         臺灣音樂館兼代館主任序
       </div>
-      <div class="middleItem noLeaf" :class="activeName === 'introduction_3' ? 'active' :''" @click="clickLink('introduction_3')">
+      <div class="middleItem noLeaf" :class="activeName === 'introduction_3' ? 'active' : ''"
+        @click="clickLink('introduction_3')">
         主編序
       </div>
     </aside>
@@ -43,5 +45,4 @@ export default {
 };
 </script>
 
-<style rel="stylesheet/scss" lang="scss" scoped>
-</style>
+<style rel="stylesheet/scss" lang="scss" scoped></style>
