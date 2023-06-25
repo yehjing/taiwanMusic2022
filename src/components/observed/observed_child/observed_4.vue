@@ -193,124 +193,190 @@
 <li>大八板：深井新興軒北管八音團（江宥憲領奏）</li>
 <li>大團圓：九團合奏（關西祖傳隴西八音團領奏）</li>
 </ol>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="598">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-<tbody>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖1.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖2.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖3.jpeg" alt="" />
+</td>
+</tr>
 <tr>
-<td width="598">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-<tbody>
-<tr>
-<td width="321">
+<td>
 <p>圖1：關西祖傳隴西八音團</p>
 </td>
-<td width="127">
+<td>
 <p>圖2：新埔內立同樂軒</p>
 </td>
-<td width="127">
+<td>
 <p>圖3：深井新興軒北管八音團</p>
 </td>
 </tr>
 <tr>
-<td width="321">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖4.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖5.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖6.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖4：新竹北埔八音團</p>
 </td>
-<td width="127">
+<td>
 <p>圖5：田屋北管八音團</p>
 </td>
-<td width="127">
+<td>
 <p>圖6：吉聲八音團</p>
 </td>
 </tr>
 <tr>
-<td width="321">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖7.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖8.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖9.jpg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖7：和成八音團</p>
 </td>
-<td width="127">
+<td>
 <p>圖8：苗栗縣益揚軒八音團</p>
 </td>
-<td width="127">
+<td>
 <p>圖9：美濃客家八音團</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>圖說：客家八音匯演於新竹縣新埔義民廟舉辦，藉「義魄千秋2022義民祭在新竹縣」系列活動人潮提高曝光度，計有九團八音團參與其中，包括北部八音團與南部八音團。（林曉英拍攝於新埔義民廟前廣場，2022/08/13）</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;民間義民祭的舉辦規模大小不一，新竹新埔義民廟8月17日「義魄千秋2022義民祭在新竹縣－義民祭系列活動」是「祭典祈福大典」的舉行日。在地的新竹「北埔八音團」為詹益稔信士延請，擔任「新埔聯莊祭典」前一晚自家祖堂祭祖「鬧廳」，以及祭典當日之遶境與廟埕「打八音」工作，呈現八音在原生場域裡的另一種樣態。<a href="#_ftn14" name="_ftnref14">[14]</a>「義民祭」在義民廟前現場，諾大的廟埕裡承載各式民俗藝文聲響，包含科儀（內外壇）、打八音（多團八音團）、演劇、舞獅鼓聲等，呈現多層次複雜肌理的人文景觀，體現信仰圈民俗祭儀凝聚人群的力道。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table >
 <tbody>
 <tr>
-<td width="598">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<td>
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="598">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-<tbody>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖10.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖11.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖12.jpg" alt="" />
+</td>
+</tr>
 <tr>
-<td width="198">
+<td>
 <p>圖10：鬧廳</p>
 </td>
-<td width="170">
+<td>
 <p>圖11：鬧廳</p>
 </td>
-<td width="206">
+<td>
 <p>圖12：北埔八音團</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖13.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖14.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖15.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖13：往義民廟出發</p>
 </td>
-<td width="170">
+<td>
 <p>圖14：義民廟埕的竹篙</p>
 </td>
-<td width="206">
+<td>
 <p>圖15：八音團與獲獎神豬抵達廟埕</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖16.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖17.jpg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖18.jpg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖16</p>
 </td>
-<td width="170">
+<td>
 <p>圖17</p>
 </td>
-<td width="206">
+<td>
 <p>圖18：北埔八音團</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖19.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖20.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖21.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖19：道壇科儀後場</p>
 </td>
-<td width="170">
+<td>
 <p>圖20：和成八音團</p>
 </td>
-<td width="206">
+<td>
 <p>圖21：苗栗賢音北管八音團</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖22.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖23張良振.jpeg" alt="" />
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
 <p>圖22：新埔內立同樂軒</p>
 </td>
-<td width="170">
+<td>
 <p>圖23：張良振為首的八音班</p>
 </td>
-<td width="206">&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -319,22 +385,26 @@
 </tr>
 </tbody>
 </table>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文化部文化資產局的「客家八音」，當年度重點紀錄除了文資傳習與研習成果演出之外，另有國指定保存者鄭榮興的授證儀式。2022年9月24日典禮在臺中文化資產園區舉辦。典禮中由鄭榮興率領苗栗陳家班北管八音團與文資局數屆傳習藝生（含結業藝生與修業藝生）展現傳習成果有成。挑選《糶酒》組曲演奏，設計為「三段式」輪番換位演奏（組曲演奏中，各樂手將置換於不同位置，全曲職司數樣八音樂器），先由結業藝生擔任前兩段嗩吶手主吹位置，行進至最後一段再由保存者鄭榮興擔負嗩吶主吹（前兩段分別擔任「打擊」與「挨弦」位置），展現民間八音樂團長年耕耘的表演實力，同時彰顯官方文化單位文化資產局接棒傳習有成的合作成果。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+
+<table>
 <tbody>
 <tr>
-<td width="598">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<td>
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="598">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-<tbody>
+<td width="159">
+<img class="img45" src="./../../../assets/ob4/圖24.jpeg" alt="" />
+</td>
+<td width="184">
+<img class="img45" src="./../../../assets/ob4/圖25.jpeg" alt="" />
+</td>
+<td width="186">
+<img class="img45" src="./../../../assets/ob4/圖26.jpeg" alt="" />
+</td>
+</tr>
 <tr>
 <td width="159">
 <p>圖24：文化部長李永得親蒞頒證</p>
@@ -353,43 +423,58 @@
 </tr>
 </tbody>
 </table>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文化部文化資產局「111年度重要傳統表演藝術『客家八音』傳習計畫」（苗栗陳家班北管八音團）現役傳習藝生為宋珮容、簡逸君與朱哲民三位，多位結業藝生協助演出，期中審查曲目如下：1. 大吹場樂：【福祿壽】。2. 絲竹細（幼）樂：【春串】、【夏串】。3. 弦索音樂：【剪剪花】、【老懷胎】、【看月樓】。4. 小吹場樂：【一枝香】等。現役客家八音藝生在演奏曲目中擔任數種樂器的演奏，依照曲序分列如下：</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）宋珮容：a.【福祿壽】/嗩吶；b.【春串】、【夏串】、【剪剪花】、【老懷胎】/笙；c.【看月樓】/嗩吶（主吹）；d.【一枝香】/笙。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）簡逸君：a.【福祿壽】/嗩吶；b.【春串】、【夏串】/二弦；c.【剪剪花】/嗩吶（主吹）；d.【老懷胎】、【看月樓】、【一枝香】/二弦。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）朱哲民：a.【福祿壽】/嗩吶；b.【春串】、【夏串】、【剪剪花】/笛子；c.【老懷胎】/嗩吶（主吹）；d.【看月樓】/笛子；e.【一枝香】/嗩吶（主吹）。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除了中央國指定文資傳習客家八音，地方縣市文化局文化資產方面也有在地傳習活動的推動。新竹田屋北管八音團「111年新竹縣傳統表演藝術 客家八音傳習 成果發表會」成果演出曲目有「鼓吹樂」、「客家小調」、「八音絃索」、「北管曲唱」等類。<a href="#_ftn15" name="_ftnref15">[15]</a>而在地藝術節的參與，往往也是地方文化局或客家事務局的主力業務，比方「2022新竹縣客家藝術節－漫步客庄」系列活動，亦見田屋北管八音團以及在地「張家獅」與「鄭家獅」的參與。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
 <tr>
-<td width="556">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<td>
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="174">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖27.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖28.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖29.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖27</p>
 </td>
-<td width="178">
+<td>
 <p>圖28</p>
 </td>
-<td width="178">
+<td>
 <p>圖29</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>圖說：田屋客家北管八音團於竹北天后宮傳習成果演奏，參與成員匯集了「田屋」、「北埔」與「深井新興軒」等八音團，見證八音師承譜系同門師兄弟間與地緣、友好關係的策略串連和合作。（林曉英攝影，竹北天后宮，2022/07/10）</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="264">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖30.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖31.jpg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖30</p>
 </td>
-<td width="265">
+<td>
 <p>圖31</p>
 </td>
 </tr>
@@ -405,23 +490,36 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以深井新興軒北管八音團為例，錄音日期為111年7月25日，假臺中市霧峰區國立臺灣交響樂團演奏廳。新興軒參與者有：團長江宥憲（嗩吶），江阜璿、江阜濬（打擊）、張士峰（二弦）、蔡錦龍（胖胡）、彭峻暘（三弦）、詹妍姍（揚琴）、徐國棠（橫笛與笙）等8人。所錄曲目包括：【白牡丹（含變調）】、【病子歌】、【看芙蓉】+【大五對】、【大小八板】、【大夫調】+（緊板）】、【水底魚+（緊板）】（小嗩吶）、【鐵斷橋】、【冷泡茶+（緊板）】、【四大金剛】、【狀元遊京街】、【糶酒組曲】、【柳青娘（+緊板）】、【將軍令（+緊板）】等。<a href="#_ftn16" name="_ftnref16">[16]</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地方縣市文化局推動在地表演藝術亦有亮眼作為，以新竹縣為例，特地為在地八音保存者賴義發先生拍攝紀錄片，<a href="#_ftn17" name="_ftnref17">[17]</a>並有曲譜《話說賴義發的客家八音（含收藏樂譜）》整理出版，並舉辦發表記者會。該書除收錄賴義發先生的【大國民】（將其「八音化」）、【算命歌】與【可記得】和【補缸】等曲，並特別收錄八音著名樂師黃新雲先生的【五更鼓】、【五更響】、【十月懷胎】、【沙窗外〔紗窗外〕】與【壽福蘭官〔繡扶欄杆〕】等曲。此外亦收錄賴義發之徒江宥憲的【病子歌】與【賣雜貨】及彭峻暘的【彩蓮】與【老九連環】等。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，田文光先生《客家八音嗩吶曲集（系列3）》為文化部文化資產局與新竹縣政府文化局補助出版。據該書所錄，收有「八音絃索」【採蓮】、【打骨牌】、【鳳陽歌】、【嘆煙花】與【糶酒組曲】等，「雅樂」【寄仙草〔寄生草〕】、【一串蓮】、【朝天子】、【百家春】、【普庵咒】等曲，以及「鼓吹過場」【大開門】、【漢中山】、【大團圓】等，以及「扮仙戲」《小三仙》。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+    <table class="imgCenter">
+      <tbody>
+        <tr>
+          <td>
+            <img class="img28" src="./../../../assets/ob4/圖32.jpg" alt="" />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>圖32：《畫說賴義發的客家八音（含收藏樂譜）》書影。（林曉英攝影）</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="560">
-<p>圖32：《畫說賴義發的客家八音（含收藏樂譜）》書影。（林曉英攝影）</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-<tbody>
-<tr>
-<td width="246">
-<p>圖33：田文光《客家八音嗩吶曲集（系列3）》書影。（林曉英攝影）</p>
+<td >
+            <img class="img45" src="./../../../assets/ob4/圖33.jpeg" alt="" />
 </td>
-<td width="247">
-<p>圖34：田文光《客家八音嗩吶曲集（系列3）》書影。（林曉英攝影）</p>
+<td>
+            <img class="img45" src="./../../../assets/ob4/圖34.jpeg" alt="" />
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td >
+<p>圖33：田文光《客家八音嗩吶曲集（系列3）》書影。（林曉英攝影）</p>
+</td>
+<td>
+<p>圖34：田文光《客家八音嗩吶曲集（系列3）》書影。（林曉英攝影）</p>
 </td>
 </tr>
 </tbody>
@@ -1108,55 +1206,87 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;筆者於2022年的現場觀察，當今客家戲曲劇團的後場樂隊樂師（包含外部特聘），榮興劇團主要為鄭榮興培育的後進為主體，文武場領奏包含吳岳庭、蔡晏榕，近年常見鍾繼儀、莊鈞復、古雨玄等擔任領奏，主要是戲曲學院戲曲音樂學系客家戲組背景，此批後場樂師橫跨客家採茶戲、亂彈戲曲與客家八音數個傳統表演藝術，分別參與榮興客家採茶劇團、慶美園亂彈劇團與陳家北管八音團等，具有相當的演奏實力，為傳統文武場編制外加部分西洋樂器，大型製作慣以樂團編制規模配器演出。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另有一批樂師為臺灣戲曲學院戲曲音樂學系歌仔戲組，如景勝戲劇團、紫玄居或紫園延聘的周煌翔、周毓書，新樂園的郭亦維、郭亦翔兄弟，兼跨歌仔戲與客家戲兩劇種。前者，周煌翔以胡琴主弦，周毓書專攻電子琴，兩人亦擔任音樂設計，除了九腔十八調，兼用亂彈戲曲調與部分歌仔戲曲調，常見新編曲。郭氏兄弟則以文場、武場分別專攻，劇團的打擊樂器兼具傳統與採用爵士鼓。此外，另有民間培育出身的樂師，多為家傳或是在採茶戲之外另具備演奏亂彈、四平、歌仔戲的演奏基底。例如徐先亮、林保木、朱作民、黃建銘等。亦有客家山歌底參與劇團演出者，如謝其國、劉羅照參與松興戲劇團。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;現今民間外臺戲演劇，常見樂隊編制多為「一文一武」（常見電子琴加上傳統武場或局部爵士鼓，北管曲牌亦由電子琴演奏），亦有「兩文兩武」者，仍以前者為多，劇團老闆會視戲金多寡調度人手。若是進入正式劇場演出，則往往以「樂團化」編制展現豪華陣容與企圖心。「樂團化」多是傳統樂隊外加樂器，包含西洋樂器或是他種傳統樂器，以增加聽覺整體層次，常見增加低音樂器（如低音胡琴類或洞簫），或是彈撥類樂器（如中阮、三弦、揚琴等），或是增添具有表現力的、不同調高的各式笛子。現階段榮興客家採茶劇團、景勝戲劇團、國立臺灣戲曲學院客家戲學系與學校青年團等，在重要演出製作，常見以10人以上的編制呈現。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
 <tr>
-<td width="559">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<td>
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="226">
+<td>
+<img class="img45" src="./../../../assets/ob4/圖35.jpeg" alt="" />
+</td>
+<td>
+<img class="img45" src="./../../../assets/ob4/圖36.jpg" alt="" />
+</td>
+</tr>
+<tr>
+<td>
 <p>圖35</p>
 </td>
-<td width="302">
+<td>
 <p>圖36</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>圖說：國立臺灣戲曲學院青年劇團參與臺北市客家義民節活動（文化場），演出當日後場隊「武場」編配五人，「文場」編配六人。（林曉英拍攝於「2022台北客家義民嘉年華」，2022/10/22）</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="296">
+<td >
+<img class="img45" src="./../../../assets/ob4/圖37.jpg" alt="" />
+</td>
+</tr>
+<tr>
+<td >
 <p>圖37：民間劇團間的「策略聯盟」，此一演出前場演員由景勝戲劇團與金興社組成，當日民戲後場樂師配置「一文一武」，文場領奏為金興社老團長徐先亮。（林曉英拍攝於新竹湖口三元宮前，2022/11/08）</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="246">
+<td >
+<img class="img45" src="./../../../assets/ob4/圖38.jpg" alt="" />
+</td>
+<td >
+<img class="img45" src="./../../../assets/ob4/圖39.jpeg" alt="" />
+</td>
+<td >
+<img class="img45" src="./../../../assets/ob4/圖40.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td >
 <p>圖38</p>
 </td>
-<td width="182">
+<td >
 <p>圖39</p>
 </td>
-<td width="176">
+<td >
 <p>圖40</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>圖說：民間劇團演出民戲常見「一文一武」的樂隊編配，文場採用電子琴並不少見，而武場打擊也頗常見到配置爵士鼓。（林曉英攝影，2022/08/17新竹義民祭與2022/07/09新竹北埔福德宮）</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="189">
+<td >
+<img class="img45" src="./../../../assets/ob4/圖41.jpeg" alt="" />
+</td>
+<td >
+<img class="img45" src="./../../../assets/ob4/圖42.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td >
 <p>圖41</p>
 </td>
-<td width="189">
+<td >
 <p>圖42</p>
 </td>
 </tr>
@@ -1169,17 +1299,25 @@
 </table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;客家戲曲劇團與其後場的演出情況，可以各劇團重要演出、年度製作或公部門委託製作之文化場表演觀察之。例如榮興劇團參與國立傳統藝術中心「2022臺灣戲曲藝術節」之《中元的構圖》，即運用了亂彈、八音與採茶的音樂。至於受客委會委託製作「精緻客家大戲巡演」《海東奇逢》，除了以傳統文武場「樂團化」編配外，新編曲份量提高，導演亦加入音效，意圖豐富「海洋」的氛圍。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="553">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<td >
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="275">
+<td >
+<img class="img45" src="./../../../assets/ob4/圖43.jpeg" alt="" />
+</td>
+<td >
+<img class="img45" src="./../../../assets/ob4/圖44.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td >
 <p>圖43：《海東奇逢》巡演記者會，（林曉英攝影，2022/07/12）</p>
 </td>
-<td width="293">
+<td >
 <p>圖44：《海東奇逢》臺中歌劇院（中劇院）演出場（林曉英攝影，2022/08/20）</p>
 </td>
 </tr>
@@ -1192,25 +1330,41 @@
 </table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至於景勝戲劇團處理年度製作文化場與外臺場的編配也有不同。以受桃園客家事務局委託製作的《1895烽火安平鎮》（6/25，龍潭運動公園槌球場），其音樂設計周毓書，樂器配器周煌翔，此劇首演於中壢乙未公園，第三次公演在中壢藝術館（劇場版），也是景勝頗為重視的製作。景勝年度製作《七律聖手李商隱》（7/26，中壢藝術館），同樣延聘音樂設計周毓書處理。顯見景勝戲劇團近年的年度製作型演出，作品有意識提升製作精度，反映在音樂方面除了擴大編制之外，固定延聘專人擔任音樂設計，較常合作的對象即是歌仔戲後場基底的周煌翔、周毓書兄弟。年度製作型製作，景勝的音樂通常呈現以大量唱段鋪排全劇的狀態，幾乎是以曲調在帶動劇情，並且以「節奏」的變換或配器之調度，形成聽覺上的變化感與張力，用以呼應劇情之鬆緊，景勝戲劇團大型公演的安腔策略多特意以採茶戲「九腔十八調」為主體，加入部分亂彈曲腔，並另編寫若干新曲，人物道白間常襯有背景音樂，整體節奏略快，整體曲唱形態偏向歌謠風格。以兩小時長度的《七律聖手李商隱》為例，以「四句為一葩」來計算，約有90葩之數。後場方面，「武場」樂師4人，文場樂師6人（包含：主胡、二胡、電子琴、笛子、揚琴與古箏）。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="546">
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<td >
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="260">
+<td >
+<img class="img45" src="./../../../assets/ob4/圖45.jpeg" alt="" />
+</td>
+<td >
+<img class="img45" src="./../../../assets/ob4/圖46.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td >
 <p>圖45</p>
 </td>
-<td width="258">
+<td >
 <p>圖46</p>
 </td>
 </tr>
 <tr>
-<td width="260">
+<td >
+<img class="img45" src="./../../../assets/ob4/圖47.jpeg" alt="" />
+</td>
+<td >
+<img class="img45" src="./../../../assets/ob4/圖48.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td >
 <p>圖47</p>
 </td>
-<td width="258">
+<td >
 <p>圖48</p>
 </td>
 </tr>
@@ -1223,10 +1377,15 @@
 </table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至於紫園戲劇坊，則在中壢藝術館、宜蘭演藝廳推出《丑聞－天蟾配》。此一製作集結了松興戲劇團與紫園戲劇坊之力，林興松、溫孟樺、簡嘉豪與徐玉燕主演，編劇馮文亮，音樂設計暨文場領導劉忻龍，武場領導黃建銘。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
-<td width="605">
+<td >
+<img class="img45" src="./../../../assets/ob4/圖49.jpeg" alt="" />
+</td>
+</tr>
+<tr>
+<td >
 <p>圖49：紫園戲劇坊於中壢藝術館演出年度製作《丑聞－天蟾配》謝幕一景。（林曉英攝影，2022/03/13，中壢藝術館）</p>
 </td>
 </tr>
@@ -1441,11 +1600,11 @@
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td width="598">
+<td>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td width="598">
+<td>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -1531,7 +1690,7 @@
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td width="546">
+<td >
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -1541,7 +1700,7 @@
 <td width="149">
 <p>圖64</p>
 </td>
-<td width="189">
+<td >
 <p>圖65</p>
 </td>
 </tr>
@@ -1551,14 +1710,14 @@
 </td>
 </tr>
 <tr>
-<td width="546">
+<td >
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
 <td width="174">
 <p>圖66</p>
 </td>
-<td width="189">
+<td >
 <p>圖67</p>
 </td>
 <td width="161">

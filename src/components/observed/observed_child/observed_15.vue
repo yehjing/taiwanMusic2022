@@ -434,10 +434,18 @@
 </tbody>
 </table>
 <p></p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/1.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/2.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
@@ -449,6 +457,14 @@
 </tr>
 <tr>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/3.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/4.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
@@ -833,11 +849,19 @@
 </tbody>
 </table>
 <p></p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
 <td width="277">&nbsp;</td>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/5.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/6.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
@@ -849,6 +873,14 @@
 </tr>
 <tr>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/7.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/8.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
@@ -1199,8 +1231,16 @@
 </tbody>
 </table>
 <p></p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
+  <tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/9.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/10.jpg" alt="" />
+</td>
+</tr>
 <tr>
 <td width="277">
 <p>圖9：新竹市孔廟釋奠典禮禮生排班依序就位（余檣攝影）</p>
@@ -1211,6 +1251,14 @@
 </tr>
 <tr>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/11.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/12.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
@@ -1529,8 +1577,16 @@
 </tbody>
 </table>
 <p></p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
+  <tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/13.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/14.jpg" alt="" />
+</td>
+</tr>
 <tr>
 <td width="277">
 <p>圖13：苗栗象山孔廟釋奠典禮前的八音暖場（蔡秉衡攝影）</p>
@@ -1541,6 +1597,14 @@
 </tr>
 <tr>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/15.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/16.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
@@ -1555,14 +1619,30 @@
 <p></p>
 <h3>陸、臺中市祭孔典禮</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺中市孔廟去年因為疫情因素未開放民眾參加，今年再度開放民眾參禮，今年釋奠典禮於9月28日上午七時舉行，佾生由力行國小擔任，樂生仍由華光國樂團擔任，歌生由臺中市合唱團擔任，正獻官由副市長黃國榮擔任，分獻官由秘書長黃崇典、教育局長楊振昇、文化局長陳佳君、觀旅局長韓育琪、法制局長李善植、地稅局長沈政安、研考會專委周憲民、市府客委會主委江俊龍等人分別擔任，糾儀官由民政局副局長周瑺玫擔任，陪祭官由各區區長及孔氏宗親擔任。臺中孔廟的釋奠使用八佾舞，立於丹墀上，樂生與歌生則分立於丹墀東西兩側，樂長立於大成殿屋簷下面向丹墀，樂譜使用莊本立師所譯明代樂譜，全部儀節總計34道，典禮全程莊嚴肅穆。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
+  <tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/17.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/18.jpg" alt="" />
+</td>
+</tr>
 <tr>
 <td width="277">
 <p>圖17：臺中市孔廟釋奠典禮鼓初嚴儀節（陳守信攝影）</p>
 </td>
 <td width="277">
 <p>圖18：臺中市孔廟釋奠典禮樂生於崇聖祠前合影（陳守信攝影）</p>
+</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/19.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/20.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1579,14 +1659,30 @@
 <h3>柒、臺南與高雄祭孔典禮</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺南市孔廟是臺灣最早興建的孔廟，素有「全臺首學」之稱，今年於9月28日清晨五時舉行釋奠典禮，正獻官由臺南市長兼孔廟文化基金會董事長黃偉哲擔任，佾生由忠義國小學生擔任，樂生和禮生傳統上皆由「以成書院」擔任，分獻官由臺南市議會議員兼孔廟文化基金會董事邱莉莉、臺南市中西區公所區長汪慶龍、臺南市孔廟文化基金會董事石榮峯等人擔任。由於疫情因素尚未完全解除，因此參禮人員仍須全程配戴口罩，拔智慧毛的活動今年仍暫停，由此尚可見到疫情的些微影響。臺南孔廟的釋奠樂是使用清制樂章，同時還兼用傳統音樂的「雅樂十三音」，與其他公部門管理的孔廟不同，這也形成臺南特有的釋奠特色，服裝也多半不同。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高雄市的孔廟有兩處，分別為左營孔廟和旗山孔廟，前者是原高雄市的孔廟，後者是原高雄縣的孔廟，因為行政區域合併而成為一市兩孔廟。釋奠典禮主要仍是在左營孔廟舉辦，左營孔廟位於蓮池潭畔，景觀非常秀麗，建築宏偉莊嚴。去年因為疫情因素，釋奠典禮縮小規模舉行，無樂生和佾生參加，今年9月28日早上7時在左營孔廟舉行釋奠典禮，正獻官由高雄市長陳其邁擔任，糾儀官由文化局長王文翠擔任，分獻官由秘書長郭添貴及多位局處首長分別擔任，陪祭官由高雄市許多民意代表、學校校長、里長等擔任，樂生與歌生由鼎金國中擔任，佾生由左營舊城國小學生擔任，通贊、引贊與禮生由左營高中擔任，相關工作參與人員有二百餘位，規模宏大。由於左營孔廟的丹墀很大，因此佾舞使用八佾舞仍很有餘裕，樂生立於大成殿屋簷下，分為東西兩側，使用祭孔雅樂器，樂譜也是莊本立師所譯明代樂譜，典禮使用三獻禮，儀節含「禮成」約32項。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
+  <tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/21.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/22.jpg" alt="" />
+</td>
+</tr>
 <tr>
 <td width="277">
 <p>圖21：高雄市左營孔廟釋奠典禮禮生排班就位（蔡育紋攝影）</p>
 </td>
 <td width="277">
 <p>圖22：高雄市左營孔廟釋奠典禮的迎神儀節（蔡育紋攝影）</p>
+</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/23.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/24.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1808,10 +1904,18 @@
 </tbody>
 </table>
 <p></p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table class="imgCenter">
 <tbody>
 <tr>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/25.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/26.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
@@ -1824,6 +1928,14 @@
 <tr>
 <td width="277">&nbsp;</td>
 <td width="277">&nbsp;</td>
+</tr>
+<tr>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/27.jpg" alt="" />
+</td>
+<td width="277">
+<img class="img45" src="./../../../assets/ob15/28.jpg" alt="" />
+</td>
 </tr>
 <tr>
 <td width="277">
