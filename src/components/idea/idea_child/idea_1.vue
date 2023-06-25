@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>編輯理念與體例說明—緒論</h2>
+      <h2>緒論</h2>
       <span>文/呂鈺秀</span>
       <!-- <span>2019 / 04 / 06</span> -->
     </div>

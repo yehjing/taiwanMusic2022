@@ -31,8 +31,8 @@
         主編 / 國立臺灣師範大學民族音樂研究所教授
       </div>
       <div style="text-align:right;margin-top:1em">
-        <span>呂鈺秀</span><br />
-        <span>2023年7月31日</span>
+        <img src="./../../../assets/簽名.png" alt="" />
+        <br /><span>2023年7月31日</span>
         <!-- <img src="./../../../assets/sign.jpg" alt="" /><br /><span>2022年7月31日</span> -->
       </div>
     </div>
