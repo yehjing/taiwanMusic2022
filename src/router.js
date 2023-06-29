@@ -225,7 +225,7 @@ export default new VueRouter({
           component: Observed_9,
         },
         {
-          name: '傳統音樂 / 道、法教音樂',
+          name: '傳統音樂 / 道教、法教音樂',
           path: 'Observed_10',
           component: Observed_10,
         },
@@ -358,7 +358,7 @@ export default new VueRouter({
           component: VideoRecord_9,
         },
         {
-          name: '傳統音樂 / 道、法教音樂',
+          name: '傳統音樂 / 道教、法教音樂',
           path: 'videoRecord_10',
           component: VideoRecord_10,
         },

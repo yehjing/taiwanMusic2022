@@ -32,7 +32,7 @@
       </div>
       <div style="text-align:right;margin-top:1em">
         <img src="./../../../assets/簽名.png" alt="" />
-        <br /><span>2023年7月31日</span>
+        <br /><span>2023年7月28日</span>
         <!-- <img src="./../../../assets/sign.jpg" alt="" /><br /><span>2022年7月31日</span> -->
       </div>
     </div>

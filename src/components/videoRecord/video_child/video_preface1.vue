@@ -178,7 +178,7 @@
         </tr>
         <tr>
           <td rowspan="4">
-            <p>原住民音樂－賽夏族、阿美族、卑南族、雅美（達悟）族</p>
+            <p>原住民音樂－賽夏族、阿美族、卑南族、雅美族、太魯閣族、撒奇萊雅族</p>
           </td>
           <td>
             <p class="tableCenter">1</p>
@@ -302,7 +302,7 @@
         </tr>
         <tr>
           <td rowspan="4">
-            <p>佛教音樂</p>
+            <p>佛教、釋教音樂</p>
           </td>
           <td>
             <p class="tableCenter">1</p>
@@ -337,7 +337,7 @@
         </tr>
         <tr>
           <td rowspan="4">
-            <p>道、法、釋教音樂</p>
+            <p>道教、法教音樂</p>
           </td>
           <td>
             <p class="tableCenter">1</p>

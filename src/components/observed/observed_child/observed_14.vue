@@ -84,6 +84,7 @@
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3>貳、展演活動</h3>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
@@ -807,7 +808,7 @@
 <p>Geoff Payne、Judy Payne著（林育如譯）。2012。《研究方法五十個關鍵概念》。 新北：韋伯文化國際出版有限公司。</p>
 <p>葉至誠、葉立誠。2005。《研究方法與論文寫作》。臺北：商鼎文化出版社。</p>
 <p><strong>網路資料</strong></p>
-<p>Tabla塔布拉鼓Esraj艾斯拉吉琴，Waka印度音樂協會。 http://tablawaka.blogspot.com。瀏覽日期：2023年1月08日。</p>
+<p>Tabla塔布拉鼓Esraj艾斯拉吉琴，Waka印度音樂協會。 http://tablawaka.blogspot.com。瀏覽日期：2023/01/08。</p>
 <p>WaKa印度音樂協會「印度塔布拉鼓（Tabla）/ 艾斯拉吉琴（Esraj）工作坊」臉書活動頁面簡介。https://www.facebook.com/events/1231600340910490/?ref=newsfeed&amp;paipv=0&amp;eav=AfZCV7MS2CKSoBAW8IEbS98qqLrLIWznmXxXF0eSLItlxALOcoL9VEw0DlSqkuoVj8o&amp;_rdr。瀏覽日期：2023/01/08。</p>
 <p>朱宗慶打擊樂團。【創作起源】2022《俠飛春光》晨鐘暮鼓蔣渭水音樂會影片。https://www.youtube.com/watch?v=wi0KoUTn7xs。瀏覽日期：2023/01/12。</p>
 <p>國家文化藝術基金會官方網站。https://www.ncafroc.org.tw。瀏覽日期：2023/01/14。</p>

@@ -74,7 +74,7 @@ const tabs = [
     img: img4
   },
   {
-    name: '原住民音樂－賽夏族、阿美族、卑南族、雅美（達悟）族',
+    name: '原住民音樂－賽夏族、阿美族、卑南族、雅美族、太魯閣族、撒奇萊雅族',
     autor: '',
     component: Video5,
     path: 'videoRecord_5',
@@ -102,14 +102,14 @@ const tabs = [
     img: img8
   },
   {
-    name: '佛教音樂',
+    name: '佛教、釋教音樂',
     autor: '',
     component: Video9,
     path: 'videoRecord_9',
     img: img9
   },
   {
-    name: '道、法、釋教音樂',
+    name: '道教、法教音樂',
     autor: '',
     component: Video10,
     path: 'videoRecord_10',

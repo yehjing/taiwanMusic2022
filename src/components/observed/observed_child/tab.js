@@ -45,7 +45,7 @@ const tabs1 = [
     path: 'observed_9',
   },
   {
-    name: '道、法教音樂',
+    name: '道教、法教音樂',
     autor: '楊秀娟',
     path: 'observed_10',
   },

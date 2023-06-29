@@ -58,7 +58,7 @@ const tabs = [
     path: 'observed_4',
   },
   {
-    name: '2022年度賽夏族、阿美族、卑南族、雅美（達悟）族音樂活動觀察與評介',
+    name: '2022年度賽夏族、阿美族、卑南族、雅美族、太魯閣族、撒奇萊雅族音樂活動觀察與評介',
     autor: '孫俊彥',
     component: Observed5,
     path: 'observed_5',
@@ -88,7 +88,7 @@ const tabs = [
     path: 'observed_9',
   },
   {
-    name: '2022年度道、法教音樂活動觀察與評介',
+    name: '2022年度道教、法教音樂活動觀察與評介',
     autor: '楊秀娟',
     component: Observed10,
     path: 'observed_10',
