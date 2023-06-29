@@ -22,7 +22,7 @@ import Video4 from './video_4.vue';
 import Video5 from './video_5.vue';
 import Video6 from './video_6.vue';
 import Video7 from './video_7.vue';
-import Video8 from './video_8.vue';
+// import Video8 from './video_8.vue';
 import Video9 from './video_9.vue';
 import Video10 from './video_10.vue';
 
@@ -94,13 +94,13 @@ const tabs = [
     path: 'videoRecord_7',
     img: img7
   },
-  {
-    name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
-    autor: '',
-    component: Video8,
-    path: 'videoRecord_8',
-    img: img8
-  },
+  // {
+  //   name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
+  //   autor: '',
+  //   component: Video8,
+  //   path: 'videoRecord_8',
+  //   img: img8
+  // },
   {
     name: '佛教、釋教音樂',
     autor: '',

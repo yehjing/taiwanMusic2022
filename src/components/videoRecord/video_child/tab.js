@@ -34,11 +34,11 @@ const tabs1 = [
     autor: '',
     path: 'videoRecord_7',
   },
-  {
-    name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
-    autor: '',
-    path: 'videoRecord_8',
-  },
+  // {
+  //   name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
+  //   autor: '',
+  //   path: 'videoRecord_8',
+  // },
   {
     name: '佛教、釋教音樂',
     autor: '',

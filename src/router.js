@@ -54,7 +54,7 @@ import VideoRecord_4 from '@/components/videoRecord/video_child/video_4';
 import VideoRecord_5 from '@/components/videoRecord/video_child/video_5';
 import VideoRecord_6 from '@/components/videoRecord/video_child/video_6';
 import VideoRecord_7 from '@/components/videoRecord/video_child/video_7';
-import VideoRecord_8 from '@/components/videoRecord/video_child/video_8';
+// import VideoRecord_8 from '@/components/videoRecord/video_child/video_8';
 import VideoRecord_9 from '@/components/videoRecord/video_child/video_9';
 import VideoRecord_10 from '@/components/videoRecord/video_child/video_10';
 import VideoRecord_11 from '@/components/videoRecord/video_child/video_11';
@@ -347,11 +347,11 @@ export default new VueRouter({
           path: 'videoRecord_7',
           component: VideoRecord_7,
         },
-        {
-          name: '傳統音樂 / 賽德克族、邵族、布農族、噶瑪蘭族音樂',
-          path: 'videoRecord_8',
-          component: VideoRecord_8,
-        },
+        // {
+        //   name: '傳統音樂 / 賽德克族、邵族、布農族、噶瑪蘭族音樂',
+        //   path: 'videoRecord_8',
+        //   component: VideoRecord_8,
+        // },
         {
           name: '傳統音樂 / 佛教、釋教音樂',
           path: 'videoRecord_9',
