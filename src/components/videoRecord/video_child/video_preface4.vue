@@ -15,49 +15,51 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td class="tableCenter">
-            子計畫
+          <td width="94">
+            <p>子領域</p>
           </td>
-          <td class="tableCenter">
-            序號
+          <td width="47">
+            <p>序號</p>
           </td>
-          <td class="tableCenter">
-            標題名稱
+          <td width="412">
+            <p>標題名稱</p>
           </td>
         </tr>
         <tr>
-          <td rowspan="4">
+          <td rowspan="4" width="94">
             <p>跨界音樂與其他</p>
           </td>
-          <td>
-            <p class="tableCenter">1</p>
+          <td width="47">
+            <p>1</p>
           </td>
-          <td>
-            <p>「流光傳奇STREAM LEGEND」專輯發表會</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p class="tableCenter">2</p>
-          </td>
-          <td>
-            <p>2021春之祭印度文化節</p>
+          <td width="412">
+            <p>
+              普琈門PERFORMER樂團「2022世界音樂節@臺灣&mdash;媒合展演」〈思〉
+            </p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p class="tableCenter">3</p>
+          <td width="47">
+            <p>2</p>
           </td>
-          <td>
-            <p>2021年世界音樂精選合輯</p>
+          <td width="412">
+            <p>三個人「2022新點子劇場－《催化效應－融・共感》」</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p class="tableCenter">4</p>
+          <td width="47">
+            <p>3</p>
           </td>
-          <td>
-            <p>2021李寶春魔幻新京劇《魔笛》</p>
+          <td width="412">
+            <p>西尤島融合樂團《日光海岸－西塔琴音吟遊現場Ex》</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="47">
+            <p>4</p>
+          </td>
+          <td width="412">
+            <p>新古典室內樂團《文學音樂劇場－笠山之歌》</p>
           </td>
         </tr>
       </tbody>
@@ -68,13 +70,13 @@
 export default {
   data() {
     return {
-      show: true
+      show: true,
     };
   },
   methods: {
     close() {
       this.show = false;
-    }
-  }
+    },
+  },
 };
 </script>

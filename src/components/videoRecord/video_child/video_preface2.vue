@@ -11,87 +11,89 @@
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有鑑於本年鑑所記載的內容主要為2022年度臺灣音樂活動，影音紀錄更能幫助民眾理解以音樂為主體的各項音樂動態，《2022臺灣音樂年鑑》工作團隊擇選具有代表性的音樂活動影像，以做為《2022臺灣音樂年鑑》的保存與補充資料。本年鑑共收錄53支臺灣音樂影音紀錄，其中藝術（當代創作）篇共收錄8支影片。
     </p>
-    <table rules="all" style="border:1px solid" cellpadding="5">
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td class="tableCenter">
-            <p>子計畫</p>
+          <td width="94">
+            <p>子領域</p>
           </td>
-          <td class="tableCenter">
+          <td width="47">
             <p>序號</p>
           </td>
-          <td class="tableCenter">
+          <td width="412">
             <p>標題名稱</p>
           </td>
         </tr>
         <tr>
-          <td rowspan="4">
+          <td rowspan="4" width="94">
             <p>國樂</p>
           </td>
-          <td>
-            <p class="tableCenter">1</p>
+          <td width="47">
+            <p>1</p>
           </td>
-          <td>
-            <p>桃園市國樂團2021年度回顧</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p class="tableCenter">2</p>
-          </td>
-          <td>
-            <p>臺灣國樂團2021年度回顧</p>
+          <td width="412">
+            <p>臺南市民族管絃樂團2022年度回顧</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p class="tableCenter">3</p>
+          <td width="47">
+            <p>2</p>
           </td>
-          <td>
-            <p>臺南市民族管絃樂團精選演出片段</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p class="tableCenter">4</p>
-          </td>
-          <td>
-            <p>新竹青年國樂團「夢旋故都」音樂會精選演出片段</p>
+          <td width="412">
+            <p>臺中市國樂團「花開四十－臺中市國樂團40週年團慶音樂會」</p>
           </td>
         </tr>
         <tr>
-          <td rowspan="4">
+          <td width="47">
+            <p>3</p>
+          </td>
+          <td width="412">
+            <p>臺灣國樂團「絃舞鏗鏘」</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="47">
+            <p>4</p>
+          </td>
+          <td width="412">
+            <p>臺北市立國樂團創作首演集錦剪輯</p>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="4" width="94">
             <p>西樂及混合編制</p>
           </td>
-          <td>
-            <p class="tableCenter">1</p>
+          <td width="47">
+            <p>1</p>
           </td>
-          <td>
-            <p>《來自臺灣－呂紹嘉的原鄉情懷》專輯</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p class="tableCenter">2</p>
-          </td>
-          <td>
-            <p>「交響六堆心X NTSO」六堆300紀念音樂會</p>
+          <td width="412">
+            <p>力晶2022藝文饗宴「許博允創作生涯六十週年」</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p class="tableCenter">3</p>
+          <td width="47">
+            <p>2</p>
           </td>
-          <td>
-            <p>NTSO温隆信「撥雲見日」臺灣文化協會成立百週年系列</p>
+          <td width="412">
+            <p>臺北市立交響樂團「交響臺北2022－錢南章第五號交響曲」</p>
           </td>
         </tr>
         <tr>
-          <td>
-            <p class="tableCenter">4</p>
+          <td width="47">
+            <p>3</p>
           </td>
-          <td>
-            <p>「音樂台灣2021作曲聯展」合唱場－詩與歌的當代迴響</p>
+          <td width="412">
+            <p>
+              福爾摩沙合唱團「陳泗治逝世三十周年紀念音樂會－上帝與家園的浪漫」
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width="47">
+            <p>4</p>
+          </td>
+          <td width="412">
+            <p>亞洲作曲家聯盟台灣總會「音樂臺灣2022作曲聯展 臺中場」</p>
           </td>
         </tr>
       </tbody>
@@ -102,13 +104,13 @@
 export default {
   data() {
     return {
-      show: true
+      show: true,
     };
   },
   methods: {
     close() {
       this.show = false;
-    }
-  }
+    },
+  },
 };
 </script>

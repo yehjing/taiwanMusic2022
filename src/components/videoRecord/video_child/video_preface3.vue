@@ -14,33 +14,43 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td class="tableCenter">
-            <p>子計畫</p>
+          <td width="94">
+            <p>子領域</p>
           </td>
-          <td class="tableCenter">
+          <td width="47">
             <p>序號</p>
           </td>
-          <td class="tableCenter">
+          <td width="412">
             <p>標題名稱</p>
           </td>
         </tr>
         <tr>
-          <td rowspan="3">
+          <td rowspan="3" width="94">
             <p>流行音樂</p>
           </td>
-          <td class="tableCenter">
+          <td width="47">
             <p>1</p>
           </td>
-          <td>
-            <p>臺北爵士大樂隊「臺中爵士音樂節」</p>
+          <td width="412">
+            <p>
+              依拜維吉Ipay Buyci〈1234 qutux, saying, tyugan, payat〉官方版MV
+            </p>
           </td>
         </tr>
         <tr>
-          <td class="tableCenter">
+          <td width="47">
             <p>2</p>
           </td>
-          <td>
-            <p>山之歌，海之戀</p>
+          <td width="412">
+            <p>2022搖滾臺中、雷霆電司音樂祭</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="47">
+            <p>3</p>
+          </td>
+          <td width="412">
+            <p>臺南市政府「再見阿文哥－文夏紀念音樂會」</p>
           </td>
         </tr>
       </tbody>
@@ -51,13 +61,13 @@
 export default {
   data() {
     return {
-      show: true
+      show: true,
     };
   },
   methods: {
     close() {
       this.show = false;
-    }
-  }
+    },
+  },
 };
 </script>
