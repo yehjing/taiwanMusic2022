@@ -122,7 +122,21 @@ const tabs2 = [
     path: 'indexDir_11',
   },
 ];
+const tabs3 = [
+  {
+    name: '第三十三屆傳藝金曲獎入圍暨得獎名單',
+    autor: '',
+    path: 'indexDir_25',
+  },
+];
+const tabs4 = [
+  {
+    name: '南管音樂及北管音樂團體基礎概況調查表',
+    autor: '',
+    path: 'indexDir_26',
+  },
+];
 
 export {
-  tabs1, tabs2,
+  tabs1, tabs2, tabs3, tabs4,
 };

@@ -67,6 +67,8 @@ import VideoRecord_14 from '@/components/videoRecord/video_child/video_14';
 import IndexDir from '@/components/indexDir';
 import IndexDir_00 from '@/components/indexDir/indexDir_child/indexDir_00';
 import IndexDir_01 from '@/components/indexDir/indexDir_child/indexDir_01';
+import IndexDir_02 from '@/components/indexDir/indexDir_child/indexDir_02';
+import IndexDir_03 from '@/components/indexDir/indexDir_child/indexDir_03';
 import IndexDir_1 from '@/components/indexDir/indexDir_child/indexDir_1';
 import IndexDir_2 from '@/components/indexDir/indexDir_child/indexDir_2';
 import IndexDir_3 from '@/components/indexDir/indexDir_child/indexDir_3';
@@ -89,6 +91,8 @@ import IndexDir_19 from '@/components/indexDir/indexDir_child/indexDir_19';
 import IndexDir_20 from '@/components/indexDir/indexDir_child/indexDir_20';
 import IndexDir_21 from '@/components/indexDir/indexDir_child/indexDir_21';
 import IndexDir_22 from '@/components/indexDir/indexDir_child/indexDir_22';
+import IndexDir_25 from '@/components/indexDir/indexDir_child/indexDir_25';
+import IndexDir_26 from '@/components/indexDir/indexDir_child/indexDir_26';
 // import IndexDir_23 from '@/components/indexDir/indexDir_child/indexDir_23';
 // import IndexDir_24 from '@/components/indexDir/indexDir_child/indexDir_24';
 // download
@@ -414,6 +418,18 @@ export default new VueRouter({
           meta: { isPreface: true },
         },
         {
+          name: '附錄',
+          path: 'indexDir_02',
+          component: IndexDir_02,
+          meta: { isPreface: true },
+        },
+        {
+          name: '附錄',
+          path: 'indexDir_03',
+          component: IndexDir_03,
+          meta: { isPreface: true },
+        },
+        {
           name: '團體及個人名錄 / 南管音樂篇',
           path: 'indexDir_12',
           component: IndexDir_12,
@@ -532,6 +548,16 @@ export default new VueRouter({
           name: '重要音樂活動一覽表 / 跨界音樂與其他篇',
           path: 'indexDir_11',
           component: IndexDir_11,
+        },
+        {
+          name: '第三十三屆傳藝金曲獎入圍暨得獎名單',
+          path: 'indexDir_25',
+          component: IndexDir_25,
+        },
+        {
+          name: '南管音樂及北管音樂團體基礎概況調查表',
+          path: 'indexDir_26',
+          component: IndexDir_26,
         },
       ],
     },

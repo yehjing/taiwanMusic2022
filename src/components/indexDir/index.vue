@@ -29,6 +29,34 @@
           {{tab.name}}
         </div>
       </template>
+      <div class="middleItem noLeaf" :class="activeName === 'indexDir_02' ? 'active' :''" @click="clickLink('indexDir_02')">
+        <span>第三十三屆傳藝金曲獎入圍暨得獎名單</span>
+        <img v-if="activeName === 'indexDir_02'" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
+      </div>
+      <template v-if="activeName === 'indexDir_02'">
+        <div class="middleItem noLeaf webMenuItem"
+          :class="{'active': subActive === tab}"
+          v-for="(tab,i) in tabs3" :key="i"
+          @click="changeView(tab)"
+        >
+          {{tab.name}}
+        </div>
+      </template>
+      <div class="middleItem noLeaf" :class="activeName === 'indexDir_03' ? 'active' :''" @click="clickLink('indexDir_03')">
+        <span>南管音樂及北管音樂團體基礎概況調查表</span>
+        <img v-if="activeName === 'indexDir_03'" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
+      </div>
+      <template v-if="activeName === 'indexDir_03'">
+        <div class="middleItem noLeaf webMenuItem"
+          :class="{'active': subActive === tab}"
+          v-for="(tab,i) in tabs4" :key="i"
+          @click="changeView(tab)"
+        >
+          {{tab.name}}
+        </div>
+      </template>
     </aside>
     <div class="viewRight">
       <router-view></router-view>
