@@ -440,7 +440,7 @@
             <p>3</p>
           </td>
           <td class="tableCenter" width="66">
-            <p>3</p>
+            <p>42</p>
           </td>
           <td class="tableCenter" width="76">
             <p>5</p>
@@ -596,7 +596,7 @@
             <p>284</p>
           </td>
           <td class="tableCenter" width="66">
-            <p>431</p>
+            <p>470</p>
           </td>
           <td class="tableCenter" width="76">
             <p>229</p>
@@ -612,7 +612,7 @@
       <tbody>
         <tr>
           <td class="tableCenter">
-            <img class="contentImg" src="./../../../assets/comment1/1.jpg" alt="" />
+            <img class="contentImg" src="./../../../assets/comment1/圖片 1.png" alt="" />
           </td>
         </tr>
         <tr>

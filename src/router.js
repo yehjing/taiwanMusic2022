@@ -34,6 +34,8 @@ import Observed_12 from '@/components/observed/observed_child/observed_12';
 import Observed_13 from '@/components/observed/observed_child/observed_13';
 import Observed_14 from '@/components/observed/observed_child/observed_14';
 import Observed_15 from '@/components/observed/observed_child/observed_15';
+import Observed_16 from '@/components/observed/observed_child/observed_16';
+import Observed_17 from '@/components/observed/observed_child/observed_17';
 
 // comment
 import Comment from '@/components/comment';
@@ -250,9 +252,19 @@ export default new VueRouter({
           component: Observed_14,
         },
         {
-          name: '2021年度釋奠樂活動觀察與評介',
+          name: '2022年度釋奠樂活動觀察與評介',
           path: 'Observed_15',
           component: Observed_15,
+        },
+        {
+          name: '南管音樂團體基礎概況調查分析',
+          path: 'Observed_16',
+          component: Observed_16,
+        },
+        {
+          name: '北管音樂團體基礎概況調查分析',
+          path: 'observed_17',
+          component: Observed_17,
         },
       ],
     },

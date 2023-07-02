@@ -5,9 +5,19 @@ const tabs1 = [
     path: 'observed_1',
   },
   {
+    name: '南管音樂團體基礎概況調查分析',
+    autor: '黃瑤慧',
+    path: 'observed_16',
+  },
+  {
     name: '北管音樂',
     autor: '林雅琇',
     path: 'observed_2',
+  },
+  {
+    name: '北管音樂團體基礎概況調查分析',
+    autor: '林雅琇',
+    path: 'observed_17',
   },
   {
     name: '福佬歌謠',

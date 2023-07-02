@@ -25,6 +25,8 @@ import Observed7 from './observed_7.vue';
 import Observed9 from './observed_9.vue';
 import Observed10 from './observed_10.vue';
 import Observed15 from './observed_15.vue';
+import Observed16 from './observed_16.vue';
+import Observed17 from './observed_17.vue';
 
 
 const tabs = [
@@ -40,10 +42,22 @@ const tabs = [
     path: 'observed_1',
   },
   {
+    name: '南管音樂團體基礎概況調查分析',
+    autor: '黃瑤慧',
+    component: Observed16,
+    path: 'observed_16',
+  },
+  {
     name: '2022年度北管音樂活動觀察與評介',
     autor: '林雅琇',
     component: Observed2,
     path: 'observed_2',
+  },
+  {
+    name: '北管音樂團體基礎概況調查分析',
+    autor: '林雅琇',
+    component: Observed17,
+    path: 'observed_17',
   },
   {
     name: '2022年度福佬歌謠活動觀察與評介',
