@@ -190,12 +190,12 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就本次問卷回覆收集結果，共有來自臺灣本島四區<sup>2</sup>的北管團體填寫，其中以北部地區填寫數量為最多，佔總數58%，填寫問卷之團體所在地區分布比例詳如下表、下圖所示。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+<tr style="vertical-align: top;">
 <td width="170">
 <p>表1：北管團體所在區域統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+<tr >
 <td width="56">
 <p>地區</p>
 </td>
@@ -246,21 +246,24 @@
 </tbody>
 </table>
 </td>
-<td width="383">
+<td  class="tableCenter">
+  <img class="img70" src="./../../../assets/ob17/圖1：北管團體所在區域比例.jpeg" alt="" />
+
 <p>圖1：北管團體所在區域比例</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>北管團體的<strong>成立時間</strong>部分，筆者粗略劃分為8個時間段，所獲資訊如下圖所示，另有7個團體未作答，作答率84%。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+<tr style="vertical-align: top;">
 <td width="151">
 <p>表2：北管團體成立時間統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" width="137">
 <tbody>
-<tr>
+<tr >
 <td width="81">
 <p>成立時間</p>
 </td>
@@ -351,23 +354,48 @@
 </tbody>
 </table>
 </td>
-<td width="402">
+<td  class="tableCenter">
+  <img class="img55" src="./../../../assets/ob17/圖2：北管團體成立時間比例.jpeg" alt="" />
 <p>圖2：北管團體成立時間比例</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>圖3：北管團體成立時間分析</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖3：北管團體成立時間分析.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖3：北管團體成立時間分析</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <h1>參、立案情形</h1>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;立案情形部分，45個團體中，共有32個團體已立案，佔總數71%，未立案團體10個，另有3個團體未作答，作答率93%。其中，在已立案團體之主管機關部分，9成皆隸屬於文化部文化資產局或縣市文化局之管轄，僅有3個團體屬於內政部或縣市社會局主管。團隊榮譽的部分，45個團體中，計有12個團體具有國家級指定或地方縣市文化局登錄之傳統表演藝術保存團體，佔總數之26％。另外有2個團體雖尚未登錄為保存團體，但已是地方文化局列冊追蹤之對象；以及有1個團體為地方扶植之演藝團隊。</p>
-<p>圖4：北管團體立案情形分析</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖4：北管團體立案情形分析.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖4：北管團體立案情形分析</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;聯絡方式部分，根據調查結果，共有82%之北管團體有Facebook粉絲專頁，並以此作為聯絡與傳播管道。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-<tbody>
-<tr>
-<td width="161">
-<p>表3：北管團體使用Facebook數量統計</p>
+<span>表3：北管團體使用Facebook數量統計</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -412,18 +440,28 @@
 </tr>
 </tbody>
 </table>
-</td>
-</tr>
-</tbody>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖5：北管團體使用Facebook比例.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖5：北管團體使用Facebook比例</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
-<p>圖5：北管團體使用Facebook比例</p>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;綜上所述，從所獲得之問卷回應中，可以看到北管團體以北部與中部較為活躍；現存之北管團體，有將近五成為清代至日治時期成立，歷史極為悠久。而隨著時代的推移，北管團體也相繼登記立案，部分史料保存較為完善、較具規模的曲館，也陸續獲得地方或中央認定之傳統表演藝術保存團體。又，因應時代潮流，逾八成之北管團體皆以網路社群媒體作為新時代的傳播媒介。</p>
 <h3>肆、營運模式</h3>
 <strong>一、收支情況</strong>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;收入部分，六成五的北管團體年收入為50萬以下，年收入50萬以上者，僅有20%，另有6個團體未回答，回應率86％。至於收入來源部分，本問卷共分為政府補助、公部門活動演出費、民間活動演出費、票房收入、民間贊助、教學活動、自籌經費、其他等8類。經過分析，北管團體以自籌經費及民間活動演出費為主要來源，政府補助及公部門活動演出費次之，票房收入則無。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+<tr style="vertical-align: top;">
 <td width="161">
 <p>表4：北管團體年收入統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
@@ -503,19 +541,48 @@
 </tbody>
 </table>
 </td>
-<td width="393">
+  <td  class="tableCenter">
+  <img class="img70" src="./../../../assets/ob17/圖6：北管團體年收入比例.jpeg" alt="" />
 <p>圖6：北管團體年收入比例</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>圖7：北管團體年收入類型統計</p>
-<p>圖8：北管團體年收入類型比例</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖7：北管團體年收入類型統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖7：北管團體年收入類型統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖8：北管團體年收入類型比例.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖8：北管團體年收入類型比例</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支出部分，六成的北管團體年支出為50萬以下，而年支出50萬以上者，僅有20%，另有7個團體未回答，回應率84％。至於曲館的花費流向，本問卷共分為同好切磋（拜館交流、排場）、民間傳統廟會及祭典、音樂廳演出支出、教學與推廣研習、館舍維護、專任人事支出及其他等七類，經過分析，北管團體的主要支出為民間傳統廟會及祭典、館舍維護，教學與推廣研習、同好切磋及其他類次之。此部分的其他一類，筆者綜合歸納為房租支出、樂器及文物的維護與購置、樂手薪資以及聚餐交誼等。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+  <tr style="vertical-align: top;">
 <td width="161">
 <p>表5：北管團體年支出統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
@@ -595,18 +662,49 @@
 </tbody>
 </table>
 </td>
-<td width="393">
+
+<td  class="tableCenter">
+  <img class="img55" src="./../../../assets/ob17/圖9：北管團體年支出比例.jpg" alt="" />
 <p>圖9：北管團體年支出比例</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>圖10：北管團體年支出類型統計</p>
-<p>圖11：北管團體年支出類型比例</p>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖10：北管團體年支出類型統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖10：北管團體年支出類型統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖11：北管團體年支出類型比例.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖11：北管團體年支出類型比例</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;若將團體回應之收入與支出情況比對其損益平衡情況，逾半數的團體都在不同的金額區間中，勉為其難地維持收支平衡<sup>3</sup>，具有盈餘者僅6％、虧損者則佔18％。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+  <tr style="vertical-align: top;">
 <td width="161">
 <p>表6：北管團體收支關係統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
@@ -662,7 +760,9 @@
 </tbody>
 </table>
 </td>
-<td width="393">
+
+<td  class="tableCenter">
+  <img class="img55" src="./../../../assets/ob17/圖12：北管團體收支關係比例.jpeg" alt="" />
 <p>圖12：北管團體收支關係比例</p>
 </td>
 </tr>
@@ -673,7 +773,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據問卷之填寫結果，北管團體對於自我身分之認定，有84%為業餘子弟，亦即不以遶境出陣或廟會排場籌措曲館經費之意，實際上，子弟曲館的出門，往往都是自掏腰包之負收入情況，因此民間才會流傳以「憨子弟」一詞稱呼這些出錢又出力的曲館子弟；反之，職業團之職業樂手，則以此謀生。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+  <tr style="vertical-align: top;">
 <td width="161">
 <p>表7：職業/業餘北管團體統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
@@ -721,7 +821,9 @@
 </tbody>
 </table>
 </td>
-<td width="393">
+
+<td  class="tableCenter">
+  <img class="img55" src="./../../../assets/ob17/圖13：職業_業餘北管團體比例.jpeg" alt="" />
 <p>圖13：職業/業餘北管團體比例</p>
 </td>
 </tr>
@@ -730,7 +832,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022年的活動場次部分，44%之團體年度活動僅1-10場，另有六成團體今年度演出100場以上。活動方式部分，本問卷共分為同好切磋（拜館交流、整絃、排場）、民間傳統廟會及祭典、音樂廳演出、教學與推廣研習、商業演出及其他六類，其中的商業演出係指民間邀約之營利性演出。而根據問卷統計結果，北管團體中，以民間傳統廟會及祭典為主要活動類型，共有41個團體有此活動；其次則為同好切磋、教學與推廣研習，各有十餘個團體有此活動，此統計數字也符合筆者全年度觀察臺灣北管音樂生態之所見。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+  <tr style="vertical-align: top;">
 <td width="161">
 <p>表8：北管團體年度活動場次統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
@@ -810,24 +912,69 @@
 </tbody>
 </table>
 </td>
-<td width="393">
+
+<td  class="tableCenter">
+  <img class="img55" src="./../../../assets/ob17/圖14：北管團體年度活動場次佔比.jpg" alt="" />
 <p>圖14：北管團體年度活動場次佔比</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>圖15：北管團體活動類型統計</p>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖15：北管團體活動類型統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖15：北管團體活動類型統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;團體自填之活動概況部分，多為簡述排練情形之記錄。根據統計，北管團體以一週二次的頻率為最多，一週三次與一週一次者次之。下圖顯示在北管團體中，逾七成之團體，皆維持每週固定團練。少部分無團練者，或有因疫情因素，或因噪音、排練場地等問題而暫時停歇。</p>
-<p>圖16：北管團體練習頻率統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖16：北管團體練習頻率統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖16：北管團體練習頻率統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;練習內容部分，團體多以牌子、戲曲為主要練習內容，其中的戲曲練習部分，以練習扮仙戲劇目為主，僅少部分團體因聘請老師上課，而有不同的戲齣之學習與傳承。</p>
-<p>圖17：北管團體練習內容統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖17：北管團體練習內容統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖17：北管團體練習內容統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <h3>陸、人數規模及人力結構</h3>
 <strong>一、人力結構</strong>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由於此部分問題較為繁雜，共分為有/無專職人員、以及男/女比、職稱、年齡分布等延伸問題，所收問卷中對於此部分之回答率較低，部分團體之填寫情況也與筆者實際田野觀察了解情況差距有所差距。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，北管團體中有專職人員者，共有11團，其餘30團無專職人員，另有4團未填寫，作答率91%。此部分內容應著重有專職人員的團體。然而，根據問卷回覆情形，僅有6團完整回覆以上問題，另5團為部分回覆，完成率僅54%，因此，本文此部分僅統計回應之總數。如下方橫條圖所示，北管專職人員之男女性別比例以男性居多，佔總數65%。就年齡分布而言，以19-20歲為最多，60-69歲次之，70歲以上則少有專職人員。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
-<tr>
+  <tr style="vertical-align: top;">
 <td width="161">
 <p>表9：北管團體有/無專職人員統計</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
@@ -875,25 +1022,83 @@
 </tbody>
 </table>
 </td>
-<td width="393">
+
+<td  class="tableCenter">
+  <img class="img55" src="./../../../assets/ob17/圖18：北管團體有_無專職人員統計比例.jpeg" alt="" />
 <p>圖18：北管團體有/無專職人員統計比例</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>圖19：北管團體專職人員之性別與年齡分布統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖19：北管團體專職人員之性別與年齡分布統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖19：北管團體專職人員之性別與年齡分布統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在業餘或兼職人員部分，前述有專職人員的11團中，有6團同時仍有兼職人員，佔比54%。此部分問題同樣有男/女比、職稱、年齡分布等延伸問題，完整回覆率僅69%。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如下方橫條圖所示，北管業餘或兼職人員之總數遠高於專職人員，性別比例部分，仍以男性居多，佔總數60%。就年齡分布而言，以50-59、60-69歲兩個區間之習樂人口最多，30-39歲次之；值得注意的是在業餘人口中，18歲以下以及80歲以上之習樂者亦有相當數量。</p>
-<p>圖20：北管團體業餘或兼職人員之性別與年齡分布統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖20：北管團體業餘或兼職人員之性別與年齡分布統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖20：北管團體業餘或兼職人員之性別與年齡分布統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;綜上所述，北管團體無論職業或業餘人員，皆以男性居多，年齡分布則多落在30-69歲之間，由此顯示北管音樂之習樂人口，仍以青壯年為主。</p>
-<p>圖21：北管團體專職/業餘人員之性別與年齡總計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖21：北管團體專職_業餘人員之性別與年齡總計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖21：北管團體專職/業餘人員之性別與年齡總計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <strong>二、人力來源</strong>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此部分再一次讓團體勾選有無專職人員，興許部分團體認為方才已回答過，因此這部分勾選有專職人員的團體僅有3團、無專職人員者25團，其餘團體皆未回覆，故回覆率僅62%。而團體之人力來源，在專職或兼職兩部分，皆下設家族成員、相關科系學生、他團轉入、推廣研習活動參與者、2022招募新團員與其他等六類。此部分之回答相對較零散，故筆者合併統計如下。</p>
-<p>圖22：北管團體專職或業餘人員之來源統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖22：北管團體專職或業餘人員之來源統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖22：北管團體專職或業餘人員之來源統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上圖所指為人力來源中，有來自該類別的團體總數，直觀來看，以家族成員居多，2022年有招募新團員的曲館數量次之，部分填寫其他一類者，多指既有團員、鄰居等無法歸入表單各類別一類。若再從各團體回報之人力總數來看，專職人員以家族成員居多，兼職或業餘人員以推廣研習活動參與者之數量最多，佔總業餘習樂人數的41%，其他一類的既有館員次之，佔比15%。另外，2022年北管團體招募新團員總數有88人，為本次問卷調查相當值得欣喜之發現。</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
 <tbody>
-<tr>
+  <tr style="vertical-align: top;">
 <td width="189">
 <p>表10：北管團體專職/業餘人力來源統計（人數）</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
@@ -978,7 +1183,8 @@
 </tbody>
 </table>
 </td>
-<td width="435">
+<td  class="tableCenter">
+  <img class="img70" src="./../../../assets/ob17/圖23：北管團體專職_業餘人力來源總計.jpeg" alt="" />
 <p>圖23：北管團體專職/業餘人力來源總計</p>
 </td>
 </tr>
@@ -987,11 +1193,53 @@
 <h3>柒、當前發展</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最後一部分為針對北管團體的當前發展情況調查，問卷共分為傳播方式、推廣研習活動之效益及面臨困境三方面。此部分為複選題，每個團體至多可勾選三項，統計結果如下。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，傳播方式部分，有效回答42份，根據統計結果，北管團體之傳播，以社群媒體與口耳相傳為主，遠遠超過節慶活動主辦單位宣傳以及海報、官方網站等傳播管道。此題之統計結果，也恰恰呼應了前文提及北管團體有Facebook粉絲專頁者佔比極高一事。</p>
-<p>圖24：北管團體傳播方式統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖24：北管團體傳播方式統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖24：北管團體傳播方式統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其次，推廣研習活動之效益部分，上一章述及北管人力來源時，已見有為數可觀的推廣研習活動參與者參與其中，而對於這些活動參與者對北管音樂之助益一題，此部分共收到40份回覆。根據統計結果顯示，北管團體認為推廣研習活動首重應為技藝傳承與藝術推廣，其次才是提昇民眾意願與吸引人才投入等促進北管習藝人口之助益。</p>
-<p>圖25：北管團體推廣研習活動效益統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖25：北管團體推廣研習活動效益統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖25：北管團體推廣研習活動效益統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最後，本問卷邀請北管團體勾選自覺面臨之困境，共計收到43份回覆。從研究結果顯示，逾半數的團體對於人才斷層、資金取得不易二件事最為擔憂，其次則為國內民眾參與意願低、政府行政資源有限、傳統藝術價值傳承困難等議題。簡言之，此部分之回應結果，筆者認為與前面二題北管團體所關心之議題，顯得相當一致，主要在於技藝、人員、經費三部分。</p>
-<p>圖26：北管團體面臨困境統計</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img70" src="./../../../assets/ob17/圖26：北管團體面臨困境統計.jpeg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖26：北管團體面臨困境統計</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <h3>捌、結語</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通過本次問卷調查分析，筆者得以從大數據角度，深入了解北管團體之各項情況；惟問卷內容部分涉及團體隱私，為尊重團體意願，由團體自行決定是否完整填寫。在個別統計之外，筆者亦彙整問卷各題之回覆情況。由下表可知，北管團體對於問卷各題目之反應，仍以提供基本資料與反應當前面臨問題有較高的填寫意願，在收支情況與人力結構部分，則有程度不一的回應情況。</p>
 <p>表11：問卷回覆情形統計</p>

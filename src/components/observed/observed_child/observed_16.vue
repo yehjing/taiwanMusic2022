@@ -11,7 +11,21 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「南管音樂團體基礎概況調查表」在時間有限、人力不足情況下，以親自遞送紙本含回郵信封、郵寄紙本含回郵信封以及傳送電子檔案等方式將問卷提供給南管團體。非親自遞送部分，也分別以電話、Line訊息或另附文字簡述等說明填寫問卷的需求，請各團體協助填寫調查表。感謝各團體的配合與回繳問卷。各團體的團體名稱、負責人、地址、電話、其他聯絡方式、成立時間等項目，因是基本資料，故不列入統計分析，而活動概況為文字敘述，也無法列入統計。</p>
 <h3>貳、團體數量</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;問卷總計發出63份，回收51份，填寫回收率達81％。雖然填寫回收率達81％，但某些團體資料填寫未齊全，特別是收入、支出部分。</p>
-<p>圖1：問卷填寫統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖1問卷填寫統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖1：問卷填寫統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;填寫繳交「南管音樂團體基礎概況調查表」的團體名單如下（依填寫順序編號）：</p>
 <span>表1：2022「南管音樂團體基礎概況調查表」問卷團體</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
@@ -395,7 +409,21 @@
 <p></p>
 <h3>參、立案情形</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有關南管團體立案情形，51個團體中立案者33個，未立案者18個，立案率為65%，未案率為35%，統計圖如下：</p>
-<p>圖2：立案情形統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖2立案情形統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖2：立案情形統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南管團體立案率超過半數，以多數為業餘休閒性質的南管團體而言，立案率65％不算低了，其中以臺北市、金門縣立案最多，臺中市次之。33個南管團體立案機關如下：</p>
 <span>表2：南管團體立案機關</span>
 <table  rules="all" border="1" style="border: 1px solid" cellpadding="5">
@@ -579,7 +607,21 @@
 </tbody>
 </table>
 <p></p>
-<p>圖3：團隊榮譽統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖3團隊榮譽統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖3：團隊榮譽統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <h3>肆、營運模式</h3>
 <p><strong>一、收入狀況</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在收入狀況部分，分為：1. 收入類別：政府補助、公部門活動演出費、民間活動演出費、票房收入、民間贊助、教學活動、自籌經費、其他。2. 年度總收入金額：25萬以下、26-50萬、51-75萬、76-100萬、100萬以上、其他。</p>
@@ -663,7 +705,21 @@
 </tbody>
 </table>
 <p></p>
-<p>圖4：收入狀況（一）收入類別統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖4收入類別統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖4：收入狀況（一）收入類別統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <ol start="2">
 <li>年度總收入金額分為：25萬以下、26-50萬、51-75萬、76-100萬、100萬以上、其他等6個選項。各團隊年度總收入大多是25萬元以下，而三個以職業演出為主的團隊，其中2個年度收入達100萬以上，1個團隊為76-100萬。本項目有5團未填寫，年度總收入統計表、統計圖如下：</li>
 </ol>
@@ -732,7 +788,21 @@
 </tbody>
 </table>
 <p></p>
-<p>圖5：收入狀況（二）年度總收入統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖5年度總收入統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖5：收入狀況（二）年度總收入統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p><strong>二、支出狀況</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在支出狀況項目，同樣分為二部分：1. 支出類別：同好切磋、民間傳統廟會及祭典、音樂廳及文化場演出支出、教學活動與推廣研習、館舍維護、專任人事支出、其他。2. 年度總支出金額：25萬以下、26-50萬、51-75萬、76-100萬、100萬以上、其他。以下分別敘述：</p>
 <ol>
@@ -811,7 +881,21 @@
 </tbody>
 </table>
 <p></p>
-<p>圖6：支出狀況（一）支出類別統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖6支出類別統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖6：支出狀況（一）支出類別統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <ol start="2">
 <li>年度總支出金額亦是分為：25萬以下、26-50萬、51-75萬、76-100萬、100萬以上、其他等6個，選項此部分有5團未填寫。各團隊年度總支出大多是25萬元以下，而3個以職業演出為主的團隊的年度總支出皆達100萬以上。年度總收入統計表、統計圖如下：</li>
 </ol>
@@ -881,13 +965,41 @@
 </tbody>
 </table>
 <p></p>
-<p>圖7：支出狀況（二）年度總支出統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖7年度總支出統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖7：支出狀況（二）年度總支出統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <h3>伍、活動概況</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022活動方式的問卷內容，分為二部分：1. 以職業演出為主/以業餘休閒為主；2. 活動類別：同好切磋（拜館交流、整絃、排場）、民間傳統廟會及祭典、音樂廳演出、教學與推廣研習、商業演出、其他；其中，「商業演出」備註說明「指受邀於企業、民間機構舉辦之營利性質演出」。以下分別敘述：</p>
 <ol>
 <li>以職業演出為主/以業餘休閒為主：51個團隊，以職業演出為主包括心心南管樂坊、江之翠劇場、南管新錦珠劇團等3個團隊，以業餘休閒為主有40個團隊，未填寫的8個團隊應該也是屬於以業餘休閒為主。統計圖如下：</li>
 </ol>
-<p>圖8：2022活動方式（一）以職業演出為主/以業餘休閒為主統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖8活動方式一.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖8：2022活動方式（一）以職業演出為主/以業餘休閒為主統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <ol start="2">
 <li>活動類別選項：同好切磋（拜館交流、整絃、排場）、民間傳統廟會及祭典、音樂廳演出、教學與推廣研習、商業演出、其他，有些團隊活動非單一項目，為統計方便，除單一項目之外，也列出多重項目一併統計。單一項目中排序前三名者依序為「民間傳統廟會及祭典」、「教學與推廣研習」、「同好切磋」，多重項目中排序前三名者依序為「同好切磋、民間傳統廟會及祭典、教學與推廣研習」、「同好切磋、民間傳統廟會及祭典」、「民間傳統廟會及祭典、教學與推廣研習」，從多重項目前三名也正好呼應單一項目前三名者，由此可知南管團隊2022活動方式以「同好切磋、民間傳統廟會及祭典、教學與推廣研習」等三個項目為主。</li>
 </ol>
@@ -1000,10 +1112,66 @@
 </tbody>
 </table>
 <p></p>
-<p>圖9：人力結構（專職）：專職人員統計圖</p>
-<p>圖10：人力結構（專職）：職務類別統計圖</p>
-<p>圖11：人力結構（專職）：性別統計圖</p>
-<p>圖12：人力結構（專職）：年齡統計圖</p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖9專職人員統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖9：人力結構（專職）：專職人員統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖10職務類別統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖10：人力結構（專職）：職務類別統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖11性別統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖11：人力結構（專職）：性別統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖12年齡統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖12：人力結構（專職）：年齡統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p><strong>二、業餘或兼職</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人力結構的業餘或兼職問卷項目與專職相同。統計結果，職務類別是以學生、演員（樂員、館員）最多，其次則是教師（館先生）。其他者，補充說明為是團長、絃友、助教等，部分團體無專責行政，而是由團員協助處理。性別還是以女性居多。年齡分布以60-69歲者最多，其次是50-59歲、70-79歲居第三，人力年齡層還是以50歲以上者為主。統計表與統計圖如下：</p>
 <p>表9：人力結構（業餘或兼職）：職務類別統計表</p>
@@ -1145,9 +1313,52 @@
 </tr>
 </tbody>
 </table>
-<p>圖13：人力結構（業餘或兼職）：職務類別統計圖</p>
-<p>圖14：人力結構（業餘或兼職）：性別統計圖</p>
-<p>圖15：人力結構（業餘或兼職）：年齡統計圖</p>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖13職務類別統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖13：人力結構（業餘或兼職）：職務類別統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖14性別統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖14：人力結構（業餘或兼職）：性別統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖15年齡統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖15：人力結構（業餘或兼職）：年齡統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p><strong>三、人力來源</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人力來源分為專職、業餘或兼職二部分，專職部分有8團未填、業餘或兼職部分則有7團未寫。由於專職人員項目，已於人力結構中探討，以下將針對業餘與兼職部分進行說明。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本項問卷統計以無專職最多。業餘或兼職部分，其他278人、推廣研習活動參與者276此二者最多，其他者，有部分團隊說明人力來源為團員介紹、朋友介紹、本庄人、外地人、非相關科系學生、原團員、其他團體前來協助、業餘、為開研習之前已加入、同好聚會、金門旅臺鄉親、招生、現有館員歷年自行招募、自發性、Facebook粉絲專業洽詢加入等。相關統計表與統計圖如下：</p>
@@ -1209,7 +1420,22 @@
 </tr>
 </tbody>
 </table>
-<p>圖16：人力來源（業餘或兼職）：來源類別統計圖</p>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖16來源類別統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖16：人力來源（業餘或兼職）：來源類別統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <h3>柒、其他</h3>
 <p><strong>一、傳播方式</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳播方式共計有社群媒體、海報DM、節慶活動主辦單位宣傳、口耳相傳、官方網站、各縣市藝文資訊刊物、新聞報導、校園宣傳、全國藝文活動資訊系統、研習工作坊、宣傳車廣播、兩廳院節目手冊、商業廣告、其他等14個項目可複選，前三名依序為社群媒體、口耳相傳、節慶活動主辦單位宣傳。其他者，有團隊說明有：鄉親同好聚會無須宣傳、無上述方式、Facebook粉絲專業。統計表與統計圖如下：</p>
@@ -1318,7 +1544,22 @@
 </tr>
 </tbody>
 </table>
-<p>圖17：傳播方式統計圖</p>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖17傳播方式統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖17：傳播方式統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p><strong>二、推廣研習活動之效</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;推廣研習活動之效益的項目共計有技藝傳承與藝術推廣、提升民眾參與意願、吸引人才投入、與學校教育課程結合、增加演出機會、廣告宣傳演出活動、增加跨界交流與連結、創造教學收入、其他等9個選項。可複選，但至多3項。此部分有3團未填。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本項統計以技藝傳承與藝術推廣居冠、提升民眾參與意願次之、吸引人才投入則名列第三。其他者，說明為：沒有特別做推廣研習、有透過朋友介紹而來、同好聚會不需任何推廣、皆無。統計表與統計圖如下：</p>
@@ -1397,7 +1638,22 @@
 </tr>
 </tbody>
 </table>
-<p>圖18：推廣研習活動之效益統計圖</p>
+<p></p>
+<table cellpadding="5">
+  <tbody>
+    <tr>
+      <td class="tableCenter">
+        <img class="img50" src="./../../../assets/ob16/圖18推廣研習活動之效益統計圖.jpg" alt="" />
+      </td>
+    </tr>
+    <tr>
+      <td class="tableCenter">
+        <p style="width:50%;margin:0 auto;" class="tableCenter">圖18：推廣研習活動之效益統計圖</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 <p>三<strong>、面臨困境</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;面臨困境部分的問卷選項多達21項，可複選，但至多3項，部分團體可能未注意限制，勾選項目超過3項。本項統計前三名依序為：人才斷層、國內民眾參與意願低、傳統藝術價值傳承困難。其他者，部分團隊說明為：團員平時各自有工作、承辦活動的時間受限、同好聚會無任何困境、鄉親聚會無任何困境、南管研究風氣不足、資料不足及取得困難。此選項有2團未填，勾選數量少或未被勾選項目，並非是少有或全無此困境，而是團體各選了最困難的前3項。統計表如下：</p>
 <p>表14：面臨困境統計表</p>
