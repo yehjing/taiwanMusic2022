@@ -68,6 +68,7 @@
 <td width="207">
 <p>財團法人桃園市文化基金會</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -76,6 +77,7 @@
 <td width="207">
 <p>微笑唸歌團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -120,6 +122,7 @@
 <td width="207">
 <p>福爾摩沙巴洛克古樂團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -147,6 +150,7 @@
 <td width="207">
 <p>風潮音樂國際股份有限公司</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -155,6 +159,7 @@
 <td width="207">
 <p>聯經出版事業股份有限公司</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -188,6 +193,7 @@
 <td width="207">
 <p>李欣芸音樂製作有限公司</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -196,6 +202,7 @@
 <td width="207">
 <p>巴洛克獨奏家樂團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -204,6 +211,7 @@
 <td width="207">
 <p>財團法人台灣基督長老教會鳳山教會</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -212,6 +220,7 @@
 <td width="207">
 <p>李欣芸音樂製作有限公司</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -248,6 +257,7 @@
 <td width="207">
 <p>金鷹閣電視木偶劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -319,6 +329,7 @@
 <td width="208">
 <p>世外桃園</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="85">
@@ -330,6 +341,7 @@
 <td width="208">
 <p>來自臺灣─呂紹嘉的原鄉情懷</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="85">
@@ -423,6 +435,7 @@
 <td width="208">
 <p>臺灣眼世界心─環球遊記</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="85">
@@ -434,6 +447,7 @@
 <td width="208">
 <p>位土地來的歌聲</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="85">
@@ -512,6 +526,7 @@
 <td width="208">
 <p>新亞室內樂協會《情繫心憶》紐約音樂會</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="85">
@@ -557,6 +572,7 @@
 <td width="246">
 <p>笛蝶故事</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="226">
@@ -636,6 +652,7 @@
 <td width="246">
 <p>來自臺灣─呂紹嘉的原鄉情懷</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="226">
@@ -669,6 +686,7 @@
 <td width="246">
 <p>文以莊 神的使女</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="226">
@@ -677,6 +695,7 @@
 <td width="246">
 <p>2021驚嘆樂舞─臺灣原住民樂舞饗宴</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="226">
@@ -685,6 +704,7 @@
 <td width="246">
 <p>臺灣眼世界心─環球遊記</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="226">
@@ -729,6 +749,7 @@
 <td width="246">
 <p>來自臺灣─呂紹嘉的原鄉情懷</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="226">
@@ -764,6 +785,7 @@
 <td width="246">
 <p>森。木管《十年》</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -818,6 +840,7 @@
 <td width="216">
 <p>望鄉之夜</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="243">
@@ -869,6 +892,7 @@
 <td width="198">
 <p>財團法人文化臺灣基金會</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -891,6 +915,7 @@
 <td width="198">
 <p>薪傳歌仔戲劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -936,6 +961,7 @@
 <td width="198">
 <p>財團法人高雄市愛樂文化藝術基金會</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -947,6 +973,7 @@
 <td width="198">
 <p>一心戲劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -958,6 +985,7 @@
 <td width="198">
 <p>真快樂掌中劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1028,6 +1056,7 @@
 <td width="198">
 <p>真快樂掌中劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1039,6 +1068,7 @@
 <td width="198">
 <p>一心戲劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1050,6 +1080,7 @@
 <td width="198">
 <p>榮興客家採茶劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1092,6 +1123,7 @@
 <td width="198">
 <p>國立臺灣戲曲學院</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1139,6 +1171,7 @@
 <td width="198">
 <p>當代傳奇劇場</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -1184,6 +1217,7 @@
 <td width="198">
 <p>國光劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1195,6 +1229,7 @@
 <td width="198">
 <p>唐美雲歌仔戲團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1276,6 +1311,7 @@
 <td width="198">
 <p>全西園掌中劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">
@@ -1287,6 +1323,7 @@
 <td width="198">
 <p>不貳偶劇</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="131">

@@ -82,13 +82,13 @@
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td width="85">
+<td width="66">
 <p>活動類型</p>
 </td>
 <td width="94">
 <p>音樂會</p>
 </td>
-<td width="85">
+<td width="66">
 <p>遶境</p>
 </td>
 <td width="104">
@@ -102,13 +102,13 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>數量</p>
 </td>
 <td width="94">
 <p>1283</p>
 </td>
-<td width="85">
+<td width="66">
 <p>0</p>
 </td>
 <td width="104">
@@ -208,13 +208,13 @@
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td width="85">
+<td width="66">
 <p>傳習類型</p>
 </td>
 <td width="94">
 <p>工作坊</p>
 </td>
-<td width="85">
+<td width="66">
 <p>大師班</p>
 </td>
 <td width="104">
@@ -228,13 +228,13 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>數量</p>
 </td>
 <td width="94">
 <p>13</p>
 </td>
-<td width="85">
+<td width="66">
 <p>160</p>
 </td>
 <td width="104">
@@ -290,7 +290,7 @@
 <td width="94">
 <p>研究計畫</p>
 </td>
-<td width="85">
+<td width="66">
 <p>期刊論文</p>
 </td>
 <td width="104">
@@ -299,7 +299,7 @@
 <td width="104">
 <p>研討會論文</p>
 </td>
-<td width="123">
+<td width="66">
 <p>專書/專輯/樂譜</p>
 </td>
 </tr>
@@ -310,7 +310,7 @@
 <td width="94">
 <p>6</p>
 </td>
-<td width="85">
+<td width="66">
 <p>4</p>
 </td>
 <td width="104">
@@ -319,7 +319,7 @@
 <td width="104">
 <p>17</p>
 </td>
-<td width="123">
+<td width="66">
 <p>18</p>
 </td>
 </tr>
@@ -467,10 +467,10 @@
 <td width="180">
 <p>篇名</p>
 </td>
-<td width="123">
+<td width="66">
 <p>期刊名</p>
 </td>
-<td width="85">
+<td width="66">
 <p>期數</p>
 </td>
 <td width="100">
@@ -484,10 +484,10 @@
 <td width="180">
 <p>高約拿第一號交響詩《夏天鄉村的黃昏》重建紀事與樂曲解析</p>
 </td>
-<td width="123">
+<td width="66">
 <p>關渡音樂學刊</p>
 </td>
-<td width="85">
+<td width="66">
 <p>第35期</p>
 </td>
 <td width="100">
@@ -501,10 +501,10 @@
 <td width="180">
 <p>臺灣古典吉他教育的發展與現狀</p>
 </td>
-<td width="123">
+<td width="66">
 <p>關渡音樂學刊</p>
 </td>
-<td width="85">
+<td width="66">
 <p>第36期</p>
 </td>
 <td width="100">
@@ -518,10 +518,10 @@
 <td width="180">
 <p>試論現代作曲家創作風格之變：以臺灣作曲家柯芳隆為例</p>
 </td>
-<td width="123">
+<td width="66">
 <p>音樂研究</p>
 </td>
-<td width="85">
+<td width="66">
 <p>第37期</p>
 </td>
 <td width="100">
@@ -535,10 +535,10 @@
 <td width="180">
 <p>音樂時間性二維分析：一個方法論芻議</p>
 </td>
-<td width="123">
+<td width="66">
 <p>臺灣音樂研究</p>
 </td>
-<td width="85">
+<td width="66">
 <p>第30期特刊</p>
 </td>
 <td width="100">
@@ -547,11 +547,12 @@
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>碩博士論文</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td width="85">
+<td width="66">
 <p>作者</p>
 </td>
 <td width="284">
@@ -562,7 +563,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>杜晏儒</p>
 </td>
 <td width="284">
@@ -573,7 +574,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>倪靖倫</p>
 </td>
 <td width="284">
@@ -584,7 +585,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>黃智琪</p>
 </td>
 <td width="284">
@@ -595,7 +596,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>李郁茹</p>
 </td>
 <td width="284">
@@ -606,7 +607,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>卓邵仲豪</p>
 </td>
 <td width="284">
@@ -617,7 +618,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>王晶一</p>
 </td>
 <td width="284">
@@ -628,7 +629,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>張凱晴</p>
 </td>
 <td width="284">
@@ -639,7 +640,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>郭羚妍</p>
 </td>
 <td width="284">
@@ -650,7 +651,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>楊孝慈</p>
 </td>
 <td width="284">
@@ -662,6 +663,7 @@
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>研討會論文</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
@@ -919,6 +921,7 @@
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>專書/專輯/樂譜</p>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
@@ -1247,6 +1250,7 @@
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3>柒、文化政策</h3>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
@@ -1278,7 +1282,7 @@
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td width="85">
+<td width="66">
 <p>形式</p>
 </td>
 <td width="217">
@@ -1292,7 +1296,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1306,7 +1310,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1320,7 +1324,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1334,7 +1338,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1348,7 +1352,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1362,7 +1366,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1376,7 +1380,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1390,7 +1394,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1404,7 +1408,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1418,7 +1422,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>政策</p>
 </td>
 <td width="217">
@@ -1432,7 +1436,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1446,7 +1450,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1460,7 +1464,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1474,7 +1478,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1488,7 +1492,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1502,7 +1506,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1516,7 +1520,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1530,7 +1534,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1544,7 +1548,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1558,7 +1562,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1572,7 +1576,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1586,7 +1590,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1600,7 +1604,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1614,7 +1618,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1628,7 +1632,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1642,7 +1646,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1656,7 +1660,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1670,7 +1674,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1684,7 +1688,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1698,7 +1702,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1712,7 +1716,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -1726,7 +1730,7 @@
 </td>
 </tr>
 <tr>
-<td width="85">
+<td width="66">
 <p>獎補助</p>
 </td>
 <td width="217">
@@ -3677,6 +3681,6 @@
 </template>
 <style lang="scss" scoped>
   td:first-child{
-    text-align: center;
+    text-align: left;
   }
 </style>

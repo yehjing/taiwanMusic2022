@@ -1364,14 +1364,14 @@
       </tbody>
     </table>
     <p></p>
-    <p>文武郎君、太平歌</p>
+    <p>二、文武郎君、太平歌</p>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td rowspan="2">
             <p>名稱</p>
           </td>
-          <td rowspan="2">
+          <td style="width:60px" rowspan="2">
             <p>負責人</p>
           </td>
           <td rowspan="2">

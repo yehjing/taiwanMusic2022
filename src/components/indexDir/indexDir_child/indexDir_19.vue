@@ -193,7 +193,7 @@
           </td>
           <td width="208">
             <p>立案號：0459</p>
-            <p>陳怡珊為總幹事，固定每週一19:00-21:30排練。</p>
+            <p>陳怡珊為總幹事，固定每週一19:00-21:30排練</p>
           </td>
         </tr>
         <tr>
@@ -1351,8 +1351,6 @@
           </td>
           <td width="274">
             <a target="_" href="https://www.facebook.com/InnTianGong/">連結</a>
-            <br>
-            <a target="_" href="https://ytco.com.tw/">連結</a>
           </td>
           <td width="113">
             <p>已立案</p>
@@ -4577,8 +4575,6 @@
           <td width="274">
 
             <a href="mailto:fatdrum2000@gmail.com">連結</a>
-            <br>
-            <a target="_" href="http://www.wretch.cc/mypage/deardoremi">連結</a>
           </td>
           <td width="113">
             <p>已立案</p>
