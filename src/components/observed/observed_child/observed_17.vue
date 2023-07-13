@@ -188,7 +188,7 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就本次問卷回覆收集結果，共有來自臺灣本島四區<sup>2</sup>的北管團體填寫，其中以北部地區填寫數量為最多，佔總數58%，填寫問卷之團體所在地區分布比例詳如下表、下圖所示。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
 <tr style="vertical-align: top;">
 <td width="170">
@@ -256,7 +256,7 @@
 </table>
 <p></p>
 <p>北管團體的<strong>成立時間</strong>部分，筆者粗略劃分為8個時間段，所獲資訊如下圖所示，另有7個團體未作答，作答率84%。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
 <tr style="vertical-align: top;">
 <td width="151">
@@ -459,7 +459,7 @@
 <h3>肆、營運模式</h3>
 <strong>一、收支情況</strong>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;收入部分，六成五的北管團體年收入為50萬以下，年收入50萬以上者，僅有20%，另有6個團體未回答，回應率86％。至於收入來源部分，本問卷共分為政府補助、公部門活動演出費、民間活動演出費、票房收入、民間贊助、教學活動、自籌經費、其他等8類。經過分析，北管團體以自籌經費及民間活動演出費為主要來源，政府補助及公部門活動演出費次之，票房收入則無。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
 <tr style="vertical-align: top;">
 <td width="161">
@@ -580,7 +580,7 @@
 </table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支出部分，六成的北管團體年支出為50萬以下，而年支出50萬以上者，僅有20%，另有7個團體未回答，回應率84％。至於曲館的花費流向，本問卷共分為同好切磋（拜館交流、排場）、民間傳統廟會及祭典、音樂廳演出支出、教學與推廣研習、館舍維護、專任人事支出及其他等七類，經過分析，北管團體的主要支出為民間傳統廟會及祭典、館舍維護，教學與推廣研習、同好切磋及其他類次之。此部分的其他一類，筆者綜合歸納為房租支出、樂器及文物的維護與購置、樂手薪資以及聚餐交誼等。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
   <tr style="vertical-align: top;">
 <td width="161">
@@ -702,7 +702,7 @@
 </table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;若將團體回應之收入與支出情況比對其損益平衡情況，逾半數的團體都在不同的金額區間中，勉為其難地維持收支平衡<sup>3</sup>，具有盈餘者僅6％、虧損者則佔18％。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
   <tr style="vertical-align: top;">
 <td width="161">
@@ -771,7 +771,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;綜上所述，從所獲得之問卷回應中，可以見到團體之經營相當不易，也再一次驗證北管團體大部分都是自娛自樂、服祀神明及地方所屬宮廟之業餘團體；且因這樣子的地緣性質主導，因此年演出場次並不多，收支多為平衡或略有虧損的狀態。</p>
 <h3>伍、2022年活動概況</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據問卷之填寫結果，北管團體對於自我身分之認定，有84%為業餘子弟，亦即不以遶境出陣或廟會排場籌措曲館經費之意，實際上，子弟曲館的出門，往往都是自掏腰包之負收入情況，因此民間才會流傳以「憨子弟」一詞稱呼這些出錢又出力的曲館子弟；反之，職業團之職業樂手，則以此謀生。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
   <tr style="vertical-align: top;">
 <td width="161">
@@ -830,7 +830,7 @@
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022年的活動場次部分，44%之團體年度活動僅1-10場，另有六成團體今年度演出100場以上。活動方式部分，本問卷共分為同好切磋（拜館交流、整絃、排場）、民間傳統廟會及祭典、音樂廳演出、教學與推廣研習、商業演出及其他六類，其中的商業演出係指民間邀約之營利性演出。而根據問卷統計結果，北管團體中，以民間傳統廟會及祭典為主要活動類型，共有41個團體有此活動；其次則為同好切磋、教學與推廣研習，各有十餘個團體有此活動，此統計數字也符合筆者全年度觀察臺灣北管音樂生態之所見。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
   <tr style="vertical-align: top;">
 <td width="161">
@@ -972,7 +972,7 @@
 <strong>一、人力結構</strong>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由於此部分問題較為繁雜，共分為有/無專職人員、以及男/女比、職稱、年齡分布等延伸問題，所收問卷中對於此部分之回答率較低，部分團體之填寫情況也與筆者實際田野觀察了解情況差距有所差距。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，北管團體中有專職人員者，共有11團，其餘30團無專職人員，另有4團未填寫，作答率91%。此部分內容應著重有專職人員的團體。然而，根據問卷回覆情形，僅有6團完整回覆以上問題，另5團為部分回覆，完成率僅54%，因此，本文此部分僅統計回應之總數。如下方橫條圖所示，北管專職人員之男女性別比例以男性居多，佔總數65%。就年齡分布而言，以19-20歲為最多，60-69歲次之，70歲以上則少有專職人員。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+<table>
 <tbody>
   <tr style="vertical-align: top;">
 <td width="161">
@@ -1096,7 +1096,7 @@
 </table>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上圖所指為人力來源中，有來自該類別的團體總數，直觀來看，以家族成員居多，2022年有招募新團員的曲館數量次之，部分填寫其他一類者，多指既有團員、鄰居等無法歸入表單各類別一類。若再從各團體回報之人力總數來看，專職人員以家族成員居多，兼職或業餘人員以推廣研習活動參與者之數量最多，佔總業餘習樂人數的41%，其他一類的既有館員次之，佔比15%。另外，2022年北管團體招募新團員總數有88人，為本次問卷調查相當值得欣喜之發現。</p>
-<table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
+<table>
 <tbody>
   <tr style="vertical-align: top;">
 <td width="189">
