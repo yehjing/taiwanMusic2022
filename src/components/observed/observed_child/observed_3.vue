@@ -1027,12 +1027,6 @@
 <td width="123">
         <img class="img70" src="./../../../assets/ob3/圖7.jpeg 的副本.jpg" alt="" />
 </td>
-<td width="123">
-        <img class="img70" src="./../../../assets/ob3/圖8.jpeg 的副本.jpg" alt="" />
-</td>
-<td width="142">
-        <img class="img70" src="./../../../assets/ob3/圖9.jpeg 的副本.jpg" alt="" />
-</td>
 </tr>
 <tr>
 <td width="123">
@@ -1041,6 +1035,17 @@
 <td width="123">
   <p>圖7：儲見智（左）與鄭美（右）（微笑唸歌團提供）</p>
 </td>
+</tr>
+<tr>
+<td width="123">
+        <img class="img70" src="./../../../assets/ob3/圖8.jpeg 的副本.jpg" alt="" />
+</td>
+<td width="142">
+        <img class="img70" src="./../../../assets/ob3/圖9.jpeg 的副本.jpg" alt="" />
+</td>
+</tr>
+
+<tr>
 <td width="123">
   <p>圖8：儲見智（左）與丁秀津（右）（微笑唸歌團提供）</p>
 </td>
@@ -1055,6 +1060,16 @@
 <td width="123">
         <img class="img70" src="./../../../assets/ob3/圖11.jpeg 的副本.jpg" alt="" />
 </td>
+</tr>
+<tr>
+  <tr>
+<td width="123">
+<p>圖10：儲見智、林恬安、吳栯禔、鄭美在望安鄉花宅五府千歲廟前（微笑唸歌團提供）</p>
+</td>
+<td width="123">
+<p>圖11：儲見智（左）與鄭美（右）（微笑唸歌團提供）</p>
+</td>
+</tr>
 <td width="123">
         <img class="img70" src="./../../../assets/ob3/圖12.jpeg 的副本.jpg" alt="" />
 </td>
@@ -1062,13 +1077,9 @@
         <img class="img70" src="./../../../assets/ob3/圖13.jpeg 的副本.jpg" alt="" />
 </td>
 </tr>
+
 <tr>
-<td width="123">
-<p>圖10：儲見智、林恬安、吳栯禔、鄭美在望安鄉花宅五府千歲廟前（微笑唸歌團提供）</p>
-</td>
-<td width="123">
-<p>圖11：儲見智（左）與鄭美（右）（微笑唸歌團提供）</p>
-</td>
+
 <td width="123">
 <p>圖12：儲見智（左）與丁秀津（右）（微笑唸歌團提供）</p>
 </td>
@@ -1405,10 +1416,10 @@
 <tbody>
 <tr>
 <td width="279">
-            <img class="img45" src="./../../../assets/ob3/圖14.jpg 的副本.jpg" alt="" />
+            <img class="img70" src="./../../../assets/ob3/圖14.jpg 的副本.jpg" alt="" />
 </td>
 <td width="279">
-            <img class="img45" src="./../../../assets/ob3/圖15.jpg 的副本.jpg" alt="" />
+            <img class="img70" src="./../../../assets/ob3/圖15.jpg 的副本.jpg" alt="" />
 </td>
 </tr>
 <tr>

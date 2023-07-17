@@ -188,11 +188,12 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就本次問卷回覆收集結果，共有來自臺灣本島四區<sup>2</sup>的北管團體填寫，其中以北部地區填寫數量為最多，佔總數58%，填寫問卷之團體所在地區分布比例詳如下表、下圖所示。</p>
+<p></p>
 <table>
 <tbody>
 <tr style="vertical-align: top;">
 <td width="170">
-<p>表1：北管團體所在區域統計</p>
+<span>表1：北管團體所在區域統計</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr >
@@ -1242,7 +1243,8 @@
 <p></p>
 <h3>捌、結語</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通過本次問卷調查分析，筆者得以從大數據角度，深入了解北管團體之各項情況；惟問卷內容部分涉及團體隱私，為尊重團體意願，由團體自行決定是否完整填寫。在個別統計之外，筆者亦彙整問卷各題之回覆情況。由下表可知，北管團體對於問卷各題目之反應，仍以提供基本資料與反應當前面臨問題有較高的填寫意願，在收支情況與人力結構部分，則有程度不一的回應情況。</p>
-<p>表11：問卷回覆情形統計</p>
+<p></p>
+<span>表11：問卷回覆情形統計</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
 <tbody>
 <tr>

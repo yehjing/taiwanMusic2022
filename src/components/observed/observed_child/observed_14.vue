@@ -329,7 +329,8 @@
 </tr>
 </tbody>
 </table>
-<p>期刊論文</p>
+<p></p>
+<span>期刊論文</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -419,7 +420,8 @@
 </tr>
 </tbody>
 </table>
-<p>研討會論文</p>
+<p></p>
+<span>研討會論文</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -578,7 +580,8 @@
 </tr>
 </tbody>
 </table>
-<p>專書/專輯/樂譜</p>
+<p></p>
+<span>專書/專輯/樂譜</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
