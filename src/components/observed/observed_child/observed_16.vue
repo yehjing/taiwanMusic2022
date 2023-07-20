@@ -1134,7 +1134,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖12年齡統計圖.jpg" alt="" />
+        <img class="img40" src="./../../../assets/ob16/圖12年齡統計圖.jpg" alt="" />
       </td>
     </tr>
     <tr>
