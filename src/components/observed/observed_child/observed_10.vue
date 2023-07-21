@@ -8,7 +8,7 @@
     <p class="firstRow"></p>
 <h3>壹、前言</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣道、法壇生態蓬勃，儀式種類繁多，不同的地方有著不一樣的法源脈絡如：北部以道法二門正一道壇和南部以靈寶道壇為主，或是相同法源脈絡因著地方的不同有著不一樣的風格表現如：正一道壇的臺北和臺中二地方，或是相同地方因著師承的不同有著不一樣的演法特色如：臺北道法二門正一道壇的劉厝和林厝派等等。本年度計畫團隊蒐集了391場祭儀活動，參與近百場的實地調查，其中包含離島的澎湖、金門、馬祖，持續對3座離島道法儀式音樂作歷時性的觀察和調查蒐集，總計收錄14篇活動紀錄表，其中中部地區共有4篇、南部地區共有8篇、離島地區共有2篇，內容分別有醮儀6篇及齋儀8篇。本島部分將目標首先設定在本島道法儀式中相對較少被述及的地方道壇和道派如：高屏靈寶道壇、臺中正一道壇、新竹正一嗣壇、苗栗靈寶道壇，及法派如：臺南黑頭小法、臺南紅頭小法、澎湖福倌（澎湖宮廟小法）等。並對道法儀式執事人員道途的養成和鮮少公開的行內事功德作出紀錄，除是希望廣泛的對臺灣道法儀式和儀式音樂作出蒐集與觀察，更企能為這些地方道壇的演法特色，和具代表的特殊性做出保存和持續發展的貢獻。</p>
-<p>表1：本年鑑2022年道法音樂活動統計數據表</p>
+<span>表1：本年鑑2022年道法音樂活動統計數據表</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -66,7 +66,7 @@
 </tbody>
 </table>
 <p></p>
-<p>表2：本年鑑2022年道法祭儀活動中儀式分類統計數據表<sup>1</sup></p>
+<span>表2：本年鑑2022年道法祭儀活動中儀式分類統計數據表<sup>1</sup></span>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -103,7 +103,7 @@
 <h3>貳、道途生命的相關儀式<sup>2</sup></h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在臺灣以道士一途作為終生職業，除祖壇的「家傳」和透過姻親間的人際關係網絡學習外，近十年開始見有非家傳弟子透過道壇公開性授課的推廣，而入道學習並成為優秀道士者，不論是何種方式都仍保有傳統行業的特殊性和神秘性。「三年出得一狀元，十年不得一道士」，傳統道士的養成教育非常不易，道途生命儀式從「入道拜師」始，到學成後的「晉升高功」（道長），到生命結束的《繳籙》和「做功德」，而這四個階段性的過程，因著不同的道脈傳承和不同的地方傳統，做法上亦有所不同。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本年度為疫情發生以來的第三年，相關的防疫措施和活動管制也逐漸開放，許多道壇原訂在前二年的計畫多選在今年陸續完成，使得道壇道業活動相當的豐富和熱鬧，於此團隊採集了2場入門拜師和8場晉升高功的儀式。道途有開始就有結束，團隊亦難得的採集到極少對外公開道士羽化的《繳籙》科儀2場和多場的「行內事功德」。依時間序製表如下：</p>
-<p>表3：道途生命的相關儀式實地調查記錄</p>
+<span>表3：道途生命的相關儀式實地調查記錄</span>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -410,16 +410,16 @@
 <p></p>
 <span><strong>一、入道拜師</strong></span>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「入道拜師」顧名思義就是從學徒經由拜師而正式入道。本次案例為北部道法二門正一道壇學道門生呂暐庭，2002年（民91）生，21歲，為內壢顯真壇與臺北松山城隍廟駐廟道長呂宗儒道長之子。自中學起即常隨父親出外做事，長期耳濡目染下的學習，於6月30日在三重正統雷晉壇行拜師禮，拜游宗樺道長為師。該日除師叔高秉禾、師兄李學儒及新科道長劉瀚澤的協助打理大小相關準備事宜外，由太初玄清宮葉峻男道長擔任司儀讀宣拜帖，上香恭請日月三光天地神祇、壇中神明、歷代宗師仝作證明，行三獻酒禮。</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;後依序向師父游宗樺道長、保舉人朱堃燦道長、見證師高景清道長、林清智道長和王世華道長奉上敬茶。再由師父游道長對其說出期勉的話：「&hellip;&hellip;有壓力不要怕，有壓力才會進步。學法要先學做人，我們道派的每一位人，都有你值得學習的優點，所以對人要有基本的尊重，最重要的是要敬老尊賢，最後，我既然收你做徒弟，我希望你可以做得比我更好，老師只是比你多學了20幾年，期許你有更廣泛的學習，有任何的問題，在場的每一位你都可以向他們請益&hellip;&hellip;」場面相當感人。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;後依序向師父游宗樺道長、保舉人朱堃燦道長、見證師高景清道長、林清智道長和王世華道長奉上敬茶。再由師父游道長對其說出期勉的話：「<span class="bkt">&hellip;&hellip;有壓力不要怕，有壓力才會進步。學法要先學做人，我們道派的每一位人，都有你值得學習的優點，所以對人要有基本的尊重，最重要的是要敬老尊賢，最後，我既然收你做徒弟，我希望你可以做得比我更好，老師只是比你多學了20幾年，期許你有更廣泛的學習，有任何的問題，在場的每一位你都可以向他們請益&hellip;&hellip;</span>」場面相當感人。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拜師禮結束，隨即邀請道眾赴拜師宴，這裡的宴請除祝賀外，亦帶有宣告的意味，即從今起呂暐庭為三重正統雷晉壇游宗樺道長的門生，請道壇前輩多予以照顧和協助學習之意。</p>
     <table class="imgCenter">
 <tbody>
 <tr>
 <td >
-<img class="img45" src="./../../../assets/ob10/1.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob10/1.jpg" alt="" />
 </td>
 <td >
-<img class="img45" src="./../../../assets/ob10/2.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob10/2.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -448,10 +448,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob10/3.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/3.jpg" alt="" />
 </td>
 <td>
-<img class="img45" src="./../../../assets/ob10/4.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/4.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -473,10 +473,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob10/5.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/5.jpg" alt="" />
 </td>
 <td>
-<img class="img45" src="./../../../assets/ob10/6.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/6.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -500,10 +500,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob10/7.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/7.jpg" alt="" />
 </td>
 <td>
-<img class="img45" src="./../../../assets/ob10/8.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/8.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -529,10 +529,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/9.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/9.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/10.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/10.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -555,10 +555,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/11.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/11.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/12.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/12.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -582,10 +582,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/13.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/13.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/14.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/14.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -607,10 +607,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/15.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/15.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/16.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/16.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -632,10 +632,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/17.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/17.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/18.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/18.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -660,10 +660,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/19.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/19.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/20.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/20.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -686,10 +686,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/21.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/21.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/22.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/22.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -712,10 +712,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/23.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/23.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/24.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/24.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -735,10 +735,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/25.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/25.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/26.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/26.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -758,10 +758,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/27.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/27.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/28.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/28.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -783,10 +783,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/29.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/29.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/30.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/30.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -807,10 +807,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/31.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/31.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/32.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/32.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -831,10 +831,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/33.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/33.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/34.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/34.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -896,10 +896,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/35.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/35.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/36.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/36.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -922,10 +922,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/37.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/37.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/38.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/38.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -952,10 +952,10 @@
 <tbody>
 <tr>
 <td width="279">
-<img class="img45" src="./../../../assets/ob10/39.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/39.jpg" alt="" />
 </td>
 <td width="363">
-<img class="img45" src="./../../../assets/ob10/40.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/40.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -977,10 +977,10 @@
 <tbody>
 <tr>
 <td width="279">
-<img class="img45" src="./../../../assets/ob10/41.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/41.jpg" alt="" />
 </td>
 <td width="363">
-<img class="img45" src="./../../../assets/ob10/42.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/42.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -993,7 +993,7 @@
 </tr>
 </tbody>
 </table>
-<ol start="4">
+<ol start="3">
 <li><strong>迎接姻親</strong></li>
 </ol>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「姻親」即開基先祖母，亦有鄉里同時迎接姑婆祖者，金門奠安慣習認為祖婆非常重要，所以會在第一天上午安排姻親祭典。主辦方會手舉歡迎布條，以哨角作為前引，後有大鼓、鈔、鼓吹作為主幹的大鼓吹至村子口迎接姻親，並接過以榭挑來之祭品，沿途在大鼓吹熱鬧的【將軍令】吹奏下，浩浩蕩蕩迎入家廟，並由姻親至家廟內祭其祖，結束後便招待姻親至家廟旁享用餐宴。在獻典中，後場會以什音<sup>23</sup>伴奏，其曲目多為過場曲【一粒星】、【臺灣串仔】<sup>24</sup>、【二錦】、【水底魚】等。</p>
@@ -1034,10 +1034,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/43.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/43.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/44.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/44.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1050,10 +1050,10 @@
 </tr>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/45.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/45.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/46.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/46.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1076,7 +1076,7 @@
 </ol>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;將家廟所有之門窗緊閉關上，並在中門貼上王爺所開之符令以及法司所寫之封條。待隔日「啟扉」由鄉佬及主事至福壽雙全之六公全<sup>26</sup>鄉佬家迎請其於王爺指示之時間手持寶劍割開符令與封條，打開家廟大門，再一齊焚香祭拜祖先便告結束。</p>
 <p></p>
-<span>表4本年度二場奠安慶典活動程序表<sup>27</sup></span>
+<span>表4：本年度二場奠安慶典活動程序表<sup>27</sup></span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
