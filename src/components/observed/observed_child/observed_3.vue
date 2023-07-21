@@ -393,7 +393,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表1.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img1.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -409,7 +409,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表2.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img2.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -623,10 +623,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob3/圖1：5_29鄭美和臺北市五全樂齡月琴團.jpg 的副本.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob3/1.jpg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob3/圖2：3_26楊秀卿說唱藝術團.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob3/2.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -646,10 +646,10 @@
 <tbody>
 <tr>
 <td width="283">
-<img class="img80" src="./../../../assets/ob3/圖3.jpg 的副本.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob3/3.jpg" alt="" />
 </td>
 <td width="279">
-<img class="img45" src="./../../../assets/ob3/圖4.jpg 的副本.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob3/4.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -665,7 +665,7 @@
 </tr>
 <tr>
 <td width="283">
-<img class="img45" src="./../../../assets/ob3/圖5.jpg 的副本.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob3/5.jpg" alt="" />
 </td>
 <td width="279">&nbsp;</td>
 </tr>
@@ -943,7 +943,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表3.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img3.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -958,7 +958,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表4.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img4.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -974,7 +974,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表5.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img5.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -990,7 +990,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表6.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img6.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1006,7 +1006,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表7.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img7.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1022,10 +1022,10 @@
 <tbody>
 <tr>
 <td width="123">
-        <img class="img70" src="./../../../assets/ob3/圖6.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/6.jpg" alt="" />
 </td>
 <td width="123">
-        <img class="img70" src="./../../../assets/ob3/圖7.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/7.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1038,10 +1038,10 @@
 </tr>
 <tr>
 <td width="123">
-        <img class="img70" src="./../../../assets/ob3/圖8.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/8.jpg" alt="" />
 </td>
 <td width="142">
-        <img class="img70" src="./../../../assets/ob3/圖9.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/9.jpg" alt="" />
 </td>
 </tr>
 
@@ -1055,10 +1055,10 @@
 </tr>
 <tr>
 <td width="123">
-        <img class="img70" src="./../../../assets/ob3/圖10.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/10.jpg" alt="" />
 </td>
 <td width="123">
-        <img class="img70" src="./../../../assets/ob3/圖11.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/11.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1071,10 +1071,10 @@
 </td>
 </tr>
 <td width="123">
-        <img class="img70" src="./../../../assets/ob3/圖12.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/12.jpg" alt="" />
 </td>
 <td width="142">
-        <img class="img70" src="./../../../assets/ob3/圖13.jpeg 的副本.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/13.jpg" alt="" />
 </td>
 </tr>
 
@@ -1397,7 +1397,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表8.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img8.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1416,10 +1416,10 @@
 <tbody>
 <tr>
 <td width="279">
-            <img class="img70" src="./../../../assets/ob3/圖14.jpg 的副本.jpg" alt="" />
+            <img class="img70" src="./../../../assets/ob3/14.jpg" alt="" />
 </td>
 <td width="279">
-            <img class="img70" src="./../../../assets/ob3/圖15.jpg 的副本.jpg" alt="" />
+            <img class="img70" src="./../../../assets/ob3/15.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -2711,7 +2711,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表9.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img9.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -2729,7 +2729,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/圖表10.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob3/img10.jpg" alt="" />
       </td>
     </tr>
     <tr>

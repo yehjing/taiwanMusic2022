@@ -15,7 +15,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖1問卷填寫統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/1.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -413,7 +413,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖2立案情形統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/2.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -609,7 +609,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖3團隊榮譽統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/3.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -707,7 +707,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖4收入類別統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/4.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -790,7 +790,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖5年度總收入統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/5.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -881,7 +881,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖6支出類別統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/6.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -964,7 +964,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖7年度總支出統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/7.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -984,7 +984,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖8活動方式一.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/8.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1009,7 +1009,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本項人力結構統計以無專職人員最多，有專職者職務以教師（館先生）為多，女性多於男性，年齡則以50-59歲與30-39歲為主。統計表與統計圖如下：</p>
 <p></p>
 <span>表8：人力結構（專職）：有無專職、職務類別、性別、年齡統計表</span>
-<img class="contentImg" src="./../../../assets/表8.png" alt="">
+<img class="contentImg" src="./../../../assets/8.png" alt="">
 <!-- <table  rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
 <tr>
@@ -1089,7 +1089,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖9專職人員統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/9.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1104,7 +1104,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖10職務類別統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/10.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1119,7 +1119,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖11性別統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/11.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1134,7 +1134,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img40" src="./../../../assets/ob16/圖12年齡統計圖.jpg" alt="" />
+        <img class="img40" src="./../../../assets/ob16/12.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1149,7 +1149,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人力結構的業餘或兼職問卷項目與專職相同。統計結果，職務類別是以學生、演員（樂員、館員）最多，其次則是教師（館先生）。其他者，補充說明為是團長、絃友、助教等，部分團體無專責行政，而是由團員協助處理。性別還是以女性居多。年齡分布以60-69歲者最多，其次是50-59歲、70-79歲居第三，人力年齡層還是以50歲以上者為主。統計表與統計圖如下：</p>
 <p></p>
 <span>表9：人力結構（業餘或兼職）：職務類別統計表</span>
-<img class="contentImg" src="./../../../assets/表9.png" alt="">
+<img class="contentImg" src="./../../../assets/9.png" alt="">
 
 <!-- <table  rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
@@ -1215,7 +1215,7 @@
 </table> -->
 <p></p>
 <span>表10：人力結構（業餘或兼職專職）：性別、年齡統計表</span>
-<img class="contentImg" src="./../../../assets/表10.png" alt="">
+<img class="contentImg" src="./../../../assets/10.png" alt="">
 
 <!-- <table  rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
@@ -1296,7 +1296,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖13職務類別統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/13.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1311,7 +1311,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖14性別統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/14.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1326,7 +1326,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖15年齡統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/15.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1342,7 +1342,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本項問卷統計以無專職最多。業餘或兼職部分，其他278人、推廣研習活動參與者276此二者最多，其他者，有部分團隊說明人力來源為團員介紹、朋友介紹、本庄人、外地人、非相關科系學生、原團員、其他團體前來協助、業餘、為開研習之前已加入、同好聚會、金門旅臺鄉親、招生、現有館員歷年自行招募、自發性、Facebook粉絲專業洽詢加入等。相關統計表與統計圖如下：</p>
 <p></p>
 <span>表11：人力來源（業餘或兼職）統計表</span>
-<img class="contentImg" src="./../../../assets/表11.png" alt="">
+<img class="contentImg" src="./../../../assets/11.png" alt="">
 
 <!-- <table  rules="all" border="1" style="border: 1px solid" cellpadding="5">
 <tbody>
@@ -1405,7 +1405,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖16來源類別統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/16.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1530,7 +1530,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖17傳播方式統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/17.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1625,7 +1625,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/圖18推廣研習活動之效益統計圖.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/18.jpg" alt="" />
       </td>
     </tr>
     <tr>
