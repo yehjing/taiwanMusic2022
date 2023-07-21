@@ -174,7 +174,7 @@
       <tbody>
         <tr>
           <td>
-            <img class="img45" src="./../../../assets/ob2/圖1：2022年北管音樂全年度活動分布比例.jpeg" alt="" />
+            <img class="img45" src="./../../../assets/ob2/18.jpeg" alt="" />
           </td>
         </tr>
         <tr>
@@ -236,7 +236,7 @@
       <tbody>
         <tr>
           <td>
-            <img class="img50" src="./../../../assets/ob2/圖2：2022年北管音樂展演活動分布比例.jpeg" alt="" />
+            <img class="img50" src="./../../../assets/ob2/19.jpeg" alt="" />
           </td>
         </tr>
         <tr>
@@ -398,7 +398,7 @@
 <tbody>
   <tr>
     <td>
-      <img class="img40" src="./../../../assets/ob2/1《紫台山》橋段（巫欣諭攝影）.jpg" alt="" />
+      <img class="img40" src="./../../../assets/ob2/1.jpg" alt="" />
     </td>
   </tr>
   <tr>
@@ -417,10 +417,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img80" src="./../../../assets/ob2/2 臺灣戲曲中心小表演廳場次之後場（臺北木偶劇團提供）.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/2.jpg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob2/3 《水鬼請戲》劇照（臺北木偶劇團提供）.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/3.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -448,7 +448,7 @@
 <tbody>
 <tr>
 <td>
-<img class="img40" src="./../../../assets/ob2/4 大甲鎮瀾宮開路鼓入廟（姜妤璇攝影）.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob2/4.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -465,10 +465,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img80" src="./../../../assets/ob2/5 台北共樂軒（鄭湘蓁攝影）.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/5.jpg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob2/6 板橋慈濟宮埔墘金龍團濟公禪師新廟建成入火陞座賜福遶境－桃園懿樂軒.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/6.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@
 <tbody>
 <tr>
 <td>
-<img class="img40" src="./../../../assets/ob2/7林口樂林園.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob2/7.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@
 <tbody>
 <tr>
 <td>
-<img class="img40" src="./../../../assets/ob2/圖10：2022年北管音樂全年度活動分布比例.jpeg" alt="" />
+<img class="img40" src="./../../../assets/ob2/20.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -579,10 +579,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img80" src="./../../../assets/ob2/8北威聲奏樂團.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/8.jpg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob2/9 北威聲奏樂團（鄭湘蓁攝影）.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/9.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -609,10 +609,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img80" src="./../../../assets/ob2/10瑞芳得意堂建堂100週年慶暨田都元帥聖誕平安遶境－新莊新樂園.jpeg" alt="" />
+<img class="img80" src="./../../../assets/ob2/10.jpeg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob2/11北管備選_淡水南北軒1.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/11.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -636,10 +636,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img80" src="./../../../assets/ob2/12稻江霞海城隍爺聖誕遶境－臺北靈安社.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/12.jpg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob2/13雞籠中元祭迎斗燈基隆聚樂社一組.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/13.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -652,10 +652,10 @@
 </tr>
 <tr>
 <td>
-<img class="img80" src="./../../../assets/ob2/14雞籠中元祭迎斗燈－西福交陣.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob2/14.jpg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob2/15雞籠中元祭放水燈三坑得意堂.jpeg" alt="" />
+<img class="img80" src="./../../../assets/ob2/15.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -724,7 +724,7 @@
 <tbody>
   <tr>
     <td>
-      <img class="img40" src="./../../../assets/ob2/圖19：2022年北管音樂全年度活動分布比例.jpeg" alt="" />
+      <img class="img40" src="./../../../assets/ob2/21.jpeg" alt="" />
     </td>
   </tr>
   <tr>
@@ -794,7 +794,7 @@
 <tbody>
   <tr>
     <td>
-      <img class="img40" src="./../../../assets/ob2/圖20：2022年北管音樂全年度活動分布比例.jpeg" alt="" />
+      <img class="img40" src="./../../../assets/ob2/22.jpeg" alt="" />
     </td>
   </tr>
   <tr>
@@ -824,10 +824,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img80" src="./../../../assets/ob2/16 《劈山救母》謝幕（臺北木偶劇團提供）.jpeg" alt="" />
+<img class="img80" src="./../../../assets/ob2/16.jpeg" alt="" />
 </td>
 <td>
-<img class="img80" src="./../../../assets/ob2/17《劈山救母》演後大合照（臺北木偶劇團提供）.jpeg" alt="" />
+<img class="img80" src="./../../../assets/ob2/17.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -893,7 +893,7 @@
 <tbody>
   <tr>
     <td>
-      <img class="img40" src="./../../../assets/ob2/圖23：2022年北管音樂全年度活動分布比例.jpeg" alt="" />
+      <img class="img40" src="./../../../assets/ob2/23.jpeg" alt="" />
     </td>
   </tr>
   <tr>
@@ -1348,7 +1348,7 @@
 <tbody>
   <tr>
     <td>
-      <img class="img40" src="./../../../assets/ob2/圖24：2022年北管音樂全年度活動分布比例.jpeg" alt="" />
+      <img class="img40" src="./../../../assets/ob2/24.jpeg" alt="" />
     </td>
   </tr>
   <tr>
@@ -1585,7 +1585,7 @@
 <tbody>
   <tr>
     <td>
-      <img class="img50" src="./../../../assets/ob2/圖25：2021年度北管音樂活動統計概算.jpeg" alt="" />
+      <img class="img50" src="./../../../assets/ob2/25.jpeg" alt="" />
     </td>
   </tr>
   <tr>
@@ -1600,7 +1600,7 @@
 <tbody>
   <tr>
     <td>
-      <img class="img50" src="./../../../assets/ob2/圖26：2022年度北管音樂活動統計概算.jpeg" alt="" />
+      <img class="img50" src="./../../../assets/ob2/26.jpeg" alt="" />
     </td>
   </tr>
   <tr>

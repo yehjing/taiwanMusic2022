@@ -13,7 +13,7 @@
 <tbody>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/客家專文covid圖.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/covid.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -213,13 +213,13 @@
 <tbody>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖1.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/1.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖2.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/2.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖3.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/3.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -235,13 +235,13 @@
 </tr>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖4.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/4.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖5.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/5.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖6.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/6.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -257,13 +257,13 @@
 </tr>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖7.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/7.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖8.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/8.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖9.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/9.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -292,13 +292,13 @@
 <tbody>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖10.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/10.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖11.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/11.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖12.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/12.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -314,13 +314,13 @@
 </tr>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖13.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/13.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖14.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/14.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖15.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/15.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖16.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/16.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖17.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/17.jpg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖18.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/18.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -358,13 +358,13 @@
 </tr>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖19.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/19.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖20.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/20.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖21.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/21.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -380,10 +380,10 @@
 </tr>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖22.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/22.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖23張良振.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/23.jpeg" alt="" />
 </td>
 <td>&nbsp;</td>
 </tr>
@@ -415,13 +415,13 @@
 <tbody>
 <tr>
 <td width="159">
-<img class="img70" src="./../../../assets/ob4/圖24.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/24.jpeg" alt="" />
 </td>
 <td width="184">
-<img class="img70" src="./../../../assets/ob4/圖25.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/25.jpeg" alt="" />
 </td>
 <td width="186">
-<img class="img70" src="./../../../assets/ob4/圖26.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/26.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -456,13 +456,13 @@
 <tbody>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖27.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/27.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖28.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/28.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖29.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/29.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -483,10 +483,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖30.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/30.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖31.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/31.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -515,7 +515,7 @@
       <tbody>
         <tr>
           <td>
-            <img class="img28" src="./../../../assets/ob4/圖32.jpg" alt="" />
+            <img class="img28" src="./../../../assets/ob4/32.jpg" alt="" />
           </td>
         </tr>
         <tr>
@@ -529,10 +529,10 @@
 <tbody>
 <tr>
 <td >
-            <img class="img70" src="./../../../assets/ob4/圖33.jpeg" alt="" />
+            <img class="img70" src="./../../../assets/ob4/33.jpeg" alt="" />
 </td>
 <td>
-            <img class="img70" src="./../../../assets/ob4/圖34.jpeg" alt="" />
+            <img class="img70" src="./../../../assets/ob4/34.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1239,10 +1239,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖35.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/35.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖36.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/36.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1260,7 +1260,7 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖37.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/37.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1274,13 +1274,13 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖38.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/38.jpg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖39.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/39.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖40.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/40.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1301,10 +1301,10 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖41.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/41.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖42.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/42.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1333,10 +1333,10 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖43.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/43.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖44.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/44.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1364,10 +1364,10 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖45.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/45.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖46.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/46.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1380,10 +1380,10 @@
 </tr>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖47.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/47.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖48.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/48.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1407,7 +1407,7 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖49.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/49.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1602,10 +1602,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖50.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/50.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖51.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/51.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1645,13 +1645,13 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖52.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/52.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖53.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/53.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖54.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/54.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1667,13 +1667,13 @@
 </tr>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖55.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/55.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖56.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/56.jpg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖57.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob4/57.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1710,10 +1710,10 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖58.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/58.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖59.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/59.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1735,13 +1735,13 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖60.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/60.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖61.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/61.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖62.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/62.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1772,13 +1772,13 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖63.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/63.jpeg" alt="" />
 </td>
 <td>
-<img class="img70" src="./../../../assets/ob4/圖64.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/64.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖65.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/65.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1803,13 +1803,13 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖66.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/66.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖67.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/67.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖68.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/68.jpeg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1844,13 +1844,13 @@
 <tbody>
 <tr>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖69.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/69.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖70.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/70.jpeg" alt="" />
 </td>
 <td >
-<img class="img70" src="./../../../assets/ob4/圖71.jpeg" alt="" />
+<img class="img70" src="./../../../assets/ob4/71.jpeg" alt="" />
 </td>
 </tr>
 <tr>

@@ -248,11 +248,11 @@
 <tbody>
 <tr>
 <td width="302">
-  <img class="img70" src="./../../../assets/ob9/圖1. 慈濟《靜思法髓妙蓮華》──謝幕曲《慈濟小行星》劇中畫面。（照片提供：財團法人慈濟傳播人文志業基金會）.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/1.jpg" alt="" />
 
 </td>
 <td width="302">
-  <img class="img70" src="./../../../assets/ob9/圖2. 慈濟《靜思法髓妙蓮華》──眾人踩著精心安排過的走位，高舉螢火蟲燈。（照片提供：慈濟基金會）.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/2.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@
 </tr>
 <tr>
 <td colspan="2" width="604">
-  <img class="img45" src="./../../../assets/ob9/圖3. 慈濟《靜思法髓妙蓮華》──《爐香讚》入場畫面。（照片提供：財團法人慈濟傳播人文志業基金會）.jpg" alt="" />
+  <img class="img45" src="./../../../assets/ob9/3.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -326,10 +326,10 @@
 <tbody>
 <tr>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖4. 慈濟浴佛大典──臺北臨濟護國禪寺，現場師父恭敬祈福。（照片提供：慈濟基金會）.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/4.jpg" alt="" />
 </td>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖5. 靈鷲山水陸法會──啟壇，法師擊鼓鳴鐘。.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/5.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -343,10 +343,10 @@
 </tr>
 <tr>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖6. 靈鷲山水陸法會──南傳壇，緬甸法師念誦儀軌（線上畫面）。.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/6.jpg" alt="" />
 </td>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖7. 靈鷲山水陸法會──內壇啟壇，靈鷲山開山住持心道法師及主法法師灑淨。.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/7.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -361,10 +361,10 @@
 </tr>
 <tr>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖8. 靈鷲山水陸法會──五大士焰口。（照片提供：財團法人靈鷲山佛教基金會）.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/8.jpg" alt="" />
 </td>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖9. 2022年法鼓山大悲心水陸法會──大壇。（照片提供：法鼓山文教基金會）.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/9.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -379,10 +379,10 @@
 </tr>
 <tr>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖10. 2022年法鼓山大悲心水陸法會──瑜伽焰口壇。（照片提供：法鼓山文教基金會）.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/10.jpg" alt="" />
 </td>
 <td width="331">
-  <img class="img70" src="./../../../assets/ob9/圖11. 2022年法鼓山大悲心水陸法會──法華壇。（照片提供：法鼓山文教基金會）.jpg" alt="" />
+  <img class="img70" src="./../../../assets/ob9/11.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -397,7 +397,7 @@
 </tr>
 <tr>
 <td colspan="2" width="662">
-  <img class="img45" src="./../../../assets/ob9/圖12. 2022年法鼓山大悲心水陸法會──地藏壇。（照片提供：法鼓山文教基金會）.jpg" alt="" />
+  <img class="img45" src="./../../../assets/ob9/12.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -710,7 +710,7 @@
 <tbody>
 <tr>
 <td width="547">
-        <img class="img45" src="./../../../assets/ob9/圖13. 民雄大士爺廟三朝法事科儀──午供。(照片提供：黃瑞村法師).jpg" alt="" />
+        <img class="img45" src="./../../../assets/ob9/13.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1146,7 +1146,7 @@
 <tbody>
 <tr>
 <td width="553">
-        <img class="img45" src="./../../../assets/ob9/圖14. 2022年慈濟歲末祝福──信眾一同祈福。.jpg" alt="" />
+        <img class="img45" src="./../../../assets/ob9/14.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1162,7 +1162,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img45" src="./../../../assets/ob9/圖15.  2022年臺灣佛教、釋教各類音樂活動比例圓餅圖.jpg" alt="" />
+        <img class="img45" src="./../../../assets/ob9/15.jpg" alt="" />
       </td>
     </tr>
     <tr>

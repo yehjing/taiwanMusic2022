@@ -248,7 +248,7 @@
 </table>
 </td>
 <td  class="tableCenter">
-  <img class="img70" src="./../../../assets/ob17/圖1：北管團體所在區域比例.jpeg" alt="" />
+  <img class="img70" src="./../../../assets/ob17/1.jpeg" alt="" />
 
 <p>圖1：北管團體所在區域比例</p>
 </td>
@@ -356,7 +356,7 @@
 </table>
 </td>
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/圖2：北管團體成立時間比例.jpeg" alt="" />
+  <img class="img55" src="./../../../assets/ob17/2.jpeg" alt="" />
 <p>圖2：北管團體成立時間比例</p>
 </td>
 </tr>
@@ -367,7 +367,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖3：北管團體成立時間分析.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/3.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -384,7 +384,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖4：北管團體立案情形分析.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/4.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -445,7 +445,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖5：北管團體使用Facebook比例.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/5.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -543,7 +543,7 @@
 </table>
 </td>
   <td  class="tableCenter">
-  <img class="img70" src="./../../../assets/ob17/圖6：北管團體年收入比例.jpeg" alt="" />
+  <img class="img70" src="./../../../assets/ob17/6.jpeg" alt="" />
 <p>圖6：北管團體年收入比例</p>
 </td>
 </tr>
@@ -554,7 +554,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖7：北管團體年收入類型統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/7.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -569,7 +569,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖8：北管團體年收入類型比例.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/8.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -665,7 +665,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/圖9：北管團體年支出比例.jpg" alt="" />
+  <img class="img55" src="./../../../assets/ob17/9.jpg" alt="" />
 <p>圖9：北管團體年支出比例</p>
 </td>
 </tr>
@@ -676,7 +676,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖10：北管團體年支出類型統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/10.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -691,7 +691,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖11：北管團體年支出類型比例.jpg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/11.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -763,7 +763,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/圖12：北管團體收支關係比例.jpeg" alt="" />
+  <img class="img55" src="./../../../assets/ob17/12.jpeg" alt="" />
 <p>圖12：北管團體收支關係比例</p>
 </td>
 </tr>
@@ -824,7 +824,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/圖13：職業_業餘北管團體比例.jpeg" alt="" />
+  <img class="img55" src="./../../../assets/ob17/13.jpeg" alt="" />
 <p>圖13：職業/業餘北管團體比例</p>
 </td>
 </tr>
@@ -915,7 +915,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/圖14：北管團體年度活動場次佔比.jpg" alt="" />
+  <img class="img55" src="./../../../assets/ob17/14.jpg" alt="" />
 <p>圖14：北管團體年度活動場次佔比</p>
 </td>
 </tr>
@@ -926,7 +926,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖15：北管團體活動類型統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/15.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -942,7 +942,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖16：北管團體練習頻率統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/16.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -958,7 +958,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖17：北管團體練習內容統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/17.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1025,7 +1025,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/圖18：北管團體有_無專職人員統計比例.jpeg" alt="" />
+  <img class="img55" src="./../../../assets/ob17/18.jpeg" alt="" />
 <p>圖18：北管團體有/無專職人員統計比例</p>
 </td>
 </tr>
@@ -1035,7 +1035,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖19：北管團體專職人員之性別與年齡分布統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/19.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1052,7 +1052,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖20：北管團體業餘或兼職人員之性別與年齡分布統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/20.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1068,7 +1068,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖21：北管團體專職_業餘人員之性別與年齡總計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/21.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1085,7 +1085,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖22：北管團體專職或業餘人員之來源統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/22.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1185,7 +1185,7 @@
 </table>
 </td>
 <td  class="tableCenter">
-  <img class="img70" src="./../../../assets/ob17/圖23：北管團體專職_業餘人力來源總計.jpeg" alt="" />
+  <img class="img70" src="./../../../assets/ob17/23.jpeg" alt="" />
 <p>圖23：北管團體專職/業餘人力來源總計</p>
 </td>
 </tr>
@@ -1198,7 +1198,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖24：北管團體傳播方式統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/24.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1214,7 +1214,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖25：北管團體推廣研習活動效益統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/25.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1230,7 +1230,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/圖26：北管團體面臨困境統計.jpeg" alt="" />
+        <img class="img70" src="./../../../assets/ob17/26.jpeg" alt="" />
       </td>
     </tr>
     <tr>

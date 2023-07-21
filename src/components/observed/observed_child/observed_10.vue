@@ -416,10 +416,10 @@
 <tbody>
 <tr>
 <td >
-<img class="img45" src="./../../../assets/ob10/1圖. 門生恭請壇中神明、歷代宗師仝作證明拜師禮.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/1.jpg" alt="" />
 </td>
 <td >
-<img class="img45" src="./../../../assets/ob10/2圖. 游宗樺道長期勉新收門生.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/2.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -448,10 +448,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob10/3圖. 游宗樺道長牽著門生劉瀚澤的手登上普檯坐座.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/3.jpg" alt="" />
 </td>
 <td>
-<img class="img45" src="./../../../assets/ob10/4圖. 劉瀚澤道長登座大普.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/4.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -473,10 +473,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob10/5圖. 温淞富道長行拜師茶禮.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/5.jpg" alt="" />
 </td>
 <td>
-<img class="img45" src="./../../../assets/ob10/6圖. 温淞富道長手持奏板與三炷香進行「造法橋」.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/6.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -500,10 +500,10 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob10/7圖. 賴文彬道長祭拜道法二門前傳口教歷代宗師.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/7.jpg" alt="" />
 </td>
 <td>
-<img class="img45" src="./../../../assets/ob10/8圖. 道長召引各式各樣的孤魂至壇前受度享食.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/8.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -529,10 +529,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/9圖. 王浤儒道長登上36層刀梯.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/9.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/10圖. 王浤儒道長從空中拋下筊杯.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/10.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -555,10 +555,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/11圖. 林青雲道長擔任本次登梯奏職之傳度師.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/11.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/12圖. 金澤震道長主行《普度》科儀.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/12.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -582,10 +582,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/13圖. 郭博玄道長下刀梯，眾人歡聲雷動。.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/13.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/14圖. 傳度奏職的五師.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/14.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -607,10 +607,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/15圖. 通引官持劍開禁房.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/15.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/16圖. 新科籙士孫溢泰道長主行《百神入醮三獻》.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/16.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -632,10 +632,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/17圖. 高石柱道長主行「登梯啟請傳度道場」.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/17.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/18圖. 新科籙士廖文福道長騎馬遊行.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/18.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -660,10 +660,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/19圖. 洪智強道長主行《開通冥路》科儀.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/19.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/20圖. 焚燒十二道的「陽平傳度公牒」.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/20.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -686,10 +686,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/21圖. 黃鼎壹道長擔任《打水車藏》的主行高功.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/21.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/22圖. 於水車藏前〈召營〉.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/22.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -712,10 +712,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/23圖. 李安雄道長主行《獻供》和《薦祖》.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/23.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/24圖. 灣裡林仲軒道長持火把於靈前分燈.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/24.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -735,10 +735,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/25圖. 李東芳道長主行功德《發表》.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/25.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/26圖. 陳建嘉道長主行《放赦》科儀.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/26.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -758,10 +758,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/27圖. 2天的功德法事有許多道友前來襄助.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/27.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/28圖. 《發表》科儀罕見的使用「玉壇行事」的儀式段.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/28.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -783,10 +783,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/29圖. 頒降赦書.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/29.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/30圖. 吳桂照道長向家屬唱出【別離親魂】 一曲.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/30.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -807,10 +807,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/31圖. 曾秋雄道長擔任《發表》科儀主行.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/31.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/32圖. 高功與司鼓一來一往言語之間敘述了前往地獄所見的諸多場景.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/32.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -831,10 +831,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/33圖. 《獻供》科儀中的獻香段.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/33.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/34圖. 陳榮守道長主行《登檯拜表》科儀.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/34.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -896,10 +896,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/35圖. 臺南和勝堂小法團進行《調營》.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/35.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/36圖. 東甲北極殿福倌進行《犒賞》.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/36.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -922,10 +922,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/37圖.臺南閭山協安壇一景.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/37.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/38圖. 歐進斌法師主行《調營》.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/38.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -952,10 +952,10 @@
 <tbody>
 <tr>
 <td width="279">
-<img class="img45" src="./../../../assets/ob10/39圖. 陳梅濤法司於天德方起鼓.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/39.jpg" alt="" />
 </td>
 <td width="363">
-<img class="img45" src="./../../../assets/ob10/40圖. 制煞戲.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/40.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -977,10 +977,10 @@
 <tbody>
 <tr>
 <td width="279">
-<img class="img45" src="./../../../assets/ob10/41圖. 乩身將龍神趕回家廟.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/41.jpg" alt="" />
 </td>
 <td width="363">
-<img class="img45" src="./../../../assets/ob10/42圖. 張輝權法司主行安龍.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/42.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1034,10 +1034,10 @@
 <tbody>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/43圖. 拋灑五穀.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/43.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/44圖. 淨油清淨家廟空間.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/44.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1050,10 +1050,10 @@
 </tr>
 <tr>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/45圖. 插柳招祥.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/45.jpg" alt="" />
 </td>
 <td width="321">
-<img class="img45" src="./../../../assets/ob10/46圖. 埋覆磚契.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/46.jpg" alt="" />
 </td>
 </tr>
 <tr>

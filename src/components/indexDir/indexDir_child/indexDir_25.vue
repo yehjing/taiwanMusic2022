@@ -97,6 +97,8 @@
 <td width="207">
 <p>大悅文化事業有限公司</p>
 </td>
+<td width="76">&nbsp;</td>
+
 </tr>
 </tbody>
 </table>
@@ -131,6 +133,7 @@
 <td width="207">
 <p>財團法人奇美博物館基金會</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -168,6 +171,7 @@
 <td width="207">
 <p>福爾摩沙合唱團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -266,6 +270,7 @@
 <td width="207">
 <p>榮興工作坊</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 <tr>
 <td width="265">
@@ -285,6 +290,7 @@
 <td width="207">
 <p>薪傳歌仔戲劇團</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -379,6 +385,7 @@
 <td width="208">
 <p>嬗</p>
 </td>
+<td width="76">&nbsp;</td>
 </tr>
 </tbody>
 </table>
