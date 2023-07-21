@@ -15,7 +15,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/1.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/1.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -413,7 +413,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/2.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/2.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -984,7 +984,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/8.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/8.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1089,7 +1089,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/9.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/9.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1119,7 +1119,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/11.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/11.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1311,7 +1311,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img50" src="./../../../assets/ob16/14.jpg" alt="" />
+        <img class="img50" src="./../../../assets/ob16/14.jpeg" alt="" />
       </td>
     </tr>
     <tr>
