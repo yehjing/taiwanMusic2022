@@ -11,7 +11,7 @@
 <h3>貳、團體數量</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本次問卷發放採電子檔、紙本並行，研究團隊徵詢118個團體之填寫意願後，共計發出86份，回收45份，回收率52%。問卷內容共分為基本資料、2022年活動與收支情況、人力結構與當前面臨問題等四個層面，共計19大題（合計29小題），題目形式包含單選、複選、問答題的結構式問卷。以下統計分析內容，為求行文之流暢，以下統計分析內容中所稱之「北管團體」概指填寫問卷之北管團體，是故全文中所指之「總數」，即指所收到之問卷總數45份。</p>
 
-<span>表1：2022「北管音樂團體基礎概況調查表」問卷團體（依筆劃排序）</span>
+<span>2022「北管音樂團體基礎概況調查表」問卷團體（依筆劃排序）</span>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5" >
 <tbody>
 <tr>
@@ -248,7 +248,7 @@
 </table>
 </td>
 <td  class="tableCenter">
-  <img class="img70" src="./../../../assets/ob17/1.jpeg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/1.jpg" alt="" />
 
 <p>圖1：北管團體所在區域比例</p>
 </td>
@@ -356,7 +356,7 @@
 </table>
 </td>
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/2.jpeg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/2.jpg" alt="" />
 <p>圖2：北管團體成立時間比例</p>
 </td>
 </tr>
@@ -367,7 +367,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/3.jpg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/3.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -384,7 +384,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/4.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/4.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -445,7 +445,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/5.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/5.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -543,7 +543,7 @@
 </table>
 </td>
   <td  class="tableCenter">
-  <img class="img70" src="./../../../assets/ob17/6.jpeg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/6.jpg" alt="" />
 <p>圖6：北管團體年收入比例</p>
 </td>
 </tr>
@@ -554,7 +554,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/7.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/7.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -569,7 +569,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/8.jpg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/8.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -665,7 +665,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/9.jpg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/9.jpg" alt="" />
 <p>圖9：北管團體年支出比例</p>
 </td>
 </tr>
@@ -691,12 +691,12 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/11.jpg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/11.jpg" alt="" />
       </td>
     </tr>
     <tr>
       <td class="tableCenter">
-        <p style="width:50%;margin:0 auto;" class="tableCenter">圖11：北管團體年支出類型比例</p>
+        <p class="tableCenter">圖11：北管團體年支出類型比例</p>
       </td>
     </tr>
   </tbody>
@@ -763,7 +763,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/12.jpeg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/12.jpg" alt="" />
 <p>圖12：北管團體收支關係比例</p>
 </td>
 </tr>
@@ -824,7 +824,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/13.jpeg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/13.jpg" alt="" />
 <p>圖13：職業/業餘北管團體比例</p>
 </td>
 </tr>
@@ -915,7 +915,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/14.jpg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/14.jpg" alt="" />
 <p>圖14：北管團體年度活動場次佔比</p>
 </td>
 </tr>
@@ -1025,7 +1025,7 @@
 </td>
 
 <td  class="tableCenter">
-  <img class="img55" src="./../../../assets/ob17/18.jpeg" alt="" />
+  <img class="img60" src="./../../../assets/ob17/18.jpg" alt="" />
 <p>圖18：北管團體有/無專職人員統計比例</p>
 </td>
 </tr>
