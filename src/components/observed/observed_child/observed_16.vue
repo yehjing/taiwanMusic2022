@@ -1104,7 +1104,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img55" src="./../../../assets/ob16/10.jpg" alt="" />
+        <img class="img65" src="./../../../assets/ob16/10.jpg" alt="" />
       </td>
     </tr>
     <tr>

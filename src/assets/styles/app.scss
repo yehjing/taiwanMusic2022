@@ -392,7 +392,7 @@ h4{
         >div{
           &:first-child{
             overflow: initial;
-            padding: 0;
+            padding: 15px;
           }
           // background: #fff;
           >div{
@@ -505,6 +505,11 @@ h4{
 .img63{
   display: block;
   width: 63%;
+  margin: 0 auto;
+}
+.img65{
+  display: block;
+  width: 65%;
   margin: 0 auto;
 }
 .img70{
