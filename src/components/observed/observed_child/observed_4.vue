@@ -196,6 +196,7 @@
 <li>半山謠：美濃客家八音團（溫福仁領奏）</li>
 <li>將軍令（含緊板）：深井新興軒北管八音團（劉育誠領奏）</li>
 </ol>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二輪曲目則在義民廟祭祀大典結束後，再次展開，曲目如下：</p>
 <ol style="list-style-position: inside;">
 <li>花鼓＋清晨早：關西祖傳隴西八音團（彭宏男領奏）</li>
@@ -209,6 +210,7 @@
 <li>大八板：深井新興軒北管八音團（江宥憲領奏）</li>
 <li>大團圓：九團合奏（關西祖傳隴西八音團領奏）</li>
 </ol>
+<p></p>
 <table class="imgCenter">
 <tbody>
 <tr>

@@ -64,7 +64,7 @@
         <li @click="hiddenMenu"><router-link :to="'/comment'">結論</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/indexDir'">附錄</router-link></li>
-        <li @click="hiddenMenu"><router-link :to="'/download'">2021臺灣音樂年鑑<br>全文下載</router-link></li>
+        <li @click="hiddenMenu"><router-link :to="'/download'">2022臺灣音樂年鑑<br>全文下載</router-link></li>
       </ul>
     </div>
     <div @click="hiddenMenu" v-if="isOpen" class="mask"></div>
