@@ -31,7 +31,7 @@
       </template>
       <div class="middleItem noLeaf" :class="activeName === 'indexDir_25' ? 'active' : ''"
         @click="clickLink('indexDir_25')">
-        第三十三屆傳藝金曲獎入圍暨得獎名單
+                <span>第三十三屆傳藝金曲獎入圍暨得獎名單</span>
       </div>
       <!-- <div class="middleItem noLeaf" :class="activeName === 'indexDir_02' ? 'active' :''" @click="clickLink('indexDir_02')">
         <span>第三十三屆傳藝金曲獎入圍暨得獎名單</span>
@@ -49,7 +49,7 @@
       </template> -->
       <div class="middleItem noLeaf" :class="activeName === 'indexDir_26' ? 'active' : ''"
         @click="clickLink('indexDir_26')">
-        南管音樂及北管音樂團體基礎概況調查表
+                <span>南管音樂及北管音樂團體基礎概況調查表</span>
       </div>
       <!-- <div class="middleItem noLeaf" :class="activeName === 'indexDir_03' ? 'active' :''" @click="clickLink('indexDir_03')">
         <span>南管音樂及北管音樂團體基礎概況調查表</span>

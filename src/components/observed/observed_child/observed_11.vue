@@ -374,6 +374,7 @@
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分析國樂資料的面向，以下將分為「展演活動」、「推廣教育」、「傳習活動」、「國際與兩岸交流」、「研究與出版」及「文化政策」等探討，主要以音樂會現場蹲點的實體調查方式進行分析，茲分述如下：</p>
 <h3>貳、展演活動</h3>
 <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
@@ -2705,7 +2706,7 @@
 </tr>
 </tbody>
 </table>
-
+<p></p>
 <ol start="2">
 <li><strong>期刊論文</strong>：今年共有5篇國樂相關期刊（表16），其中臺灣音樂學會出版之《臺灣音樂研究》共收錄2篇，包括孫俊彥（2022）〈古代琴絃音高的探索：明代禮樂制度的案例〉及賴宜絜（2022）〈論2000年代後古箏音樂中臺灣認同的崛起〉。國立臺灣師範大學音樂學院出版之《音樂研究》共收錄2篇，包括張儷瓊（2022）〈臺閩客潮曲牌一曲多版本的多元詮釋：以箏曲【靠山】、【寄生草】、【將軍令】、【大八板】為例〉、劉芛華（2022）〈從民國初年兩位琵琶樂人看琵琶音樂的繼承與變遷〉。國立臺南藝術大學出版之《南藝學報》收錄1篇，為施德玉（2022）的〈從田野調查觀察當代臺南民間國樂團的發展－以2007-2020普查資料為研究範圍〉。</li>
 </ol>
@@ -5298,6 +5299,7 @@
 <h3>玖、結語</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022年對整個社會來說是後疫情時代之瞬息萬變的一年，藝文產業於今年度亦逐漸復甦，當然國樂的活躍度亦比去年更蓬勃。雖然大家已習慣藉由網路線上直播或經典演出曲目重播，但網路音樂會無法讓人感受到其他人在觀賞時對音樂的情緒反應，更無法沉浸在現場氛圍中，享受彼此互動時樂聲帶來的撼動。故今年度恢復多場實體的展演活動，讓大家重溫舊夢，逐漸恢復疫情前的模式。另外前幾年因疫情而停辦的全國音樂比賽，今年終能如期舉行，讓學生及師長們更珍惜這個比賽。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而，今年度創作首演較去年的118首，足足增加了33首。觀察今年上半年度為27首，至下半年度則有124首，比上半年度多出了數倍。國樂的當代創作在短短5年，即有514首的新創樂曲取量，足見國樂在臺灣音樂領域日新月異的進步，呈現蓬勃盎然的朝氣。感謝臺灣音樂館提供的臺灣音樂年鑑計畫，讓學界能夠詳實記錄每年的新創樂曲及國樂的生態發展，成為音樂界珍貴的資料。</p>
+  <div style="text-align:left;word-break: break-all;">
 
 <h3>參考文獻</h3>
 <h3>網路資料</h3>
@@ -5306,12 +5308,11 @@
 <p>先嗇宮民族管弦樂團：https://www.facebook.com/cmusic2005/</p>
 <p>高雄春天藝術節：https://zh-tw.facebook.com/kaohsiungsaf/</p>
 <p>馬偕來台宣教150週年專網：https://mackay.au.edu.tw/</p>
-<p>新絲路（2022）：https://www. tco.gov.taipei/ News.aspx?n=912132576919BF91</p>
+<p>新絲路（2022）：https://www.tco.gov.taipei/News.aspx?n=912132576919BF91</p>
 <p>&amp;sms=2818C800A666CD75</p>
 <p>教育部大專校院校務資訊公開平臺：https://udb.moe.edu.tw/</p>
 <p>傳藝 online（2022）：https://magazine.ncfta.gov.tw/&nbsp;</p>
-<p>臺灣碩博士論文知識加值系統（2022）：</p>
-<p>https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ login?o=dwebmge&nbsp;</p>
+<p>臺灣碩博士論文知識加值系統（2022）：https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge&nbsp;</p>
 <p>2022大觀國際表演藝術節：https://www.daguanfestival.org/</p>
 <p>2022TIFA台灣國際藝術節：https://cacaomag.co/2022tifa/</p>
 <p>2022年金門坑道音樂節：https://www.facebook.com/KinmenTunnelMusicFestival/</p>
@@ -5323,6 +5324,7 @@
 <p>2022臺南國際音樂節：http://tainanmusicfest.tainan.gov.tw/</p>
 <p>2022羅東藝穗節：https://www.facebook.com/hashtag/2022羅東藝穗節</p>
 <p>PAR 表演藝術（2022）：https://par.npac-ntch.org/tw/publish/listMagazine</p>
+  </div>
 <p><strong>五、其他</strong></p>
 <p>小巨人絲竹樂團（2022）。內部資料。小巨人絲竹樂團提供。</p>
 <p>中華民國國樂學會（2022）。內部資料。中華民國國樂學會提供。</p>
