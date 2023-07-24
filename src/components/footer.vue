@@ -19,7 +19,7 @@
           <img width="120" src="./../assets/ai2.png" alt />
           <!-- <span>&nbsp;&nbsp;中華民國國樂學會</span> -->
         </div>
-        <p>©2022國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
+        <p>©2023國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
         <p><router-link :to="'/know'">著作權聲明</router-link></p>
       </div>
     </div>
