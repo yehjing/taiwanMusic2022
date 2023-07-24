@@ -5310,8 +5310,7 @@
 <p>先嗇宮民族管弦樂團：https://www.facebook.com/cmusic2005/</p>
 <p>高雄春天藝術節：https://zh-tw.facebook.com/kaohsiungsaf/</p>
 <p>馬偕來台宣教150週年專網：https://mackay.au.edu.tw/</p>
-<p>新絲路（2022）：https://www.tco.gov.taipei/News.aspx?n=912132576919BF91</p>
-<p>&amp;sms=2818C800A666CD75</p>
+<p>新絲路（2022）：https://www.tco.gov.taipei/News.aspx?n=912132576919BF91&sms=2818C800A666CD75</p>
 <p>教育部大專校院校務資訊公開平臺：https://udb.moe.edu.tw/</p>
 <p>傳藝 online（2022）：https://magazine.ncfta.gov.tw/&nbsp;</p>
 <p>臺灣碩博士論文知識加值系統（2022）：https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge&nbsp;</p>
