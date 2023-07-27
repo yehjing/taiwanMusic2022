@@ -441,10 +441,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/1.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/1.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/2.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/2.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -460,10 +460,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/3.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/3.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/4.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/4.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -857,10 +857,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/5.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/5.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/6.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/6.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -876,10 +876,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/7.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/7.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/8.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/8.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1235,10 +1235,10 @@
 <tbody>
   <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/9.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/9.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/10.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/10.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1254,10 +1254,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/11.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/11.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/12.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/12.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1581,10 +1581,10 @@
 <tbody>
   <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/13.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/13.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/14.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/14.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1600,10 +1600,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/15.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/15.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/16.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/16.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1623,10 +1623,10 @@
 <tbody>
   <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/17.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/17.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/18.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/18.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1639,10 +1639,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/19.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/19.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/20.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/20.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1663,10 +1663,10 @@
 <tbody>
   <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/21.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/21.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/22.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/22.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1679,10 +1679,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/23.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/23.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/24.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/24.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1911,10 +1911,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/25.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/25.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/26.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/26.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -1931,10 +1931,10 @@
 </tr>
 <tr>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/27.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/27.jpg" alt="" />
 </td>
 <td width="277">
-<img class="img45" src="./../../../assets/ob15/28.jpg" alt="" />
+<img class="img70" src="./../../../assets/ob15/28.jpg" alt="" />
 </td>
 </tr>
 <tr>

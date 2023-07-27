@@ -615,7 +615,7 @@
       <tbody>
         <tr>
           <td class="tableCenter">
-            <img class="contentImg" src="./../../../assets/comment1/1.jpg" alt="" />
+            <img class="img70" src="./../../../assets/comment1/1.jpg" alt="" />
           </td>
         </tr>
         <tr>
