@@ -268,14 +268,18 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" width="604">
-  <img class="img45" src="./../../../assets/ob9/3.jpg" alt="" />
+<td  width="604">
+  <img class="img70" src="./../../../assets/ob9/3.jpg" alt="" />
+</td>
+<td  width="604">
 </td>
 </tr>
 <tr>
-<td colspan="2" width="604">
+<td  width="604">
 <p>圖3：慈濟《靜思法髓妙蓮華》──《爐香讚》入場畫面</p>
 <p>（照片提供：財團法人慈濟傳播人文志業基金會）</p>
+</td>
+<td  width="604">
 </td>
 </tr>
 </tbody>
@@ -399,14 +403,18 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" width="662">
-  <img class="img45" src="./../../../assets/ob9/12.jpg" alt="" />
+<td width="662">
+  <img class="img70" src="./../../../assets/ob9/12.jpg" alt="" />
+</td>
+<td width="662">
 </td>
 </tr>
 <tr>
-<td colspan="2" width="662">
+<td width="662">
 <p>圖12：2022年法鼓山大悲心水陸法會──地藏壇</p>
 <p>（照片提供：法鼓山文教基金會）</p>
+</td>
+<td width="662">
 </td>
 </tr>
 </tbody>

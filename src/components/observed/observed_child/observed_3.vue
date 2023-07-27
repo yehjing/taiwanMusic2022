@@ -409,7 +409,7 @@
   <tbody>
     <tr>
       <td>
-        <img class="img70" src="./../../../assets/ob3/img2.jpg" alt="" />
+        <img class="img55" src="./../../../assets/ob3/img2.jpg" alt="" />
       </td>
     </tr>
     <tr>
@@ -623,7 +623,7 @@
 <tbody>
 <tr>
 <td>
-<img class="img45" src="./../../../assets/ob3/1.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob3/1.jpg" alt="" />
 </td>
 <td>
 <img class="img80" src="./../../../assets/ob3/2.jpg" alt="" />
@@ -648,32 +648,32 @@
 <td width="283">
 <img class="img80" src="./../../../assets/ob3/3.jpg" alt="" />
 </td>
-<td width="279">
-<img class="img45" src="./../../../assets/ob3/4.jpg" alt="" />
-</td>
+<td width="279">&nbsp;</td>
+
 </tr>
 <tr>
 <td width="283">
 <p>圖3：滿州民謠協會10/1在臺北市新北投火車站前的快閃演出（李毓芳攝影）</p>
 </td>
+<td width="279">&nbsp;</td>
+
+</tr>
+
+<tr>
+<td width="279">
+<img class="img60" src="./../../../assets/ob3/4.jpg" alt="" />
+</td>
+<td width="283">
+<img class="img71" src="./../../../assets/ob3/5.jpg" alt="" />
+</td>
+</tr>
+<tr>
 <td width="279">
 <p>圖4：演出結束後，一時興起演出一段的張日貴阿嬤（李毓芳攝影）</p>
 </td>
-</tr>
-<tr>
-<td width="279">&nbsp;</td>
-</tr>
-<tr>
-<td width="283">
-<img class="img45" src="./../../../assets/ob3/5.jpg" alt="" />
-</td>
-<td width="279">&nbsp;</td>
-</tr>
-<tr>
 <td width="283">
 <p>圖5：滿州民謠協會10/1在臺北市北投梅庭庭園大樹下的演出（李毓芳攝影）</p>
 </td>
-<td width="279">&nbsp;</td>
 </tr>
 </tbody>
 </table>

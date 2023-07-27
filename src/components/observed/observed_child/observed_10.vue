@@ -952,10 +952,10 @@
 <tbody>
 <tr>
 <td width="279">
-<img class="img71" src="./../../../assets/ob10/39.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob10/39.jpg" alt="" />
 </td>
 <td width="363">
-<img class="img71" src="./../../../assets/ob10/40.jpg" alt="" />
+<img class="img63" src="./../../../assets/ob10/40.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -977,10 +977,10 @@
 <tbody>
 <tr>
 <td width="279">
-<img class="img71" src="./../../../assets/ob10/41.jpg" alt="" />
+<img class="img80" src="./../../../assets/ob10/41.jpg" alt="" />
 </td>
 <td width="363">
-<img class="img71" src="./../../../assets/ob10/42.jpg" alt="" />
+<img class="img63" src="./../../../assets/ob10/42.jpg" alt="" />
 </td>
 </tr>
 <tr>
