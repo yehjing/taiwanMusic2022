@@ -247,7 +247,14 @@
 </tbody>
 </table>
 </td>
-<td  class="tableCenter">
+<td v-if="!isMobile" class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/1.jpg" alt="" />
+
+<p>圖1：北管團體所在區域比例</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/1.jpg" alt="" />
 
 <p>圖1：北管團體所在區域比例</p>
@@ -355,8 +362,15 @@
 </tbody>
 </table>
 </td>
-<td  class="tableCenter">
+<td v-if="!isMobile" class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/2.jpg" alt="" />
+<p>圖2：北管團體成立時間比例</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/2.jpg" alt="" />
+
 <p>圖2：北管團體成立時間比例</p>
 </td>
 </tr>
@@ -542,8 +556,15 @@
 </tbody>
 </table>
 </td>
+  <td v-if="!isMobile" class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/6.jpg" alt="" />
+<p>圖6：北管團體年收入比例</p>
+</td>
+</tr>
+<tr v-if="isMobile">
   <td  class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/6.jpg" alt="" />
+
 <p>圖6：北管團體年收入比例</p>
 </td>
 </tr>
@@ -664,8 +685,15 @@
 </table>
 </td>
 
-<td  class="tableCenter">
+<td  v-if="!isMobile" class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/9.jpg" alt="" />
+<p>圖9：北管團體年支出比例</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/9.jpg" alt="" />
+
 <p>圖9：北管團體年支出比例</p>
 </td>
 </tr>
@@ -762,8 +790,15 @@
 </table>
 </td>
 
-<td  class="tableCenter">
+<td v-if="!isMobile" class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/12.jpg" alt="" />
+<p>圖12：北管團體收支關係比例</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/12.jpg" alt="" />
+
 <p>圖12：北管團體收支關係比例</p>
 </td>
 </tr>
@@ -823,8 +858,15 @@
 </table>
 </td>
 
-<td  class="tableCenter">
+<td v-if="!isMobile" class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/13.jpg" alt="" />
+<p>圖13：職業/業餘北管團體比例</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/13.jpg" alt="" />
+
 <p>圖13：職業/業餘北管團體比例</p>
 </td>
 </tr>
@@ -914,8 +956,15 @@
 </table>
 </td>
 
-<td  class="tableCenter">
+<td v-if="!isMobile" class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/14.jpg" alt="" />
+<p>圖14：北管團體年度活動場次佔比</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/14.jpg" alt="" />
+
 <p>圖14：北管團體年度活動場次佔比</p>
 </td>
 </tr>
@@ -1024,8 +1073,15 @@
 </table>
 </td>
 
-<td  class="tableCenter">
+<td  v-if="!isMobile" class="tableCenter">
   <img class="img60" src="./../../../assets/ob17/18.jpg" alt="" />
+<p>圖18：北管團體有/無專職人員統計比例</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/18.jpg" alt="" />
+
 <p>圖18：北管團體有/無專職人員統計比例</p>
 </td>
 </tr>
@@ -1184,8 +1240,15 @@
 </tbody>
 </table>
 </td>
-<td  class="tableCenter">
+<td v-if="!isMobile" class="tableCenter">
   <img class="img70" src="./../../../assets/ob17/23.jpeg" alt="" />
+<p>圖23：北管團體專職/業餘人力來源總計</p>
+</td>
+</tr>
+<tr v-if="isMobile">
+  <td  class="tableCenter">
+  <img class="img60" src="./../../../assets/ob17/23.jpeg" alt="" />
+
 <p>圖23：北管團體專職/業餘人力來源總計</p>
 </td>
 </tr>
@@ -1676,3 +1739,14 @@
 </small>
   </div>
 </template>
+
+<script>
+
+export default {
+  computed: {
+    isMobile() {
+      return document.body.clientWidth <= 576
+    },
+  },
+};
+</script>
