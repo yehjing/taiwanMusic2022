@@ -1459,15 +1459,15 @@
                 </tr>
               </tbody>
             </table>
-            <p  style="display:inline-block;width:100%;font-size:12px;text-align:center;">
+            <p  style="display:inline-block;width:100%;font-size:12px;text-align:center; margin-bottom: 20px;">
               圖說：國立臺灣戲曲學院青年劇團參與臺北市客家義民節活動（文化場），演出當日後場隊「武場」編配五人，「文場」編配六人。<br>（林曉英拍攝於「2022台北客家義民嘉年華」，2022/10/22）
             </p>
-            <table class="imgCenter">
+            <table class="imgCenter" style="margin-bottom: 20px;">
               <tbody>
                 <tr>
                   <td>
                     <img
-                      class="img70"
+                      class="img35"
                       src="./../../../assets/ob4/37.jpg"
                       alt=""
                     />
@@ -1530,7 +1530,7 @@
                 </tr>
               </tbody>
             </table>
-            <p style="text-align:center">
+            <p style="text-align:center;margin-bottom: 20px;">
               圖說：民間劇團演出民戲常見「一文一武」的樂隊編配，文場採用電子琴並不少見，而武場打擊也頗常見到配置爵士鼓。<br />（林曉英攝影，2022/08/17新竹義民祭與2022/07/09新竹北埔福德宮）
             </p>
             <table class="imgCenter">
@@ -1691,7 +1691,7 @@
       <tbody>
         <tr>
           <td>
-            <img class="img70" src="./../../../assets/ob4/49.jpeg" alt="" />
+            <img class="img35" src="./../../../assets/ob4/49.jpeg" alt="" />
           </td>
         </tr>
         <tr>
@@ -1971,7 +1971,7 @@
 </tr>
 <tr>
 <td width="245">
-<p>圖52</p>
+<p>圖52：苗栗客家圓樓</p>
 </td>
 <td width="255">
 <p>圖53</p>
@@ -2060,7 +2060,7 @@
                 </tr>
               </tbody>
             </table>
-            <p style="text-align:center">
+            <p style="text-align:center;margin-bottom:20px;">
               圖說：平鎮「1895乙未保台紀念公園」一景。（林曉英攝影，2021/11/27於平鎮）
             </p>
           </td>
@@ -2070,14 +2070,14 @@
             <table class="imgCenter">
               <tbody>
                 <tr>
-                  <td>
+                  <td style="width:50%">
                     <img
-                      class="img50"
+                      class="img70"
                       src="./../../../assets/ob4/60.jpeg"
                       alt=""
                     />
                   </td>
-                  <td>
+                  <td style="width:50%">
                     <img
                       class="img70"
                       src="./../../../assets/ob4/61.jpeg"

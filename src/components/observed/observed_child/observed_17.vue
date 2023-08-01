@@ -704,7 +704,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/10.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/10.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -975,7 +975,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/15.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/15.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -991,7 +991,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/16.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/16.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1007,7 +1007,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/17.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/17.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1091,7 +1091,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/19.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/19.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1108,7 +1108,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/20.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/20.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1124,7 +1124,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/21.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/21.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1141,7 +1141,7 @@
   <tbody>
     <tr>
       <td class="tableCenter">
-        <img class="img70" src="./../../../assets/ob17/22.jpeg" alt="" />
+        <img class="img55" src="./../../../assets/ob17/22.jpeg" alt="" />
       </td>
     </tr>
     <tr>
@@ -1241,7 +1241,7 @@
 </table>
 </td>
 <td v-if="!isMobile" class="tableCenter">
-  <img class="img70" src="./../../../assets/ob17/23.jpeg" alt="" />
+  <img class="img55" src="./../../../assets/ob17/23.jpeg" alt="" />
 <p>圖23：北管團體專職/業餘人力來源總計</p>
 </td>
 </tr>

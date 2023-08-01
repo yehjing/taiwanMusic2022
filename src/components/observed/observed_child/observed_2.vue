@@ -174,7 +174,7 @@
       <tbody>
         <tr>
           <td>
-            <img class="img45" src="./../../../assets/ob2/18.jpeg" alt="" />
+            <img class="img30" src="./../../../assets/ob2/18.jpeg" alt="" />
           </td>
         </tr>
         <tr>
@@ -184,6 +184,7 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
 <!-- <p>圖1：2022年北管音樂全年度活動分布比例</p> -->
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;實際上，根據筆者第一線觀察所見，大部分北管音樂活動因其屬性、目的、經費來源等諸多因素，皆可同時包含不同類別之活動性質，惟未避免一則活動多個分類所造成之數字重複計算，筆者僅根據個別內容之類別重要程度，進行單一類別歸納。例如，受官方補助之北管傳習班課程，於本文中歸類於「傳習」一類，而非「文化政策」；或如於國外發生之相關活動，實則為「展演」或「推廣」性質，於本文中筆者將之歸屬於「國際與兩岸交流」一類，以凸顯其海外交流之重要性。</p>
 <strong>二、活動取消紀錄</strong>
@@ -236,7 +237,7 @@
       <tbody>
         <tr>
           <td>
-            <img class="img50" src="./../../../assets/ob2/19.jpeg" alt="" />
+            <img class="img40" src="./../../../assets/ob2/19.jpeg" alt="" />
           </td>
         </tr>
         <tr>
@@ -556,7 +557,7 @@
 <tbody>
 <tr>
 <td>
-<img class="img40" src="./../../../assets/ob2/20.jpeg" alt="" />
+<img class="img30" src="./../../../assets/ob2/20.jpeg" alt="" />
 </td>
 </tr>
 <tr>
